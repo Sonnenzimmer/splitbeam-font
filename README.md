@@ -6,7 +6,7 @@ splitbeam is an OpenType font that have been designed to work in the user interf
 * All code related files are dual-licensed under the [BSD 2-Clause license](http://choosealicense.com/licenses/bsd/) and the [GPL v3](http://choosealicense.com/licenses/gpl-v3/).
 
 ### Initial Authors
-* Design & Concept: [Sonnenzimmer, Chicago](http://sonnenzimmmer.com)
+* Design & Concept: [Sonnenzimmer, Chicago](http://sonnenzimmer.com)
 * Font Engineering: [Signalwerk, Zurich](http://signalwerk.ch)
 
 ### Getting Involved
