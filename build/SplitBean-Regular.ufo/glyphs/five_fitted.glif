@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.fitted" format="1">
+  <advance width="964"/>
+  <unicode hex="F63D"/>
+  <outline>
+    <contour>
+      <point x="839" y="790" type="line"/>
+      <point x="824" y="51" type="line"/>
+      <point x="515" y="-45" type="line"/>
+      <point x="132" y="41" type="line"/>
+      <point x="167" y="198" type="line"/>
+      <point x="508" y="121" type="line"/>
+      <point x="666" y="170" type="line"/>
+      <point x="675" y="630" type="line"/>
+      <point x="130" y="630" type="line"/>
+      <point x="130" y="1400" type="line"/>
+      <point x="799" y="1400" type="line"/>
+      <point x="799" y="1240" type="line"/>
+      <point x="290" y="1240" type="line"/>
+      <point x="290" y="790" type="line"/>
+    </contour>
+  </outline>
+</glyph>

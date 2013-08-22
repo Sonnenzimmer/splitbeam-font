@@ -1,204 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblright" format="1">
-  <advance width="524"/>
+  <advance width="624"/>
   <unicode hex="201D"/>
   <outline>
     <contour>
-      <point x="-39" y="1264" type="line"/>
-      <point x="25" y="1406" type="line"/>
-      <point x="25" y="1482" type="line"/>
-      <point x="164" y="1482" type="line"/>
-      <point x="164" y="1376" type="line"/>
-      <point x="89" y="1207" type="line"/>
+      <point x="-89" y="1264" type="line"/>
+      <point x="-25" y="1406" type="line"/>
+      <point x="-25" y="1482" type="line"/>
+      <point x="114" y="1482" type="line"/>
+      <point x="114" y="1376" type="line"/>
+      <point x="39" y="1207" type="line"/>
     </contour>
     <contour>
-      <point x="196" y="1264" type="line"/>
-      <point x="260" y="1406" type="line"/>
-      <point x="260" y="1482" type="line"/>
-      <point x="399" y="1482" type="line"/>
-      <point x="399" y="1376" type="line"/>
-      <point x="324" y="1207" type="line"/>
+      <point x="146" y="1264" type="line"/>
+      <point x="210" y="1406" type="line"/>
+      <point x="210" y="1482" type="line"/>
+      <point x="349" y="1482" type="line"/>
+      <point x="349" y="1376" type="line"/>
+      <point x="274" y="1207" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.fontlab.mark</key>
-      <integer>80</integer>
-      <key>org.robofab.fontlab.maskData</key>
-      <array>
-        <dict>
-          <key>method</key>
-          <string>beginPath</string>
-        </dict>
-        <dict>
-          <key>method</key>
-          <string>addPoint</string>
-          <key>pt</key>
-          <array>
-            <integer>-39</integer>
-            <integer>1264</integer>
-          </array>
-          <key>segmentType</key>
-          <string>line</string>
-          <key>smooth</key>
-          <false/>
-        </dict>
-        <dict>
-          <key>method</key>
-          <string>addPoint</string>
-          <key>pt</key>
-          <array>
-            <integer>25</integer>
-            <integer>1406</integer>
-          </array>
-          <key>segmentType</key>
-          <string>line</string>
-          <key>smooth</key>
-          <false/>
-        </dict>
-        <dict>
-          <key>method</key>
-          <string>addPoint</string>
-          <key>pt</key>
-          <array>
-            <integer>25</integer>
-            <integer>1482</integer>
-          </array>
-          <key>segmentType</key>
-          <string>line</string>
-          <key>smooth</key>
-          <false/>
-        </dict>
-        <dict>
-          <key>method</key>
-          <string>addPoint</string>
-          <key>pt</key>
-          <array>
-            <integer>164</integer>
-            <integer>1482</integer>
-          </array>
-          <key>segmentType</key>
-          <string>line</string>
-          <key>smooth</key>
-          <false/>
-        </dict>
-        <dict>
-          <key>method</key>
-          <string>addPoint</string>
-          <key>pt</key>
-          <array>
-            <integer>164</integer>
-            <integer>1376</integer>
-          </array>
-          <key>segmentType</key>
-          <string>line</string>
-          <key>smooth</key>
-          <false/>
-        </dict>
-        <dict>
-          <key>method</key>
-          <string>addPoint</string>
-          <key>pt</key>
-          <array>
-            <integer>89</integer>
-            <integer>1207</integer>
-          </array>
-          <key>segmentType</key>
-          <string>line</string>
-          <key>smooth</key>
-          <false/>
-        </dict>
-        <dict>
-          <key>method</key>
-          <string>endPath</string>
-        </dict>
-        <dict>
-          <key>method</key>
-          <string>beginPath</string>
-        </dict>
-        <dict>
-          <key>method</key>
-          <string>addPoint</string>
-          <key>pt</key>
-          <array>
-            <integer>196</integer>
-            <integer>1264</integer>
-          </array>
-          <key>segmentType</key>
-          <string>line</string>
-          <key>smooth</key>
-          <false/>
-        </dict>
-        <dict>
-          <key>method</key>
-          <string>addPoint</string>
-          <key>pt</key>
-          <array>
-            <integer>260</integer>
-            <integer>1406</integer>
-          </array>
-          <key>segmentType</key>
-          <string>line</string>
-          <key>smooth</key>
-          <false/>
-        </dict>
-        <dict>
-          <key>method</key>
-          <string>addPoint</string>
-          <key>pt</key>
-          <array>
-            <integer>260</integer>
-            <integer>1482</integer>
-          </array>
-          <key>segmentType</key>
-          <string>line</string>
-          <key>smooth</key>
-          <false/>
-        </dict>
-        <dict>
-          <key>method</key>
-          <string>addPoint</string>
-          <key>pt</key>
-          <array>
-            <integer>399</integer>
-            <integer>1482</integer>
-          </array>
-          <key>segmentType</key>
-          <string>line</string>
-          <key>smooth</key>
-          <false/>
-        </dict>
-        <dict>
-          <key>method</key>
-          <string>addPoint</string>
-          <key>pt</key>
-          <array>
-            <integer>399</integer>
-            <integer>1376</integer>
-          </array>
-          <key>segmentType</key>
-          <string>line</string>
-          <key>smooth</key>
-          <false/>
-        </dict>
-        <dict>
-          <key>method</key>
-          <string>addPoint</string>
-          <key>pt</key>
-          <array>
-            <integer>324</integer>
-            <integer>1207</integer>
-          </array>
-          <key>segmentType</key>
-          <string>line</string>
-          <key>smooth</key>
-          <false/>
-        </dict>
-        <dict>
-          <key>method</key>
-          <string>endPath</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.fitted" format="1">
+  <advance width="937"/>
+  <unicode hex="F639"/>
+  <outline>
+    <contour>
+      <point x="787" y="50" type="line"/>
+      <point x="478" y="-45" type="line"/>
+      <point x="150" y="15" type="line"/>
+      <point x="150" y="1334" type="line"/>
+      <point x="396" y="1445" type="line"/>
+      <point x="787" y="1344" type="line"/>
+    </contour>
+    <contour>
+      <point x="627" y="1220" type="line"/>
+      <point x="411" y="1276" type="line"/>
+      <point x="310" y="1231" type="line"/>
+      <point x="310" y="149" type="line"/>
+      <point x="468" y="119" type="line"/>
+      <point x="627" y="168" type="line"/>
+    </contour>
+  </outline>
+</glyph>

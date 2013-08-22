@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="o" format="1">
-  <advance width="1063"/>
+  <advance width="1163"/>
   <unicode hex="006F"/>
   <outline>
-    <component base="O"/>
+    <contour>
+      <point x="150" y="1319" type="line"/>
+      <point x="150" y="59" type="line"/>
+      <point x="770" y="-45" type="line"/>
+      <point x="1013" y="82" type="line"/>
+      <point x="1013" y="1342" type="line"/>
+      <point x="393" y="1445" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="1221" type="line"/>
+      <point x="419" y="1278" type="line"/>
+      <point x="853" y="1206" type="line"/>
+      <point x="853" y="179" type="line"/>
+      <point x="744" y="122" type="line"/>
+      <point x="310" y="195" type="line"/>
+    </contour>
   </outline>
 </glyph>

@@ -224,6 +224,8 @@
 	<string>egrave.glif</string>
 	<key>eight</key>
 	<string>eight.glif</string>
+	<key>eight.fitted</key>
+	<string>eight_fitted.glif</string>
 	<key>ellipsis</key>
 	<string>ellipsis.glif</string>
 	<key>emdash</key>
@@ -236,14 +238,20 @@
 	<string>eth.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
+	<key>exclamdown</key>
+	<string>exclamdown.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
+	<key>five.fitted</key>
+	<string>five_fitted.glif</string>
 	<key>florin</key>
 	<string>florin.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
+	<key>four.fitted</key>
+	<string>four_fitted.glif</string>
 	<key>fraction</key>
 	<string>fraction.glif</string>
 	<key>g</key>
@@ -260,6 +268,8 @@
 	<string>guillemotright.glif</string>
 	<key>guilsinglleft</key>
 	<string>guilsinglleft.glif</string>
+	<key>guilsinglright</key>
+	<string>guilsinglright.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
 	<key>hungarumlaut</key>
@@ -298,6 +308,8 @@
 	<string>n.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
+	<key>nine.fitted</key>
+	<string>nine_fitted.glif</string>
 	<key>ntilde</key>
 	<string>ntilde.glif</string>
 	<key>numbersign</key>
@@ -316,6 +328,8 @@
 	<string>ograve.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
+	<key>one.fitted</key>
+	<string>one_fitted.glif</string>
 	<key>ordfeminine</key>
 	<string>ordfeminine.glif</string>
 	<key>oslash</key>
@@ -372,14 +386,20 @@
 	<string>ring.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
+	<key>scaron</key>
+	<string>scaron.glif</string>
 	<key>section</key>
 	<string>section.glif</string>
 	<key>semicolon</key>
 	<string>semicolon.glif</string>
 	<key>seven</key>
 	<string>seven.glif</string>
+	<key>seven.fitted</key>
+	<string>seven_fitted.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
+	<key>six.fitted</key>
+	<string>six_fitted.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
 	<key>space</key>
@@ -392,12 +412,16 @@
 	<string>thorn.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
+	<key>three.fitted</key>
+	<string>three_fitted.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
+	<key>two.fitted</key>
+	<string>two_fitted.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
 	<key>uacute</key>
@@ -426,7 +450,11 @@
 	<string>yen.glif</string>
 	<key>z</key>
 	<string>z.glif</string>
+	<key>zcaron</key>
+	<string>zcaron.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
+	<key>zero.fitted</key>
+	<string>zero_fitted.glif</string>
 </dict>
 </plist>

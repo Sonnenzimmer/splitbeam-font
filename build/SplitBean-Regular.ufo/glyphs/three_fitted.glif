@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.fitted" format="1">
+  <advance width="955"/>
+  <unicode hex="F63B"/>
+  <outline>
+    <contour>
+      <point x="805" y="90" type="line"/>
+      <point x="569" y="-45" type="line"/>
+      <point x="100" y="59" type="line"/>
+      <point x="129" y="210" type="line"/>
+      <point x="542" y="116" type="line"/>
+      <point x="651" y="179" type="line"/>
+      <point x="651" y="636" type="line"/>
+      <point x="313" y="636" type="line"/>
+      <point x="313" y="790" type="line"/>
+      <point x="651" y="790" type="line"/>
+      <point x="651" y="1221" type="line"/>
+      <point x="542" y="1284" type="line"/>
+      <point x="168" y="1190" type="line"/>
+      <point x="139" y="1341" type="line"/>
+      <point x="569" y="1445" type="line"/>
+      <point x="805" y="1310" type="line"/>
+    </contour>
+  </outline>
+</glyph>

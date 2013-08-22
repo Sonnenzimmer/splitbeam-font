@@ -168,6 +168,8 @@
 		<string>Udieresis</string>
 		<string>colon</string>
 		<string>fraction</string>
+		<string>guilsinglright</string>
+		<string>exclamdown</string>
 		<string>a</string>
 		<string>b</string>
 		<string>c</string>
@@ -225,6 +227,18 @@
 		<string>thorn</string>
 		<string>oslash</string>
 		<string>ydieresis</string>
+		<string>zcaron</string>
+		<string>scaron</string>
+		<string>zero.fitted</string>
+		<string>one.fitted</string>
+		<string>two.fitted</string>
+		<string>three.fitted</string>
+		<string>four.fitted</string>
+		<string>five.fitted</string>
+		<string>six.fitted</string>
+		<string>seven.fitted</string>
+		<string>eight.fitted</string>
+		<string>nine.fitted</string>
 		<string>A</string>
 	</array>
 </dict>

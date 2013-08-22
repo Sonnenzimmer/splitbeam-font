@@ -15,13 +15,13 @@ http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
 	<key>descender</key>
 	<integer>-450</integer>
 	<key>familyName</key>
-	<string>SplitbeamBETA01</string>
+	<string>SplitbeamBETA02</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>macintoshFONDFamilyID</key>
 	<integer>128</integer>
 	<key>macintoshFONDName</key>
-	<string>SplitbeamBETA01</string>
+	<string>SplitbeamBETA02</string>
 	<key>openTypeHeadLowestRecPPEM</key>
 	<integer>9</integer>
 	<key>openTypeHheaAscender</key>
@@ -31,7 +31,7 @@ http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
 	<key>openTypeHheaLineGap</key>
 	<integer>9</integer>
 	<key>openTypeNameCompatibleFullName</key>
-	<string>SplitbeamBETA01</string>
+	<string>SplitbeamBETA02</string>
 	<key>openTypeNameLicense</key>
 	<string>Design &amp; Concept: Sonnenzimmer ‚Äì http://sonnenzimmmer.com
 Font Engineering: Signalwerk ‚Äì http://signalwerk.ch
@@ -43,11 +43,11 @@ http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
 	<key>openTypeNameManufacturer</key>
 	<string>Sonnenzimmer &amp; Signalwerk</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>SplitbeamBETA01</string>
+	<string>SplitbeamBETA02</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 1.001</string>
+	<string>Version 1.002</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 	</array>
@@ -136,7 +136,7 @@ http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
 	<key>postscriptForceBold</key>
 	<false/>
 	<key>postscriptFullName</key>
-	<string>SplitbeamBETA01</string>
+	<string>SplitbeamBETA02</string>
 	<key>postscriptIsFixedPitch</key>
 	<false/>
 	<key>postscriptOtherBlues</key>
@@ -154,7 +154,7 @@ http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
 	<key>postscriptStemSnapV</key>
 	<array>
 		<integer>160</integer>
-		<integer>145</integer>
+		<integer>139</integer>
 	</array>
 	<key>postscriptUnderlinePosition</key>
 	<integer>-100</integer>
@@ -165,7 +165,7 @@ http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
 	<key>postscriptWindowsCharacterSet</key>
 	<integer>1</integer>
 	<key>styleMapFamilyName</key>
-	<string>SplitbeamBETA01</string>
+	<string>SplitbeamBETA02</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
@@ -175,7 +175,7 @@ http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>1</integer>
+	<integer>2</integer>
 	<key>xHeight</key>
 	<integer>790</integer>
 	<key>year</key>

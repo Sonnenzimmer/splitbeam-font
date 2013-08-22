@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b" format="1">
-  <advance width="1037"/>
+  <advance width="1132"/>
   <unicode hex="0062"/>
   <outline>
-    <component base="B"/>
+    <contour>
+      <point x="1007" y="545" type="line"/>
+      <point x="1007" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="150" y="1308" type="line"/>
+      <point x="390" y="1445" type="line"/>
+      <point x="951" y="1327" type="line"/>
+      <point x="951" y="617" type="line"/>
+      <point x="893" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="668" y="512" type="line"/>
+      <point x="668" y="656" type="line"/>
+      <point x="795" y="717" type="line"/>
+      <point x="795" y="1198" type="line"/>
+      <point x="418" y="1281" type="line"/>
+      <point x="307" y="1217" type="line"/>
+      <point x="307" y="156" type="line"/>
+      <point x="851" y="156" type="line"/>
+      <point x="851" y="439" type="line"/>
+    </contour>
   </outline>
 </glyph>

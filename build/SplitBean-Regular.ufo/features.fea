@@ -1,5 +1,16 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
 @TabNumber = [zero one two three four five six seven eight nine];
-@PropNumber = [zero.pnum one.pnum two.pnum three.pnum four.pnum five.pnum six.pnum seven.pnum eight.pnum nine.pnum];
+@PropNumber = [zero.fitted one.fitted two.fitted three.fitted four.fitted five.fitted six.fitted seven.fitted eight.fitted nine.fitted];
+
+
+
+
+
+
+
+
+
 
 
 
@@ -15,6 +26,15 @@
 feature pnum { # Proportional Figures
     sub @TabNumber by @PropNumber;
 } pnum;
+
+
+
+
+
+
+
+
+
 
 
 

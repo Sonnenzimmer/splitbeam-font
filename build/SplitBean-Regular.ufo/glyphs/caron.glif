@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron" format="1">
-  <advance width="600"/>
+  <advance width="700"/>
   <unicode hex="02C7"/>
   <outline>
     <contour>
-      <point x="300" y="1400" type="move" name="Center"/>
+      <point x="350" y="1400" type="move" name="Center"/>
     </contour>
     <contour>
-      <point x="469" y="1547" type="line"/>
-      <point x="300" y="1438" type="line"/>
-      <point x="131" y="1547" type="line"/>
-      <point x="55" y="1429" type="line"/>
-      <point x="300" y="1272" type="line"/>
-      <point x="545" y="1429" type="line"/>
+      <point x="519" y="1547" type="line"/>
+      <point x="350" y="1438" type="line"/>
+      <point x="181" y="1547" type="line"/>
+      <point x="105" y="1429" type="line"/>
+      <point x="350" y="1272" type="line"/>
+      <point x="595" y="1429" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,8 +30,8 @@
           <string>addPoint</string>
           <key>pt</key>
           <array>
-            <integer>469</integer>
-            <integer>1547</integer>
+            <integer>557</integer>
+            <integer>1427</integer>
           </array>
           <key>segmentType</key>
           <string>line</string>
@@ -43,8 +43,8 @@
           <string>addPoint</string>
           <key>pt</key>
           <array>
-            <integer>300</integer>
-            <integer>1438</integer>
+            <integer>350</integer>
+            <integer>1294</integer>
           </array>
           <key>segmentType</key>
           <string>line</string>
@@ -56,47 +56,8 @@
           <string>addPoint</string>
           <key>pt</key>
           <array>
-            <integer>131</integer>
-            <integer>1547</integer>
-          </array>
-          <key>segmentType</key>
-          <string>line</string>
-          <key>smooth</key>
-          <false/>
-        </dict>
-        <dict>
-          <key>method</key>
-          <string>addPoint</string>
-          <key>pt</key>
-          <array>
-            <integer>55</integer>
-            <integer>1429</integer>
-          </array>
-          <key>segmentType</key>
-          <string>line</string>
-          <key>smooth</key>
-          <false/>
-        </dict>
-        <dict>
-          <key>method</key>
-          <string>addPoint</string>
-          <key>pt</key>
-          <array>
-            <integer>300</integer>
-            <integer>1272</integer>
-          </array>
-          <key>segmentType</key>
-          <string>line</string>
-          <key>smooth</key>
-          <false/>
-        </dict>
-        <dict>
-          <key>method</key>
-          <string>addPoint</string>
-          <key>pt</key>
-          <array>
-            <integer>545</integer>
-            <integer>1429</integer>
+            <integer>143</integer>
+            <integer>1427</integer>
           </array>
           <key>segmentType</key>
           <string>line</string>

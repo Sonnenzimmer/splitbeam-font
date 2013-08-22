@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j" format="1">
-  <advance width="768"/>
+  <advance width="858"/>
   <unicode hex="006A"/>
   <outline>
-    <component base="J"/>
+    <contour>
+      <point x="708" y="109" type="line"/>
+      <point x="708" y="1400" type="line"/>
+      <point x="552" y="1400" type="line"/>
+      <point x="552" y="194" type="line"/>
+      <point x="440" y="123" type="line"/>
+      <point x="103" y="209" type="line"/>
+      <point x="65" y="57" type="line"/>
+      <point x="468" y="-45" type="line"/>
+    </contour>
   </outline>
 </glyph>
