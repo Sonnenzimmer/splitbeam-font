@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash" format="1">
+  <advance width="614"/>
+  <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="569" y="1392" type="line"/>
+      <point x="197" y="-32" type="line"/>
+      <point x="45" y="8" type="line"/>
+      <point x="416" y="1432" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>80</integer>
+      <key>org.robofab.fontlab.maskData</key>
+      <array>
+        <dict>
+          <key>method</key>
+          <string>beginPath</string>
+        </dict>
+        <dict>
+          <key>method</key>
+          <string>addPoint</string>
+          <key>pt</key>
+          <array>
+            <integer>569</integer>
+            <integer>1392</integer>
+          </array>
+          <key>segmentType</key>
+          <string>line</string>
+          <key>smooth</key>
+          <false/>
+        </dict>
+        <dict>
+          <key>method</key>
+          <string>addPoint</string>
+          <key>pt</key>
+          <array>
+            <integer>197</integer>
+            <integer>-32</integer>
+          </array>
+          <key>segmentType</key>
+          <string>line</string>
+          <key>smooth</key>
+          <false/>
+        </dict>
+        <dict>
+          <key>method</key>
+          <string>addPoint</string>
+          <key>pt</key>
+          <array>
+            <integer>45</integer>
+            <integer>8</integer>
+          </array>
+          <key>segmentType</key>
+          <string>line</string>
+          <key>smooth</key>
+          <false/>
+        </dict>
+        <dict>
+          <key>method</key>
+          <string>addPoint</string>
+          <key>pt</key>
+          <array>
+            <integer>416</integer>
+            <integer>1432</integer>
+          </array>
+          <key>segmentType</key>
+          <string>line</string>
+          <key>smooth</key>
+          <false/>
+        </dict>
+        <dict>
+          <key>method</key>
+          <string>endPath</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

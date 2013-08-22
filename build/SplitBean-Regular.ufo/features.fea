@@ -1,0 +1,30 @@
+@TabNumber = [zero one two three four five six seven eight nine];
+@PropNumber = [zero.pnum one.pnum two.pnum three.pnum four.pnum five.pnum six.pnum seven.pnum eight.pnum nine.pnum];
+
+
+
+
+
+
+
+
+
+
+
+
+feature pnum { # Proportional Figures
+    sub @TabNumber by @PropNumber;
+} pnum;
+
+
+
+
+
+
+
+
+
+
+
+
+

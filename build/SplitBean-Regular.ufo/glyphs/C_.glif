@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="C" format="1">
+  <advance width="905"/>
+  <unicode hex="0043"/>
+  <outline>
+    <contour>
+      <point x="477" y="0" type="move" name="BCenter"/>
+    </contour>
+    <contour>
+      <point x="260" y="160" type="line"/>
+      <point x="854" y="160" type="line"/>
+      <point x="854" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="1306" type="line"/>
+      <point x="342" y="1445" type="line"/>
+      <point x="860" y="1338" type="line"/>
+      <point x="827" y="1181" type="line"/>
+      <point x="369" y="1276" type="line"/>
+      <point x="260" y="1213" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>80</integer>
+      <key>org.robofab.fontlab.maskData</key>
+      <array>
+        <dict>
+          <key>method</key>
+          <string>beginPath</string>
+        </dict>
+        <dict>
+          <key>method</key>
+          <string>addPoint</string>
+          <key>pt</key>
+          <array>
+            <integer>260</integer>
+            <integer>160</integer>
+          </array>
+          <key>segmentType</key>
+          <string>line</string>
+          <key>smooth</key>
+          <false/>
+        </dict>
+        <dict>
+          <key>method</key>
+          <string>addPoint</string>
+          <key>pt</key>
+          <array>
+            <integer>854</integer>
+            <integer>160</integer>
+          </array>
+          <key>segmentType</key>
+          <string>line</string>
+          <key>smooth</key>
+          <false/>
+        </dict>
+        <dict>
+          <key>method</key>
+          <string>addPoint</string>
+          <key>pt</key>
+          <array>
+            <integer>854</integer>
+            <integer>0</integer>
+          </array>
+          <key>segmentType</key>
+          <string>line</string>
+          <key>smooth</key>
+          <false/>
+        </dict>
+        <dict>
+          <key>method</key>
+          <string>addPoint</string>
+          <key>pt</key>
+          <array>
+            <integer>100</integer>
+            <integer>0</integer>
+          </array>
+          <key>segmentType</key>
+          <string>line</string>
+          <key>smooth</key>
+          <false/>
+        </dict>
+        <dict>
+          <key>method</key>
+          <string>addPoint</string>
+          <key>pt</key>
+          <array>
+            <integer>100</integer>
+            <integer>1306</integer>
+          </array>
+          <key>segmentType</key>
+          <string>line</string>
+          <key>smooth</key>
+          <false/>
+        </dict>
+        <dict>
+          <key>method</key>
+          <string>addPoint</string>
+          <key>pt</key>
+          <array>
+            <integer>342</integer>
+            <integer>1445</integer>
+          </array>
+          <key>segmentType</key>
+          <string>line</string>
+          <key>smooth</key>
+          <false/>
+        </dict>
+        <dict>
+          <key>method</key>
+          <string>addPoint</string>
+          <key>pt</key>
+          <array>
+            <integer>860</integer>
+            <integer>1338</integer>
+          </array>
+          <key>segmentType</key>
+          <string>line</string>
+          <key>smooth</key>
+          <false/>
+        </dict>
+        <dict>
+          <key>method</key>
+          <string>addPoint</string>
+          <key>pt</key>
+          <array>
+            <integer>827</integer>
+            <integer>1181</integer>
+          </array>
+          <key>segmentType</key>
+          <string>line</string>
+          <key>smooth</key>
+          <false/>
+        </dict>
+        <dict>
+          <key>method</key>
+          <string>addPoint</string>
+          <key>pt</key>
+          <array>
+            <integer>369</integer>
+            <integer>1276</integer>
+          </array>
+          <key>segmentType</key>
+          <string>line</string>
+          <key>smooth</key>
+          <false/>
+        </dict>
+        <dict>
+          <key>method</key>
+          <string>addPoint</string>
+          <key>pt</key>
+          <array>
+            <integer>260</integer>
+            <integer>1213</integer>
+          </array>
+          <key>segmentType</key>
+          <string>line</string>
+          <key>smooth</key>
+          <false/>
+        </dict>
+        <dict>
+          <key>method</key>
+          <string>endPath</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
