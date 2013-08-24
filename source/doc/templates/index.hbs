@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>splitbeam – font</title>
+        <meta name="description" content="test, font">
+        <meta name="viewport" content="width=device-width">
+
+        <!-- the css for the font -->
+        <link rel="stylesheet" href="css/main.css">
+
+        <!-- inline css for the pageview -->
+        <style type="text/css">
+
+            *,
+            *:before,
+            *:after {
+              -webkit-box-sizing: border-box;
+                 -moz-box-sizing: border-box;
+                      box-sizing: border-box;
+            }
+
+            html, body {
+                font-size: 1em;
+                line-height: 1.4;
+                font-family: Lucida Console, Monaco, monospace;
+            }
+
+            ul {
+                list-style: none outside none;
+                margin: 0;
+                padding: 0;
+                width: 1000px;
+            }
+
+            li {
+                border: 1px solid #DDDDDD;
+                float: left;
+                font-size: 12px;
+                height: 125px;
+                line-height: 1.4;
+                margin: 0 -1px -1px 0;
+                padding: 10px;
+                text-align: left;
+                width: 12.5%;
+            }
+            li.wide {
+                width: 25%;
+            }
+
+            h4 {
+                text-transform: uppercase;
+                clear: both;
+                padding-top: 2em;
+                margin-bottom: 0.6em;
+            }
+
+            li span.sb-glyphicons {
+                display: block;
+                font-size: 48px;
+                line-height: 1;
+                position: relative;
+                margin: 5px auto 10px;
+            }
+
+            span.glyphinfo {
+              font-size: 10px;
+              display: block;
+            }
+
+        </style>
+
+    </head>
+    <body>
+        
+        
+        <h3>splitbeam Font-Test</h3>
+        
+        <h4>Special glyphs</h4>
+        <ul>
+            {{#each SplitBean-Regular.chars}}
+                {{#if private}}
+                    {{#unless fitted}}
+                    <li class="wide">
+                        <span class="sb-glyphicons sb-glyphicon-{{name}}" data-unicode="{{unicodeHex}}"></span>
+                        <span class="glyphinfo">CSS-Classes:</span> 
+                        <span class="glyphinfo">.sb-glyphicons</span> 
+                        <span class="glyphinfo">.sb-glyphicon-{{name}}</span> 
+                    </li>
+                    {{/unless}}
+                {{/if}}
+            {{/each}}
+        </ul>
+
+        <h4>Glyphs</h4>
+        <ul>
+
+            {{#each SplitBean-Regular.chars}}
+                {{#if private}}
+                    {{#if fitted}}
+                        {{> chart}}
+                    {{/if}}
+                {{else}}
+                    {{> chart}}              
+                {{/if}}
+            {{/each}}
+        </ul>
+
+    </body>
+</html>

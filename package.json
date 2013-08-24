@@ -1,0 +1,19 @@
+{
+  "name": "splitbeam",
+  "version": "1.0.0",
+  "description": "splitbeam font",
+  "repository": "https://github.com/Sonnenzimmer/splitbeam-font/",
+  "keywords": [
+    "splitbeam","font","ufo","ttf","otf","robofab"
+  ],
+  "author": "Sonnenzimmer, Stefan Huber",
+  "license": "See: https://github.com/Sonnenzimmer/splitbeam-font/blob/master/README.md",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "assemble": "~0.4.3"
+  },
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "assemble": "~0.4.3"
+  }
+}

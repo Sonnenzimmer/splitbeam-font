@@ -1,0 +1,39 @@
+/* ==========================================================================
+   Definition of the font
+   ========================================================================== */
+
+@font-face {
+  font-family: 'Splitbeam';
+  font-style: normal;
+  font-weight: 400;
+    src: url('Splitbeam-Regular-webfont.eot');
+    src: url('Splitbeam-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Splitbeam-Regular-webfont.woff') format('woff'),
+         url('Splitbeam-Regular-webfont.ttf') format('truetype'),
+         url('Splitbeam-Regular-webfont.svg#SplitbeamRegular') format('svg');
+}
+
+/* ==========================================================================
+   Styling for all icons
+   ========================================================================== */
+.sb-glyphicons {
+    display: inline-block;
+    font-family: 'Splitbeam';
+    font-style: normal;
+    font-weight: normal;
+
+}
+
+/* ==========================================================================
+   Styling for individual icons
+   ========================================================================== */
+{{#each SplitBean-Regular.chars}}
+    {{#if private}}
+        {{#unless fitted}}
+        {{! the uppercase is just a crude way of escaping...}}
+.sb-glyphicon-{{name}}:before {
+  content: "{{uppercase '\'}}{{unicodeHex}}";
+}
+        {{/unless}}
+    {{/if}}
+{{/each}}
