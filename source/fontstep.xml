@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<font>
+
+    <!--
+    This is the build-file for fontstep
+    See: https://github.com/signalwerk/fontstep
+    -->
+    
+    <step action="copysave"/>
+
+    <step action="delete">
+        <glyph PSName="A_smal"/>
+        <glyph PSName="E_smal"/>
+        <glyph PSName="O_smal"/>
+        <glyph PSName="I_smal"/>
+        <glyph PSName="U_smal"/>
+        <glyph PSName="quote_helper"/>
+        <glyph PSName="Y_smal"/>
+        <glyph PSName="period_helper"/>
+        <glyph PSName="dieresis_helper"/>
+        <glyph PSName="guil_helper"/>
+        <glyph PSName="N_smal"/>
+        <glyph PSName="C_smal"/>
+        <glyph PSName="comma_helper"/>
+        <glyph PSName="Z_smal"/>
+        <glyph PSName="S_smal"/>
+        <glyph PSName="braceleft_helper"/>
+    </step>
+
+
+    <step action="decompose">
+        <glyph PSName="asterisk"/>
+        <glyph PSName="Q"/>
+        <glyph PSName="braceleft"/>
+        <glyph PSName="braceright"/>
+        <glyph PSName="yen"/>
+        <glyph PSName="Aring"/>
+        <glyph PSName="Ccedilla"/>
+        <glyph PSName="Eth"/>
+    </step>
+
+
+    <step action="metrics">
+
+        <glyph PSName="parenright" left="right(parenleft)" width="width(parenleft)"/>
+        <glyph PSName="backslash" left="right(slash)" width="width(slash)"/>
+        <glyph PSName="questiondown" left="right(question)" width="width(question)"/>
+        <glyph PSName="greater" left="right(less)" width="width(less)"/>
+        <glyph PSName="bracketright" left="right(bracketleft)" width="width(bracketleft)"/>
+        <glyph PSName="braceright" left="right(braceleft)" width="width(braceleft)"/>
+        <glyph PSName="guilsinglright" left="right(guilsinglleft)" width="width(guilsinglleft)"/>
+        <glyph PSName="guillemotright" left="right(guillemotleft)" width="width(guillemotleft)"/>
+        <glyph PSName="exclamdown" left="right(exclam)" width="width(exclam)"/>
+
+    </step>
+
+
+    <step action="copy">
+
+        <glyph PSName="a">
+            <base PSName="A"/>
+        </glyph>
+        <glyph PSName="b">
+            <base PSName="B"/>
+        </glyph>
+        <glyph PSName="c">
+            <base PSName="C"/>
+        </glyph>
+        <glyph PSName="d">
+            <base PSName="D"/>
+        </glyph>
+        <glyph PSName="e">
+            <base PSName="E"/>
+        </glyph>
+        <glyph PSName="f">
+            <base PSName="F"/>
+        </glyph>
+        <glyph PSName="g">
+            <base PSName="G"/>
+        </glyph>
+        <glyph PSName="h">
+            <base PSName="H"/>
+        </glyph>
+        <glyph PSName="i">
+            <base PSName="I"/>
+        </glyph>
+        <glyph PSName="j">
+            <base PSName="J"/>
+        </glyph>
+        <glyph PSName="k">
+            <base PSName="K"/>
+        </glyph>
+        <glyph PSName="l">
+            <base PSName="L"/>
+        </glyph>
+        <glyph PSName="m">
+            <base PSName="M"/>
+        </glyph>
+        <glyph PSName="n">
+            <base PSName="N"/>
+        </glyph>
+        <glyph PSName="o">
+            <base PSName="O"/>
+        </glyph>
+        <glyph PSName="p">
+            <base PSName="P"/>
+        </glyph>
+        <glyph PSName="q">
+            <base PSName="Q"/>
+        </glyph>
+        <glyph PSName="r">
+            <base PSName="R"/>
+        </glyph>
+        <glyph PSName="s">
+            <base PSName="S"/>
+        </glyph>
+        <glyph PSName="t">
+            <base PSName="T"/>
+        </glyph>
+        <glyph PSName="u">
+            <base PSName="U"/>
+        </glyph>
+        <glyph PSName="v">
+            <base PSName="V"/>
+        </glyph>
+        <glyph PSName="w">
+            <base PSName="W"/>
+        </glyph>
+        <glyph PSName="x">
+            <base PSName="X"/>
+        </glyph>
+        <glyph PSName="y">
+            <base PSName="Y"/>
+        </glyph>
+        <glyph PSName="z">
+            <base PSName="Z"/>
+        </glyph>
+
+        <glyph PSName="zero.fitted">
+            <base PSName="zero"/>
+        </glyph>
+        <glyph PSName="one.fitted">
+            <base PSName="one"/>
+        </glyph>
+        <glyph PSName="two.fitted">
+            <base PSName="two"/>
+        </glyph>
+        <glyph PSName="three.fitted">
+            <base PSName="three"/>
+        </glyph>
+        <glyph PSName="four.fitted">
+            <base PSName="four"/>
+        </glyph>
+        <glyph PSName="five.fitted">
+            <base PSName="five"/>
+        </glyph>
+        <glyph PSName="six.fitted">
+            <base PSName="six"/>
+        </glyph>
+        <glyph PSName="seven.fitted">
+            <base PSName="seven"/>
+        </glyph>
+        <glyph PSName="eight.fitted">
+            <base PSName="eight"/>
+        </glyph>
+        <glyph PSName="nine.fitted">
+            <base PSName="nine"/>
+        </glyph>
+
+        <glyph PSName="agrave">
+            <base PSName="Agrave"/>
+        </glyph>
+        <glyph PSName="aacute">
+            <base PSName="Aacute"/>
+        </glyph>
+        <glyph PSName="acircumflex">
+            <base PSName="Acircumflex"/>
+        </glyph>
+        <glyph PSName="atilde">
+            <base PSName="Atilde"/>
+        </glyph>
+        <glyph PSName="adieresis">
+            <base PSName="Adieresis"/>
+        </glyph>
+        <glyph PSName="aring">
+            <base PSName="Aring"/>
+        </glyph>
+        <glyph PSName="ae">
+            <base PSName="AE"/>
+        </glyph>
+        <glyph PSName="ccedilla">
+            <base PSName="Ccedilla"/>
+        </glyph>
+        <glyph PSName="egrave">
+            <base PSName="Egrave"/>
+        </glyph>
+        <glyph PSName="eacute">
+            <base PSName="Eacute"/>
+        </glyph>
+        <glyph PSName="ecircumflex">
+            <base PSName="Ecircumflex"/>
+        </glyph>
+        <glyph PSName="edieresis">
+            <base PSName="Edieresis"/>
+        </glyph>
+        <glyph PSName="igrave">
+            <base PSName="Igrave"/>
+        </glyph>
+        <glyph PSName="iacute">
+            <base PSName="Iacute"/>
+        </glyph>
+        <glyph PSName="icircumflex">
+            <base PSName="Icircumflex"/>
+        </glyph>
+        <glyph PSName="idieresis">
+            <base PSName="Idieresis"/>
+        </glyph>
+        <glyph PSName="eth">
+            <base PSName="Eth"/>
+        </glyph>
+        <glyph PSName="ntilde">
+            <base PSName="Ntilde"/>
+        </glyph>
+        <glyph PSName="ograve">
+            <base PSName="Ograve"/>
+        </glyph>
+        <glyph PSName="oacute">
+            <base PSName="Oacute"/>
+        </glyph>
+        <glyph PSName="ocircumflex">
+            <base PSName="Ocircumflex"/>
+        </glyph>
+        <glyph PSName="otilde">
+            <base PSName="Otilde"/>
+        </glyph>
+        <glyph PSName="odieresis">
+            <base PSName="Odieresis"/>
+        </glyph>
+        <glyph PSName="ugrave">
+            <base PSName="Ugrave"/>
+        </glyph>
+        <glyph PSName="uacute">
+            <base PSName="Uacute"/>
+        </glyph>
+        <glyph PSName="ucircumflex">
+            <base PSName="Ucircumflex"/>
+        </glyph>
+        <glyph PSName="udieresis">
+            <base PSName="Udieresis"/>
+        </glyph>
+        <glyph PSName="yacute">
+            <base PSName="Yacute"/>
+        </glyph>
+        <glyph PSName="thorn">
+            <base PSName="Thorn"/>
+        </glyph>
+        <glyph PSName="oslash">
+            <base PSName="Oslash"/>
+        </glyph>
+        <glyph PSName="ydieresis">
+            <base PSName="Ydieresis"/>
+        </glyph>
+        <glyph PSName="zcaron">
+            <base PSName="Zcaron"/>
+        </glyph>
+        <glyph PSName="scaron">
+            <base PSName="Scaron"/>
+        </glyph>
+    </step>
+
+
+    <step action="metrics">
+        <glyph PSName="@TabNumber" width="max(width(@TabNumber))"/>
+        <glyph PSName="@MathSymbols" width="max(width(@MathSymbols))"/>
+    </step>
+
+    <step action="autoUnicode"/>
+
+    <step action="unicode">
+        <glyph PSName="logo" UID="57344"/>
+        <glyph PSName="zero.fitted" UID="63033"/>
+        <glyph PSName="one.fitted" UID="63196"/>
+        <glyph PSName="two.fitted" UID="63034"/>
+        <glyph PSName="three.fitted" UID="63035"/>
+        <glyph PSName="four.fitted" UID="63036"/>
+        <glyph PSName="five.fitted" UID="63037"/>
+        <glyph PSName="six.fitted" UID="63038"/>
+        <glyph PSName="seven.fitted" UID="63039"/>
+        <glyph PSName="eight.fitted" UID="63040"/>
+        <glyph PSName="nine.fitted" UID="63041"/>
+    </step>
+    
+    <step action="saveTTF" name="../build/SplitBean-Regular.ttf"/>
+    <step action="saveOTF" name="../build/SplitBean-Regular.otf"/>
+    <step action="saveJSON" name="../build/SplitBean-Regular.json"/>
+    <step action="save"/>
+
+</font>
