@@ -1,4 +1,12 @@
+{{#if unicodeHex}}
 <li>
-    <span class="sb-glyphicons">&#x{{unicodeHex}};</span>
+    <span class="sb-glyphicons">&#x{{{unicodeHex}}};</span>
     <span class="glyphinfo">&#x{{unicodeHex}}; (x{{unicodeHex}})</span> 
 </li>
+{{else}}
+<li>
+    <span class="sb-glyphicons">&nbsp;</span>
+    <span class="glyphinfo">No Unicode</span> 
+    <span class="glyphinfo">Name: {{name}}</span> 
+</li>
+{{/if}}
