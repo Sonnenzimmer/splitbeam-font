@@ -32,8 +32,7 @@ To buld the font from the original file:
 * fontstep see https://github.com/signalwerk/fontstep
 * FLGlyphBuilder see http://scripts.sil.org/FLGlyphBuilder
 
-####
-Steps:
+#### Steps
 * open SplitBean-Regular.vfb or an UFO of it 
 * run FLGlyphBuilder with controll.xml
 * run fontstep with fontstep.xml
