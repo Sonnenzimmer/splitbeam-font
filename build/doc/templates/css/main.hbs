@@ -6,11 +6,11 @@
   font-family: 'Splitbeam';
   font-style: normal;
   font-weight: 400;
-    src: url('Splitbeam-Regular-webfont.eot');
-    src: url('Splitbeam-Regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('Splitbeam-Regular-webfont.woff') format('woff'),
-         url('Splitbeam-Regular-webfont.ttf') format('truetype'),
-         url('Splitbeam-Regular-webfont.svg#SplitbeamRegular') format('svg');
+    src: url('../fonts/splitbeam-webfont.eot');                                    /* IE 9 Compatibility Mode */
+    src: url('../fonts/splitbeam-webfont.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+         url('../fonts/splitbeam-webfont.woff') format('woff'),                    /* Firefox >= 3.6, any other modern browser */
+         url('../fonts/splitbeam-webfont.ttf') format('truetype'),                 /* Safari, Android, iOS */
+         url('../fonts/splitbeam-webfont.svg#Splitbeam') format('svg');            /* Chrome < 4, Legacy iOS */
 }
 
 /* ==========================================================================
@@ -21,13 +21,12 @@
     font-family: 'Splitbeam';
     font-style: normal;
     font-weight: normal;
-
 }
 
 /* ==========================================================================
    Styling for individual icons
    ========================================================================== */
-{{#each SplitBean-Regular.chars}}
+{{#each Splitbeam-Regular.chars}}
     {{#if private}}
         {{#unless fitted}}
         {{! the uppercase is just a crude way of escaping...}}
