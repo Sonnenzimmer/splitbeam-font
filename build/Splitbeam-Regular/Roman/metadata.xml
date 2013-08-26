@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata version="1.0">
+   <uniqueid id="org.splitbeam.font.1.008"/>
+   <vendor name="splitbeam.org" url="http://splitbeam.org/"/>
+   <credits>
+       <credit name="Sonnenzimmer, Chicago" url="http://www.sonnenzimmer.com/" role="design"/>
+       <credit name="Signalwerk, Zurich" url="http://signalwerk.ch/" role="production"/>
+   </credits>
+   <description>
+       <text lang="en">Font for splitbeam.org</text>
+   </description>
+   <license url="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="cc-by-nc-sa-3">
+       <text lang="en">
+	      Creative Commons BY-NC-SA 3.0
+	      For details see http://creativecommons.org/licenses/by-nc-sa/3.0/
+	    </text>
+   </license>
+   <copyright>
+       <text lang="en">Design + Concept: Sonnenzimmer, Chicago - Font Engineering: Signalwerk, Zurich</text>
+   </copyright>
+</metadata>
