@@ -1,0 +1,23 @@
+# Splitbeam Features File
+
+
+# -------------------------------------------------------------
+# additional name properties
+# -------------------------------------------------------------
+
+table name {
+	nameid 0 "Design & Concept: Sonnenzimmer - http://sonnenzimmmer.com, Font Engineering: Signalwerk - http://signalwerk.ch, Originally created for http://splitbeam.org";
+	nameid 0 1 "Design & Concept: Sonnenzimmer - http://sonnenzimmmer.com, Font Engineering: Signalwerk - http://signalwerk.ch, Originally created for http://splitbeam.org";
+	nameid 7 "Design & Concept: Sonnenzimmer - http://sonnenzimmmer.com, Font Engineering: Signalwerk - http://signalwerk.ch, Originally created for http://splitbeam.org";
+	nameid 7 1 "Design & Concept: Sonnenzimmer - http://sonnenzimmmer.com, Font Engineering: Signalwerk - http://signalwerk.ch, Originally created for http://splitbeam.org";
+
+	nameid 9 "Sonnenzimmer & Signalwerk";
+	nameid 9 1 "Sonnenzimmer & Signalwerk";
+
+	nameid 11 "https://github.com/Sonnenzimmer/splitbeam-font/";
+	nameid 11 1 "https://github.com/Sonnenzimmer/splitbeam-font/";
+
+	nameid 14 "http://creativecommons.org/licenses/by-nc-sa/3.0/";
+	nameid 14 1 "http://creativecommons.org/licenses/by-nc-sa/3.0/";
+
+} name;

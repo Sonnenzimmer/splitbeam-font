@@ -1,0 +1,26 @@
+table head {
+	FontRevision 1.008;
+} head;
+
+include (../features.family);
+
+feature kern {
+	include (features.kern);
+} kern;
+
+
+include (../features.tables);
+
+
+table OS/2 {
+	FSType 0;
+	TypoAscender 1500;
+	TypoDescender -450;
+	Panose 2 11 6 3 2 2 2 8 8 1;
+	XHeight 790;
+	CapHeight 1400;
+	Vendor "SPBN";
+} OS/2;
+
+
+

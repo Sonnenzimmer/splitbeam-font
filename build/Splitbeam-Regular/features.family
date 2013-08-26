@@ -1,0 +1,27 @@
+# Splitbeam Features File
+
+
+# -------------------------------------------------------------
+# all alternates feature
+# -------------------------------------------------------------
+
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn TRK;
+languagesystem cyrl dflt;
+
+feature aalt {
+	feature pnum;
+} aalt;
+
+
+# -------------------------------------------------------------
+# Proportional Figures
+# -------------------------------------------------------------
+
+@TabNumber = [zero one two three four five six seven eight nine];
+@PropNumber = [zero.fitted one.fitted two.fitted three.fitted four.fitted five.fitted six.fitted seven.fitted eight.fitted nine.fitted];
+
+feature pnum { 
+    sub @TabNumber by @PropNumber;
+} pnum;
