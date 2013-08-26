@@ -290,9 +290,10 @@
         <glyph PSName="nine.fitted" UID="63041"/>
     </step>
     
-    <step action="saveTTF" name="../build/SplitBean-Regular.ttf"/>
-    <step action="saveOTF" name="../build/SplitBean-Regular.otf"/>
-    <step action="saveJSON" name="../build/SplitBean-Regular.json"/>
+    <step action="orderGlyphs" by="name"/>
+    <step action="saveTTF" name="../build/Splitbeam-Regular/Roman/font.ttf"/>
+    <step action="saveOTF" name="../build/Splitbeam-Regular/Roman/font.otf"/>
+    <step action="saveJSON" name="../build/Splitbeam-Regular.json"/>
     <step action="save"/>
 
 </font>
