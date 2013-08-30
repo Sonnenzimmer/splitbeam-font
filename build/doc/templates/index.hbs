@@ -72,6 +72,25 @@
               display: block;
             }
 
+            #colorEye {
+                color: #000;
+            }
+            #colorBeam {
+                color: #f00;
+            }
+            #colorFill {
+                color: #0f0;
+            }
+            li.big span.sb-glyphicons {
+                font-size: 135px;
+                display: inline-block;
+            }
+            li.big span.sb-glyphicon-fontversion {
+                font-size: 110px;
+                position: absolute;
+                padding-left: 135px;
+            }
+
         </style>
 
     </head>
@@ -82,31 +101,33 @@
         
         <h4>Special glyphs</h4>
         <ul>
-            {{#each Splitbeam-Regular.chars}}
-                {{#if private}}
-                    {{#unless fitted}}
-                    <li class="wide">
-                        <span class="sb-glyphicons sb-glyphicon-{{name}}" data-unicode="{{unicodeHex}}"></span>
-                        <span class="glyphinfo">CSS-Classes:</span> 
-                        <span class="glyphinfo">.sb-glyphicons</span> 
-                        <span class="glyphinfo">.sb-glyphicon-{{name}}</span> 
-                    </li>
-                    {{/unless}}
-                {{/if}}
+            {{#each Splitbeam-Regular.classes}}
+                {{#is name "printCSS"}}
+                    {{#each chars}}
+                        <li class="wide">
+                            <span class="sb-glyphicons sb-glyphicon-{{dashify name}}" data-unicode="{{unicodeHex}}"></span>
+                            <span class="glyphinfo">CSS-Classes:</span> 
+                            <span class="glyphinfo">.sb-glyphicons</span> 
+                            <span class="glyphinfo">.sb-glyphicon-{{dashify name}}</span> 
+                        </li>
+                    {{/each}}
+                {{/is}}
             {{/each}}
+
+
+                    <li class="wide big">
+                        <span class="sb-glyphicons"><span class="sb-glyphicon-fontversion" data-unicode="E000"></span><span id="colorEye">&#xE004;</span><span id="colorBeam">&#xE006;</span><span id="colorFill">&#xE008;</span></span>
+                    </li>
         </ul>
 
-        <h4>Glyphs</h4>
+
+
+
+        <h4>Unicode glyphs</h4>
         <ul>
 
             {{#each Splitbeam-Regular.chars}}
-                {{#if private}}
-                    {{#if fitted}}
-                        {{> chart}}
-                    {{/if}}
-                {{else}}
-                    {{> chart}}              
-                {{/if}}
+                {{> chart}}
             {{/each}}
         </ul>
 
