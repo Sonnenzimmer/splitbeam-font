@@ -26,13 +26,13 @@
 /* ==========================================================================
    Styling for individual icons
    ========================================================================== */
-{{#each Splitbeam-Regular.chars}}
-    {{#if private}}
-        {{#unless fitted}}
+{{#each Splitbeam-Regular.classes}}
+    {{#is name "printCSS"}}
+        {{#each chars}}
         {{! the uppercase is just a crude way of escaping...}}
-.sb-glyphicon-{{name}}:before {
+.sb-glyphicon-{{dashify name}}:before {
   content: "{{uppercase '\'}}{{unicodeHex}}";
 }
-        {{/unless}}
-    {{/if}}
+        {{/each}}
+    {{/is}}
 {{/each}}
