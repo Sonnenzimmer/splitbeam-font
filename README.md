@@ -29,13 +29,13 @@ To buld the font from the original file:
 #### Requirements
 * FontLab 5.x on Mac OS X
 * robofab (updated build)
-* fontstep see https://github.com/signalwerk/fontstep
-* FLGlyphBuilder see http://scripts.sil.org/FLGlyphBuilder
+* fontstep see [fontstep](https://github.com/signalwerk/fontstep)
+* FLGlyphBuilder see [FLGlyphBuilder](http://scripts.sil.org/FLGlyphBuilder)
 
 #### Steps
 * open SplitBean-Regular.vfb or an UFO of it 
-* run FLGlyphBuilder with controll.xml
-* run fontstep with fontstep.xml
+* run FLGlyphBuilder with `controll.xml`
+* run fontstep with `fontstep.xml`
 * run build.sh from terminal
 * enjoy `./deploy`
 
