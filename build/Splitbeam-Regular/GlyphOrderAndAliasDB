@@ -1,4 +1,4 @@
-.notdef	.notdef
+.notdef	.notdef	
 A	A	uni0041
 AE	AE	uni00C6
 Aacute	Aacute	uni00C1
@@ -77,6 +77,7 @@ atilde	atilde	uni00E3
 b	b	uni0062
 backslash	backslash	uni005C
 bar	bar	uni007C
+blackcircle	blackcircle	uni25CF
 braceleft	braceleft	uni007B
 braceright	braceright	uni007D
 bracketleft	bracketleft	uni005B
@@ -112,6 +113,7 @@ eight.fitted	eight.fitted	uniF640
 ellipsis	ellipsis	uni2026
 emdash	emdash	uni2014
 endash	endash	uni2013
+envelope	envelope	uni2709
 equal	equal	uni003D
 eth	eth	uni00F0
 exclam	exclam	uni0021
@@ -120,6 +122,7 @@ f	f	uni0066
 five	five	uni0035
 five.fitted	five.fitted	uniF63D
 florin	florin	uni0192
+fontversion	fontversion	uniE000
 four	four	uni0034
 four.fitted	four.fitted	uniF63C
 fraction	fraction	uni2044
@@ -144,7 +147,12 @@ k	k	uni006B
 l	l	uni006C
 less	less	uni003C
 logicalnot	logicalnot	uni00AC
-logo	logo	uniE000
+logo	logo	uniE002
+logobeam	logobeam	uniE006
+logobeam.calt	logobeam.calt	uniE007
+logoeye	logoeye	uniE004
+logofill	logofill	uniE008
+logofill.calt	logofill.calt	uniE009
 m	m	uni006D
 minus	minus	uni2212
 mu	mu	uni03BC
@@ -175,6 +183,7 @@ periodcentered	periodcentered	uni00B7
 perthousand	perthousand	uni2030
 plus	plus	uni002B
 plusminus	plusminus	uni00B1
+printer	printer	uniF036
 q	q	uni0071
 question	question	uni003F
 questiondown	questiondown	uni00BF
@@ -188,6 +197,7 @@ quotesinglbase	quotesinglbase	uni201A
 quotesingle	quotesingle	uni0027
 r	r	uni0072
 registered	registered	uni00AE
+returnsymbol	returnsymbol	uni23CE
 ring	ring	uni02DA
 s	s	uni0073
 scaron	scaron	uni0161
@@ -199,11 +209,14 @@ six	six	uni0036
 six.fitted	six.fitted	uniF63E
 slash	slash	uni002F
 space	space	uni0020
+sparrow	sparrow	uniE020
 sterling	sterling	uni00A3
 t	t	uni0074
 thorn	thorn	uni00FE
 three	three	uni0033
 three.fitted	three.fitted	uniF63B
+thumbbackup	thumbbackup	uniF03C
+#thumbsupsign	thumbsupsign	uni1F44D
 tilde	tilde	uni02DC
 trademark	trademark	uni2122
 two	two	uni0032
@@ -216,6 +229,8 @@ ugrave	ugrave	uni00F9
 underscore	underscore	uni005F
 v	v	uni0076
 w	w	uni0077
+warningsign	warningsign	uni26A0
+whitecircle	whitecircle	uni25CB
 x	x	uni0078
 y	y	uni0079
 yacute	yacute	uni00FD

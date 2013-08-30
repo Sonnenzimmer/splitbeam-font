@@ -1,0 +1,3 @@
+  #the logo magic
+  pos logoeye @LogoStdWidth -1686;
+  pos @LogoStdWidth @LogoStdWidth -1686;

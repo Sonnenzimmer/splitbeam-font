@@ -25,3 +25,17 @@ feature aalt {
 feature pnum { 
     sub @TabNumber by @PropNumber;
 } pnum;
+
+
+# -------------------------------------------------------------
+# To handle the logo-overlaying
+# -------------------------------------------------------------
+
+@LogoZeroWidth = [logobeam logofill];
+@LogoStdWidth = [logobeam.calt logofill.calt];
+
+feature calt {
+  #the logo magic
+  sub logoeye @LogoZeroWidth' by @LogoStdWidth; 
+  sub @LogoStdWidth @LogoZeroWidth' by @LogoStdWidth; 
+} calt;

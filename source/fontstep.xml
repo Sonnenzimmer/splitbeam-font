@@ -5,7 +5,7 @@
     This is the build-file for fontstep
     See: https://github.com/signalwerk/fontstep
     -->
-    
+
     <step action="copysave"/>
 
     <step action="delete">
@@ -56,6 +56,11 @@
 
 
     <step action="copy">
+
+        <!--fallback to private area if unicode 6 is not supported -->
+        <!--<glyph PSName="thumbbackup">
+            <base PSName="thumbsupsign"/>
+        </glyph>-->
 
         <glyph PSName="a">
             <base PSName="A"/>
@@ -270,30 +275,50 @@
 
 
     <step action="metrics">
-        <glyph PSName="@TabNumber" width="max(width(@TabNumber))"/>
-        <glyph PSName="@MathSymbols" width="max(width(@MathSymbols))"/>
+        <glyph PSName="@TabNumber" centeredWidth="max(width(@TabNumber))"/>
+        <glyph PSName="@MathSymbols" centeredWidth="max(width(@MathSymbols))"/>
     </step>
 
     <step action="autoUnicode"/>
 
     <step action="unicode">
-        <glyph PSName="logo" UID="57344"/>
-        <glyph PSName="zero.fitted" UID="63033"/>
-        <glyph PSName="one.fitted" UID="63196"/>
-        <glyph PSName="two.fitted" UID="63034"/>
-        <glyph PSName="three.fitted" UID="63035"/>
-        <glyph PSName="four.fitted" UID="63036"/>
-        <glyph PSName="five.fitted" UID="63037"/>
-        <glyph PSName="six.fitted" UID="63038"/>
-        <glyph PSName="seven.fitted" UID="63039"/>
-        <glyph PSName="eight.fitted" UID="63040"/>
-        <glyph PSName="nine.fitted" UID="63041"/>
+        <glyph PSName="whitecircle" UID="0x25cb"/>
+        <glyph PSName="blackcircle" UID="0x25cf"/>
+        <glyph PSName="envelope" UID="0x2709"/>
+        <glyph PSName="warningsign" UID="0x26a0"/>
+        <glyph PSName="returnsymbol" UID="0x23ce"/>
+
+        <glyph PSName="fontversion" UID="0xE000"/>
+
+        <glyph PSName="logo" UID="0xE002"/>
+        <glyph PSName="logoeye" UID="0xE004"/>
+        <glyph PSName="logobeam" UID="0xE006"/>
+        <glyph PSName="logobeam.calt" UID="0xE007"/>
+        <glyph PSName="logofill" UID="0xE008"/>
+        <glyph PSName="logofill.calt" UID="0xE009"/>
+
+        <glyph PSName="sparrow" UID="0xE020"/>
+
+        <glyph PSName="printer" UID="0xf036"/>
+        <glyph PSName="thumbbackup" UID="0xf03c"/>
+<!-- <glyph PSName="thumbsupsign" UID="0x1f44d"/>-->
+
+        <glyph PSName="zero.fitted" UID="0xF639"/>
+        <glyph PSName="one.fitted" UID="0xF6DC"/>
+        <glyph PSName="two.fitted" UID="0xF63A"/>
+        <glyph PSName="three.fitted" UID="0xF63B"/>
+        <glyph PSName="four.fitted" UID="0xF63C"/>
+        <glyph PSName="five.fitted" UID="0xF63D"/>
+        <glyph PSName="six.fitted" UID="0xF63E"/>
+        <glyph PSName="seven.fitted" UID="0xF63F"/>
+        <glyph PSName="eight.fitted" UID="0xF640"/>
+        <glyph PSName="nine.fitted" UID="0xF641"/>
     </step>
-    
+
     <step action="orderGlyphs" by="name"/>
     <step action="saveTTF" name="../build/Splitbeam-Regular/Roman/font.ttf"/>
     <step action="saveOTF" name="../build/Splitbeam-Regular/Roman/font.otf"/>
     <step action="saveJSON" name="../build/Splitbeam-Regular.json"/>
     <step action="save"/>
-
+        
 </font>
