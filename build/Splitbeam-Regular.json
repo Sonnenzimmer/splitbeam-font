@@ -6,6 +6,7 @@
     }, 
     "chars": [
         {
+            "unicodeChar": "\u00b1", 
             "right": 110, 
             "name": "plusminus", 
             "unicodeHex": "B1", 
@@ -14,6 +15,7 @@
             "left": 110
         }, 
         {
+            "unicodeChar": "\u00e5", 
             "right": 140, 
             "name": "aring", 
             "unicodeHex": "E5", 
@@ -22,6 +24,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00aa", 
             "right": 120, 
             "name": "ordfeminine", 
             "unicodeHex": "AA", 
@@ -30,6 +33,7 @@
             "left": 120
         }, 
         {
+            "unicodeChar": "_", 
             "right": 110, 
             "name": "underscore", 
             "unicodeHex": "5F", 
@@ -38,6 +42,7 @@
             "left": 110
         }, 
         {
+            "unicodeChar": "<", 
             "right": 148, 
             "name": "less", 
             "unicodeHex": "3C", 
@@ -46,6 +51,7 @@
             "left": 138
         }, 
         {
+            "unicodeChar": "\u00f2", 
             "right": 140, 
             "name": "ograve", 
             "unicodeHex": "F2", 
@@ -54,6 +60,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "V", 
             "right": 45, 
             "name": "V", 
             "unicodeHex": "56", 
@@ -62,6 +69,7 @@
             "left": 45
         }, 
         {
+            "unicodeChar": "$", 
             "right": 80, 
             "name": "dollar", 
             "unicodeHex": "24", 
@@ -70,6 +78,7 @@
             "left": 80
         }, 
         {
+            "unicodeChar": "\u02c6", 
             "right": 95, 
             "name": "circumflex", 
             "unicodeHex": "2C6", 
@@ -78,6 +87,7 @@
             "left": 95
         }, 
         {
+            "unicodeChar": "\u00d1", 
             "right": 140, 
             "name": "Ntilde", 
             "unicodeHex": "D1", 
@@ -86,6 +96,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": ",", 
             "right": 115, 
             "name": "comma", 
             "unicodeHex": "2C", 
@@ -94,6 +105,7 @@
             "left": 34
         }, 
         {
+            "unicodeChar": "\u00dd", 
             "right": 50, 
             "name": "Yacute", 
             "unicodeHex": "DD", 
@@ -102,6 +114,7 @@
             "left": 50
         }, 
         {
+            "unicodeChar": "\u00c3", 
             "right": 140, 
             "name": "Atilde", 
             "unicodeHex": "C3", 
@@ -110,6 +123,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u2030", 
             "right": 110, 
             "name": "perthousand", 
             "unicodeHex": "2030", 
@@ -118,6 +132,7 @@
             "left": 100
         }, 
         {
+            "unicodeChar": "\u00e7", 
             "right": 75, 
             "name": "ccedilla", 
             "unicodeHex": "E7", 
@@ -126,6 +141,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u201d", 
             "right": 106, 
             "name": "quotedblright", 
             "unicodeHex": "201D", 
@@ -134,6 +150,7 @@
             "left": 70
         }, 
         {
+            "unicodeChar": "\u017d", 
             "right": 65, 
             "name": "Zcaron", 
             "unicodeHex": "17D", 
@@ -142,6 +159,7 @@
             "left": 65
         }, 
         {
+            "unicodeChar": "\u00a9", 
             "right": 120, 
             "name": "copyright", 
             "unicodeHex": "A9", 
@@ -150,6 +168,7 @@
             "left": 120
         }, 
         {
+            "unicodeChar": "\ue020", 
             "right": 75, 
             "name": "sparrow", 
             "unicodeHex": "E020", 
@@ -158,6 +177,7 @@
             "left": 120
         }, 
         {
+            "unicodeChar": "\uf6dc", 
             "right": 140, 
             "name": "one.fitted", 
             "unicodeHex": "F6DC", 
@@ -166,6 +186,7 @@
             "left": 86
         }, 
         {
+            "unicodeChar": "\u00f5", 
             "right": 140, 
             "name": "otilde", 
             "unicodeHex": "F5", 
@@ -174,6 +195,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00fb", 
             "right": 140, 
             "name": "ucircumflex", 
             "unicodeHex": "FB", 
@@ -182,6 +204,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00eb", 
             "right": 100, 
             "name": "edieresis", 
             "unicodeHex": "EB", 
@@ -190,6 +213,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00c9", 
             "right": 100, 
             "name": "Eacute", 
             "unicodeHex": "C9", 
@@ -198,6 +222,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00f4", 
             "right": 140, 
             "name": "ocircumflex", 
             "unicodeHex": "F4", 
@@ -206,6 +231,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u20ac", 
             "right": 75, 
             "name": "Euro", 
             "unicodeHex": "20AC", 
@@ -214,6 +240,7 @@
             "left": 30
         }, 
         {
+            "unicodeChar": "\u00f8", 
             "right": 140, 
             "name": "oslash", 
             "unicodeHex": "F8", 
@@ -222,6 +249,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00bb", 
             "right": 100, 
             "name": "guillemotright", 
             "unicodeHex": "BB", 
@@ -230,6 +258,7 @@
             "left": 110
         }, 
         {
+            "unicodeChar": "\u00ea", 
             "right": 100, 
             "name": "ecircumflex", 
             "unicodeHex": "EA", 
@@ -238,6 +267,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "D", 
             "right": 77, 
             "name": "D", 
             "unicodeHex": "44", 
@@ -246,6 +276,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "H", 
             "right": 140, 
             "name": "H", 
             "unicodeHex": "48", 
@@ -254,6 +285,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "L", 
             "right": 20, 
             "name": "L", 
             "unicodeHex": "4C", 
@@ -262,6 +294,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "P", 
             "right": 75, 
             "name": "P", 
             "unicodeHex": "50", 
@@ -270,6 +303,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u017e", 
             "right": 65, 
             "name": "zcaron", 
             "unicodeHex": "17E", 
@@ -278,6 +312,7 @@
             "left": 65
         }, 
         {
+            "unicodeChar": "\u26a0", 
             "right": 75, 
             "name": "warningsign", 
             "unicodeHex": "26A0", 
@@ -286,6 +321,7 @@
             "left": 75
         }, 
         {
+            "unicodeChar": "5", 
             "right": 143, 
             "name": "five", 
             "unicodeHex": "35", 
@@ -294,6 +330,7 @@
             "left": 148
         }, 
         {
+            "unicodeChar": "T", 
             "right": 70, 
             "name": "T", 
             "unicodeHex": "54", 
@@ -302,6 +339,7 @@
             "left": 70
         }, 
         {
+            "unicodeChar": "\uf63b", 
             "right": 140, 
             "name": "three.fitted", 
             "unicodeHex": "F63B", 
@@ -310,6 +348,7 @@
             "left": 83
         }, 
         {
+            "unicodeChar": "X", 
             "right": 50, 
             "name": "X", 
             "unicodeHex": "58", 
@@ -318,6 +357,7 @@
             "left": 50
         }, 
         {
+            "unicodeChar": "\u00cf", 
             "right": 6, 
             "name": "Idieresis", 
             "unicodeHex": "CF", 
@@ -326,6 +366,7 @@
             "left": 7
         }, 
         {
+            "unicodeChar": "\u00b8", 
             "right": 79, 
             "name": "cedilla", 
             "unicodeHex": "B8", 
@@ -334,6 +375,7 @@
             "left": 73
         }, 
         {
+            "unicodeChar": "\u00dc", 
             "right": 140, 
             "name": "Udieresis", 
             "unicodeHex": "DC", 
@@ -342,6 +384,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00b4", 
             "right": 65, 
             "name": "acute", 
             "unicodeHex": "B4", 
@@ -350,6 +393,7 @@
             "left": 65
         }, 
         {
+            "unicodeChar": "\u00d7", 
             "right": 137, 
             "name": "multiply", 
             "unicodeHex": "D7", 
@@ -358,6 +402,7 @@
             "left": 137
         }, 
         {
+            "unicodeChar": "|", 
             "right": 140, 
             "name": "bar", 
             "unicodeHex": "7C", 
@@ -366,6 +411,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "d", 
             "right": 77, 
             "name": "d", 
             "unicodeHex": "64", 
@@ -374,6 +420,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\uf03c", 
             "right": 95, 
             "name": "thumbbackup", 
             "unicodeHex": "F03C", 
@@ -382,6 +429,7 @@
             "left": 100
         }, 
         {
+            "unicodeChar": "h", 
             "right": 140, 
             "name": "h", 
             "unicodeHex": "68", 
@@ -390,6 +438,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u0152", 
             "right": 90, 
             "name": "OE", 
             "unicodeHex": "152", 
@@ -398,6 +447,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00ff", 
             "right": 50, 
             "name": "ydieresis", 
             "unicodeHex": "FF", 
@@ -406,6 +456,7 @@
             "left": 50
         }, 
         {
+            "unicodeChar": "l", 
             "right": 20, 
             "name": "l", 
             "unicodeHex": "6C", 
@@ -414,6 +465,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00cc", 
             "right": 121, 
             "name": "Igrave", 
             "unicodeHex": "CC", 
@@ -422,6 +474,7 @@
             "left": 18
         }, 
         {
+            "unicodeChar": "\u00f6", 
             "right": 140, 
             "name": "odieresis", 
             "unicodeHex": "F6", 
@@ -430,6 +483,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "p", 
             "right": 75, 
             "name": "p", 
             "unicodeHex": "70", 
@@ -438,6 +492,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "t", 
             "right": 70, 
             "name": "t", 
             "unicodeHex": "74", 
@@ -446,6 +501,7 @@
             "left": 70
         }, 
         {
+            "unicodeChar": "\u00bf", 
             "right": 90, 
             "name": "questiondown", 
             "unicodeHex": "BF", 
@@ -454,6 +510,7 @@
             "left": 120
         }, 
         {
+            "unicodeChar": "\u00a1", 
             "right": 140, 
             "name": "exclamdown", 
             "unicodeHex": "A1", 
@@ -462,6 +519,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\uf63c", 
             "right": 140, 
             "name": "four.fitted", 
             "unicodeHex": "F63C", 
@@ -470,6 +528,7 @@
             "left": 55
         }, 
         {
+            "unicodeChar": ")", 
             "right": 140, 
             "name": "parenright", 
             "unicodeHex": "29", 
@@ -478,6 +537,7 @@
             "left": 85
         }, 
         {
+            "unicodeChar": "\u00a3", 
             "right": 8, 
             "name": "sterling", 
             "unicodeHex": "A3", 
@@ -486,6 +546,7 @@
             "left": 24
         }, 
         {
+            "unicodeChar": "\u2013", 
             "right": 110, 
             "name": "endash", 
             "unicodeHex": "2013", 
@@ -494,6 +555,7 @@
             "left": 110
         }, 
         {
+            "unicodeChar": "\u00b7", 
             "right": 115, 
             "name": "periodcentered", 
             "unicodeHex": "B7", 
@@ -502,6 +564,7 @@
             "left": 115
         }, 
         {
+            "unicodeChar": "\u02dc", 
             "right": 65, 
             "name": "tilde", 
             "unicodeHex": "2DC", 
@@ -510,6 +573,7 @@
             "left": 65
         }, 
         {
+            "unicodeChar": "\u00d5", 
             "right": 140, 
             "name": "Otilde", 
             "unicodeHex": "D5", 
@@ -518,6 +582,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u201a", 
             "right": 100, 
             "name": "quotesinglbase", 
             "unicodeHex": "201A", 
@@ -526,6 +591,7 @@
             "left": 76
         }, 
         {
+            "unicodeChar": "0", 
             "right": 182, 
             "name": "zero", 
             "unicodeHex": "30", 
@@ -534,6 +600,7 @@
             "left": 181
         }, 
         {
+            "unicodeChar": "\u00ac", 
             "right": 110, 
             "name": "logicalnot", 
             "unicodeHex": "AC", 
@@ -542,6 +609,7 @@
             "left": 110
         }, 
         {
+            "unicodeChar": "\u00e0", 
             "right": 140, 
             "name": "agrave", 
             "unicodeHex": "E0", 
@@ -550,6 +618,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00e4", 
             "right": 140, 
             "name": "adieresis", 
             "unicodeHex": "E4", 
@@ -558,6 +627,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "'", 
             "right": 100, 
             "name": "quotesingle", 
             "unicodeHex": "27", 
@@ -566,6 +636,7 @@
             "left": 100
         }, 
         {
+            "unicodeChar": "\u0160", 
             "right": 70, 
             "name": "Scaron", 
             "unicodeHex": "160", 
@@ -574,6 +645,7 @@
             "left": 70
         }, 
         {
+            "unicodeChar": "{", 
             "right": 85, 
             "name": "braceleft", 
             "unicodeHex": "7B", 
@@ -582,6 +654,7 @@
             "left": 70
         }, 
         {
+            "unicodeChar": "\u00e8", 
             "right": 100, 
             "name": "egrave", 
             "unicodeHex": "E8", 
@@ -590,6 +663,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00c4", 
             "right": 140, 
             "name": "Adieresis", 
             "unicodeHex": "C4", 
@@ -598,6 +672,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00b0", 
             "right": 95, 
             "name": "degree", 
             "unicodeHex": "B0", 
@@ -606,6 +681,7 @@
             "left": 95
         }, 
         {
+            "unicodeChar": "\u00d6", 
             "right": 140, 
             "name": "Odieresis", 
             "unicodeHex": "D6", 
@@ -614,6 +690,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": " ", 
             "right": 630, 
             "name": "space", 
             "unicodeHex": "20", 
@@ -622,6 +699,7 @@
             "left": 0
         }, 
         {
+            "unicodeChar": "\u00a7", 
             "right": 54, 
             "name": "section", 
             "unicodeHex": "A7", 
@@ -630,6 +708,7 @@
             "left": 55
         }, 
         {
+            "unicodeChar": "\u00ce", 
             "right": -25, 
             "name": "Icircumflex", 
             "unicodeHex": "CE", 
@@ -638,6 +717,7 @@
             "left": -25
         }, 
         {
+            "unicodeChar": "\u00f1", 
             "right": 140, 
             "name": "ntilde", 
             "unicodeHex": "F1", 
@@ -646,6 +726,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "r", 
             "right": 75, 
             "name": "r", 
             "unicodeHex": "72", 
@@ -654,6 +735,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "&", 
             "right": 110, 
             "name": "ampersand", 
             "unicodeHex": "26", 
@@ -662,6 +744,7 @@
             "left": 110
         }, 
         {
+            "unicodeChar": "/", 
             "right": 85, 
             "name": "slash", 
             "unicodeHex": "2F", 
@@ -670,6 +753,7 @@
             "left": 85
         }, 
         {
+            "unicodeChar": "\u00e3", 
             "right": 140, 
             "name": "atilde", 
             "unicodeHex": "E3", 
@@ -678,6 +762,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00c2", 
             "right": 140, 
             "name": "Acircumflex", 
             "unicodeHex": "C2", 
@@ -686,6 +771,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u2026", 
             "right": 102, 
             "name": "ellipsis", 
             "unicodeHex": "2026", 
@@ -694,6 +780,7 @@
             "left": 98
         }, 
         {
+            "unicodeChar": "\u00c6", 
             "right": 90, 
             "name": "AE", 
             "unicodeHex": "C6", 
@@ -702,6 +789,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u203a", 
             "right": 100, 
             "name": "guilsinglright", 
             "unicodeHex": "203A", 
@@ -710,6 +798,7 @@
             "left": 110
         }, 
         {
+            "unicodeChar": "\u02d9", 
             "right": 95, 
             "name": "dotaccent", 
             "unicodeHex": "2D9", 
@@ -718,6 +807,7 @@
             "left": 95
         }, 
         {
+            "unicodeChar": "\u00d8", 
             "right": 140, 
             "name": "Oslash", 
             "unicodeHex": "D8", 
@@ -726,6 +816,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "C", 
             "right": 75, 
             "name": "C", 
             "unicodeHex": "43", 
@@ -734,6 +825,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\uf63d", 
             "right": 115, 
             "name": "five.fitted", 
             "unicodeHex": "F63D", 
@@ -742,6 +834,7 @@
             "left": 120
         }, 
         {
+            "unicodeChar": "G", 
             "right": 115, 
             "name": "G", 
             "unicodeHex": "47", 
@@ -750,6 +843,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "M", 
             "right": 140, 
             "name": "M", 
             "unicodeHex": "4D", 
@@ -758,6 +852,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "K", 
             "right": 120, 
             "name": "K", 
             "unicodeHex": "4B", 
@@ -766,6 +861,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "O", 
             "right": 140, 
             "name": "O", 
             "unicodeHex": "4F", 
@@ -774,6 +870,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "S", 
             "right": 32, 
             "name": "S", 
             "unicodeHex": "53", 
@@ -782,6 +879,7 @@
             "left": 35
         }, 
         {
+            "unicodeChar": "\uf63a", 
             "right": 95, 
             "name": "two.fitted", 
             "unicodeHex": "F63A", 
@@ -790,6 +888,7 @@
             "left": 80
         }, 
         {
+            "unicodeChar": "\ue009", 
             "right": 639, 
             "name": "logofill.calt", 
             "unicodeHex": "E009", 
@@ -798,6 +897,7 @@
             "left": 639
         }, 
         {
+            "unicodeChar": "W", 
             "right": 90, 
             "name": "W", 
             "unicodeHex": "57", 
@@ -806,6 +906,7 @@
             "left": 90
         }, 
         {
+            "unicodeChar": "x", 
             "right": 50, 
             "name": "x", 
             "unicodeHex": "78", 
@@ -814,6 +915,7 @@
             "left": 50
         }, 
         {
+            "unicodeChar": "\u00e2", 
             "right": 140, 
             "name": "acircumflex", 
             "unicodeHex": "E2", 
@@ -822,6 +924,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\uf641", 
             "right": 140, 
             "name": "nine.fitted", 
             "unicodeHex": "F641", 
@@ -830,6 +933,7 @@
             "left": 120
         }, 
         {
+            "unicodeChar": "!", 
             "right": 140, 
             "name": "exclam", 
             "unicodeHex": "21", 
@@ -838,6 +942,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00ee", 
             "right": -25, 
             "name": "icircumflex", 
             "unicodeHex": "EE", 
@@ -846,6 +951,7 @@
             "left": -25
         }, 
         {
+            "unicodeChar": "\u00c5", 
             "right": 140, 
             "name": "Aring", 
             "unicodeHex": "C5", 
@@ -854,6 +960,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u02db", 
             "right": 203, 
             "name": "ogonek", 
             "unicodeHex": "2DB", 
@@ -862,6 +969,7 @@
             "left": -51
         }, 
         {
+            "unicodeChar": "g", 
             "right": 115, 
             "name": "g", 
             "unicodeHex": "67", 
@@ -870,6 +978,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\uf639", 
             "right": 140, 
             "name": "zero.fitted", 
             "unicodeHex": "F639", 
@@ -878,6 +987,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "k", 
             "right": 120, 
             "name": "k", 
             "unicodeHex": "6B", 
@@ -886,6 +996,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u2039", 
             "right": 110, 
             "name": "guilsinglleft", 
             "unicodeHex": "2039", 
@@ -894,6 +1005,7 @@
             "left": 100
         }, 
         {
+            "unicodeChar": "\u25cf", 
             "right": 106, 
             "name": "blackcircle", 
             "unicodeHex": "25CF", 
@@ -902,6 +1014,7 @@
             "left": 106
         }, 
         {
+            "unicodeChar": "o", 
             "right": 140, 
             "name": "o", 
             "unicodeHex": "6F", 
@@ -910,6 +1023,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00cb", 
             "right": 100, 
             "name": "Edieresis", 
             "unicodeHex": "CB", 
@@ -918,6 +1032,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00d9", 
             "right": 140, 
             "name": "Ugrave", 
             "unicodeHex": "D9", 
@@ -926,6 +1041,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "+", 
             "right": 110, 
             "name": "plus", 
             "unicodeHex": "2B", 
@@ -940,6 +1056,7 @@
             "left": 0
         }, 
         {
+            "unicodeChar": "\u00c0", 
             "right": 140, 
             "name": "Agrave", 
             "unicodeHex": "C0", 
@@ -948,6 +1065,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "8", 
             "right": 130, 
             "name": "eight", 
             "unicodeHex": "38", 
@@ -956,6 +1074,7 @@
             "left": 130
         }, 
         {
+            "unicodeChar": "\u00f0", 
             "right": 80, 
             "name": "eth", 
             "unicodeHex": "F0", 
@@ -964,6 +1083,7 @@
             "left": 74
         }, 
         {
+            "unicodeChar": "\u00fc", 
             "right": 140, 
             "name": "udieresis", 
             "unicodeHex": "FC", 
@@ -972,6 +1092,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00c8", 
             "right": 100, 
             "name": "Egrave", 
             "unicodeHex": "C8", 
@@ -980,6 +1101,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u2020", 
             "right": 100, 
             "name": "dagger", 
             "unicodeHex": "2020", 
@@ -988,6 +1110,7 @@
             "left": 100
         }, 
         {
+            "unicodeChar": "\u00f7", 
             "right": 110, 
             "name": "divide", 
             "unicodeHex": "F7", 
@@ -996,6 +1119,7 @@
             "left": 110
         }, 
         {
+            "unicodeChar": "\u00a5", 
             "right": 64, 
             "name": "yen", 
             "unicodeHex": "A5", 
@@ -1004,6 +1128,7 @@
             "left": 63
         }, 
         {
+            "unicodeChar": "\u2122", 
             "right": 120, 
             "name": "trademark", 
             "unicodeHex": "2122", 
@@ -1012,6 +1137,7 @@
             "left": 100
         }, 
         {
+            "unicodeChar": "-", 
             "right": 110, 
             "name": "hyphen", 
             "unicodeHex": "2D", 
@@ -1020,6 +1146,7 @@
             "left": 110
         }, 
         {
+            "unicodeChar": ".", 
             "right": 115, 
             "name": "period", 
             "unicodeHex": "2E", 
@@ -1028,6 +1155,7 @@
             "left": 115
         }, 
         {
+            "unicodeChar": "\u00ec", 
             "right": 121, 
             "name": "igrave", 
             "unicodeHex": "EC", 
@@ -1036,6 +1164,7 @@
             "left": 18
         }, 
         {
+            "unicodeChar": "1", 
             "right": 343, 
             "name": "one", 
             "unicodeHex": "31", 
@@ -1044,6 +1173,7 @@
             "left": 289
         }, 
         {
+            "unicodeChar": "\u02c7", 
             "right": 95, 
             "name": "caron", 
             "unicodeHex": "2C7", 
@@ -1052,6 +1182,7 @@
             "left": 95
         }, 
         {
+            "unicodeChar": "~", 
             "right": 110, 
             "name": "asciitilde", 
             "unicodeHex": "7E", 
@@ -1060,6 +1191,7 @@
             "left": 110
         }, 
         {
+            "unicodeChar": ":", 
             "right": 115, 
             "name": "colon", 
             "unicodeHex": "3A", 
@@ -1068,6 +1200,7 @@
             "left": 115
         }, 
         {
+            "unicodeChar": "\ue000", 
             "right": 0, 
             "name": "fontversion", 
             "unicodeHex": "E000", 
@@ -1076,6 +1209,7 @@
             "left": 0
         }, 
         {
+            "unicodeChar": "\u23ce", 
             "right": 135, 
             "name": "returnsymbol", 
             "unicodeHex": "23CE", 
@@ -1084,6 +1218,7 @@
             "left": 60
         }, 
         {
+            "unicodeChar": "\u02da", 
             "right": 95, 
             "name": "ring", 
             "unicodeHex": "2DA", 
@@ -1092,6 +1227,7 @@
             "left": 95
         }, 
         {
+            "unicodeChar": "\u02dd", 
             "right": 25, 
             "name": "hungarumlaut", 
             "unicodeHex": "2DD", 
@@ -1100,6 +1236,7 @@
             "left": 89
         }, 
         {
+            "unicodeChar": "(", 
             "right": 85, 
             "name": "parenleft", 
             "unicodeHex": "28", 
@@ -1108,6 +1245,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00ca", 
             "right": 100, 
             "name": "Ecircumflex", 
             "unicodeHex": "CA", 
@@ -1116,6 +1254,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "?", 
             "right": 120, 
             "name": "question", 
             "unicodeHex": "3F", 
@@ -1124,6 +1263,7 @@
             "left": 90
         }, 
         {
+            "unicodeChar": "\u00c1", 
             "right": 140, 
             "name": "Aacute", 
             "unicodeHex": "C1", 
@@ -1132,6 +1272,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00a2", 
             "right": 150, 
             "name": "cent", 
             "unicodeHex": "A2", 
@@ -1140,6 +1281,7 @@
             "left": 184
         }, 
         {
+            "unicodeChar": "\uf63f", 
             "right": 85, 
             "name": "seven.fitted", 
             "unicodeHex": "F63F", 
@@ -1148,6 +1290,7 @@
             "left": 65
         }, 
         {
+            "unicodeChar": "\u2018", 
             "right": 76, 
             "name": "quoteleft", 
             "unicodeHex": "2018", 
@@ -1156,6 +1299,7 @@
             "left": 100
         }, 
         {
+            "unicodeChar": "\u2044", 
             "right": -10, 
             "name": "fraction", 
             "unicodeHex": "2044", 
@@ -1164,6 +1308,7 @@
             "left": -10
         }, 
         {
+            "unicodeChar": "\u0161", 
             "right": 70, 
             "name": "scaron", 
             "unicodeHex": "161", 
@@ -1172,6 +1317,7 @@
             "left": 70
         }, 
         {
+            "unicodeChar": "B", 
             "right": 115, 
             "name": "B", 
             "unicodeHex": "42", 
@@ -1180,6 +1326,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00ed", 
             "right": 18, 
             "name": "iacute", 
             "unicodeHex": "ED", 
@@ -1188,6 +1335,7 @@
             "left": 121
         }, 
         {
+            "unicodeChar": "F", 
             "right": 50, 
             "name": "F", 
             "unicodeHex": "46", 
@@ -1196,6 +1344,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u201e", 
             "right": 100, 
             "name": "quotedblbase", 
             "unicodeHex": "201E", 
@@ -1204,6 +1353,7 @@
             "left": 76
         }, 
         {
+            "unicodeChar": "\uf640", 
             "right": 130, 
             "name": "eight.fitted", 
             "unicodeHex": "F640", 
@@ -1212,6 +1362,7 @@
             "left": 130
         }, 
         {
+            "unicodeChar": "\u00ae", 
             "right": 120, 
             "name": "registered", 
             "unicodeHex": "AE", 
@@ -1220,6 +1371,7 @@
             "left": 120
         }, 
         {
+            "unicodeChar": "J", 
             "right": 140, 
             "name": "J", 
             "unicodeHex": "4A", 
@@ -1228,6 +1380,7 @@
             "left": 35
         }, 
         {
+            "unicodeChar": "\u0178", 
             "right": 50, 
             "name": "Ydieresis", 
             "unicodeHex": "178", 
@@ -1236,6 +1389,7 @@
             "left": 50
         }, 
         {
+            "unicodeChar": "c", 
             "right": 75, 
             "name": "c", 
             "unicodeHex": "63", 
@@ -1244,6 +1398,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "N", 
             "right": 140, 
             "name": "N", 
             "unicodeHex": "4E", 
@@ -1252,6 +1407,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00a8", 
             "right": 77, 
             "name": "dieresis", 
             "unicodeHex": "A8", 
@@ -1260,6 +1416,7 @@
             "left": 53
         }, 
         {
+            "unicodeChar": "R", 
             "right": 75, 
             "name": "R", 
             "unicodeHex": "52", 
@@ -1268,6 +1425,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "[", 
             "right": 105, 
             "name": "bracketleft", 
             "unicodeHex": "5B", 
@@ -1276,6 +1434,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "z", 
             "right": 45, 
             "name": "z", 
             "unicodeHex": "7A", 
@@ -1284,6 +1443,7 @@
             "left": 45
         }, 
         {
+            "unicodeChar": "\u02d8", 
             "right": 95, 
             "name": "breve", 
             "unicodeHex": "2D8", 
@@ -1292,6 +1452,7 @@
             "left": 95
         }, 
         {
+            "unicodeChar": "^", 
             "right": 95, 
             "name": "asciicircum", 
             "unicodeHex": "5E", 
@@ -1300,6 +1461,7 @@
             "left": 95
         }, 
         {
+            "unicodeChar": "Z", 
             "right": 45, 
             "name": "Z", 
             "unicodeHex": "5A", 
@@ -1308,6 +1470,7 @@
             "left": 45
         }, 
         {
+            "unicodeChar": "\u00d3", 
             "right": 140, 
             "name": "Oacute", 
             "unicodeHex": "D3", 
@@ -1316,6 +1479,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "b", 
             "right": 115, 
             "name": "b", 
             "unicodeHex": "62", 
@@ -1324,6 +1488,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00ab", 
             "right": 110, 
             "name": "guillemotleft", 
             "unicodeHex": "AB", 
@@ -1332,6 +1497,7 @@
             "left": 100
         }, 
         {
+            "unicodeChar": "f", 
             "right": 50, 
             "name": "f", 
             "unicodeHex": "66", 
@@ -1340,6 +1506,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00d2", 
             "right": 140, 
             "name": "Ograve", 
             "unicodeHex": "D2", 
@@ -1348,6 +1515,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "j", 
             "right": 140, 
             "name": "j", 
             "unicodeHex": "6A", 
@@ -1356,6 +1524,7 @@
             "left": 35
         }, 
         {
+            "unicodeChar": "7", 
             "right": 128, 
             "name": "seven", 
             "unicodeHex": "37", 
@@ -1364,6 +1533,7 @@
             "left": 107
         }, 
         {
+            "unicodeChar": "n", 
             "right": 140, 
             "name": "n", 
             "unicodeHex": "6E", 
@@ -1372,6 +1542,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u03bc", 
             "right": 140, 
             "name": "mu", 
             "unicodeHex": "3BC", 
@@ -1380,6 +1551,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00b6", 
             "right": 100, 
             "name": "paragraph", 
             "unicodeHex": "B6", 
@@ -1388,6 +1560,7 @@
             "left": 120
         }, 
         {
+            "unicodeChar": "9", 
             "right": 192, 
             "name": "nine", 
             "unicodeHex": "39", 
@@ -1396,6 +1569,7 @@
             "left": 172
         }, 
         {
+            "unicodeChar": "3", 
             "right": 176, 
             "name": "three", 
             "unicodeHex": "33", 
@@ -1404,6 +1578,7 @@
             "left": 119
         }, 
         {
+            "unicodeChar": "v", 
             "right": 45, 
             "name": "v", 
             "unicodeHex": "76", 
@@ -1412,6 +1587,7 @@
             "left": 45
         }, 
         {
+            "unicodeChar": "\u00c7", 
             "right": 75, 
             "name": "Ccedilla", 
             "unicodeHex": "C7", 
@@ -1420,6 +1596,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00ef", 
             "right": 6, 
             "name": "idieresis", 
             "unicodeHex": "EF", 
@@ -1428,6 +1605,7 @@
             "left": 7
         }, 
         {
+            "unicodeChar": "\u2212", 
             "right": 110, 
             "name": "minus", 
             "unicodeHex": "2212", 
@@ -1436,6 +1614,7 @@
             "left": 110
         }, 
         {
+            "unicodeChar": "}", 
             "right": 70, 
             "name": "braceright", 
             "unicodeHex": "7D", 
@@ -1444,6 +1623,7 @@
             "left": 85
         }, 
         {
+            "unicodeChar": "\u201c", 
             "right": 76, 
             "name": "quotedblleft", 
             "unicodeHex": "201C", 
@@ -1452,6 +1632,7 @@
             "left": 100
         }, 
         {
+            "unicodeChar": "#", 
             "right": 90, 
             "name": "numbersign", 
             "unicodeHex": "23", 
@@ -1460,6 +1641,7 @@
             "left": 90
         }, 
         {
+            "unicodeChar": "\u00e6", 
             "right": 90, 
             "name": "ae", 
             "unicodeHex": "E6", 
@@ -1468,6 +1650,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": ";", 
             "right": 115, 
             "name": "semicolon", 
             "unicodeHex": "3B", 
@@ -1476,6 +1659,7 @@
             "left": 34
         }, 
         {
+            "unicodeChar": "\u00a6", 
             "right": 140, 
             "name": "brokenbar", 
             "unicodeHex": "A6", 
@@ -1484,6 +1668,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\ue006", 
             "right": 185, 
             "name": "logobeam", 
             "unicodeHex": "E006", 
@@ -1492,6 +1677,7 @@
             "left": -1501
         }, 
         {
+            "unicodeChar": "\\", 
             "right": 85, 
             "name": "backslash", 
             "unicodeHex": "5C", 
@@ -1500,6 +1686,7 @@
             "left": 85
         }, 
         {
+            "unicodeChar": "=", 
             "right": 110, 
             "name": "equal", 
             "unicodeHex": "3D", 
@@ -1508,6 +1695,7 @@
             "left": 110
         }, 
         {
+            "unicodeChar": "\u2019", 
             "right": 106, 
             "name": "quoteright", 
             "unicodeHex": "2019", 
@@ -1516,6 +1704,7 @@
             "left": 70
         }, 
         {
+            "unicodeChar": "\u00a4", 
             "right": 120, 
             "name": "currency", 
             "unicodeHex": "A4", 
@@ -1524,6 +1713,7 @@
             "left": 120
         }, 
         {
+            "unicodeChar": "\u00f9", 
             "right": 140, 
             "name": "ugrave", 
             "unicodeHex": "F9", 
@@ -1532,6 +1722,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00db", 
             "right": 140, 
             "name": "Ucircumflex", 
             "unicodeHex": "DB", 
@@ -1540,6 +1731,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "@", 
             "right": 130, 
             "name": "at", 
             "unicodeHex": "40", 
@@ -1548,6 +1740,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\ue002", 
             "right": 185, 
             "name": "logo", 
             "unicodeHex": "E002", 
@@ -1556,6 +1749,7 @@
             "left": 185
         }, 
         {
+            "unicodeChar": ">", 
             "right": 176, 
             "name": "greater", 
             "unicodeHex": "3E", 
@@ -1564,6 +1758,7 @@
             "left": 110
         }, 
         {
+            "unicodeChar": "\u25cb", 
             "right": 106, 
             "name": "whitecircle", 
             "unicodeHex": "25CB", 
@@ -1572,6 +1767,7 @@
             "left": 106
         }, 
         {
+            "unicodeChar": "\u0192", 
             "right": 70, 
             "name": "florin", 
             "unicodeHex": "192", 
@@ -1580,6 +1776,7 @@
             "left": 45
         }, 
         {
+            "unicodeChar": "\u00cd", 
             "right": 18, 
             "name": "Iacute", 
             "unicodeHex": "CD", 
@@ -1588,6 +1785,7 @@
             "left": 121
         }, 
         {
+            "unicodeChar": "\u00da", 
             "right": 140, 
             "name": "Uacute", 
             "unicodeHex": "DA", 
@@ -1596,6 +1794,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "6", 
             "right": 123, 
             "name": "six", 
             "unicodeHex": "36", 
@@ -1604,6 +1803,7 @@
             "left": 143
         }, 
         {
+            "unicodeChar": "%", 
             "right": 90, 
             "name": "percent", 
             "unicodeHex": "25", 
@@ -1612,6 +1812,7 @@
             "left": 90
         }, 
         {
+            "unicodeChar": "s", 
             "right": 32, 
             "name": "s", 
             "unicodeHex": "73", 
@@ -1620,6 +1821,7 @@
             "left": 35
         }, 
         {
+            "unicodeChar": "\ue004", 
             "right": 579, 
             "name": "logoeye", 
             "unicodeHex": "E004", 
@@ -1628,6 +1830,7 @@
             "left": 559
         }, 
         {
+            "unicodeChar": "\u00fd", 
             "right": 50, 
             "name": "yacute", 
             "unicodeHex": "FD", 
@@ -1636,6 +1839,7 @@
             "left": 50
         }, 
         {
+            "unicodeChar": "\u00fa", 
             "right": 140, 
             "name": "uacute", 
             "unicodeHex": "FA", 
@@ -1644,6 +1848,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\uf63e", 
             "right": 120, 
             "name": "six.fitted", 
             "unicodeHex": "F63E", 
@@ -1652,6 +1857,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\ue007", 
             "right": 185, 
             "name": "logobeam.calt", 
             "unicodeHex": "E007", 
@@ -1660,6 +1866,7 @@
             "left": 185
         }, 
         {
+            "unicodeChar": "]", 
             "right": 140, 
             "name": "bracketright", 
             "unicodeHex": "5D", 
@@ -1668,6 +1875,7 @@
             "left": 105
         }, 
         {
+            "unicodeChar": "4", 
             "right": 140, 
             "name": "four", 
             "unicodeHex": "34", 
@@ -1676,6 +1884,7 @@
             "left": 55
         }, 
         {
+            "unicodeChar": "A", 
             "right": 140, 
             "name": "A", 
             "unicodeHex": "41", 
@@ -1684,6 +1893,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\"", 
             "right": 100, 
             "name": "quotedbl", 
             "unicodeHex": "22", 
@@ -1692,6 +1902,7 @@
             "left": 100
         }, 
         {
+            "unicodeChar": "\uf036", 
             "right": 120, 
             "name": "printer", 
             "unicodeHex": "F036", 
@@ -1700,6 +1911,7 @@
             "left": 120
         }, 
         {
+            "unicodeChar": "E", 
             "right": 80, 
             "name": "E", 
             "unicodeHex": "45", 
@@ -1708,6 +1920,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "w", 
             "right": 90, 
             "name": "w", 
             "unicodeHex": "77", 
@@ -1716,6 +1929,7 @@
             "left": 90
         }, 
         {
+            "unicodeChar": "I", 
             "right": 140, 
             "name": "I", 
             "unicodeHex": "49", 
@@ -1724,6 +1938,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u2709", 
             "right": 135, 
             "name": "envelope", 
             "unicodeHex": "2709", 
@@ -1732,6 +1947,7 @@
             "left": 135
         }, 
         {
+            "unicodeChar": "\u00de", 
             "right": 125, 
             "name": "Thorn", 
             "unicodeHex": "DE", 
@@ -1740,6 +1956,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "*", 
             "right": 110, 
             "name": "asterisk", 
             "unicodeHex": "2A", 
@@ -1748,6 +1965,7 @@
             "left": 110
         }, 
         {
+            "unicodeChar": "\u00e1", 
             "right": 140, 
             "name": "aacute", 
             "unicodeHex": "E1", 
@@ -1756,6 +1974,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "Q", 
             "right": 140, 
             "name": "Q", 
             "unicodeHex": "51", 
@@ -1764,6 +1983,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "U", 
             "right": 140, 
             "name": "U", 
             "unicodeHex": "55", 
@@ -1772,6 +1992,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "2", 
             "right": 177, 
             "name": "two", 
             "unicodeHex": "32", 
@@ -1780,6 +2001,7 @@
             "left": 161
         }, 
         {
+            "unicodeChar": "Y", 
             "right": 25, 
             "name": "Y", 
             "unicodeHex": "59", 
@@ -1788,6 +2010,7 @@
             "left": 25
         }, 
         {
+            "unicodeChar": "\u00e9", 
             "right": 100, 
             "name": "eacute", 
             "unicodeHex": "E9", 
@@ -1796,6 +2019,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00d0", 
             "right": 80, 
             "name": "Eth", 
             "unicodeHex": "D0", 
@@ -1804,6 +2028,7 @@
             "left": 74
         }, 
         {
+            "unicodeChar": "\u2014", 
             "right": 110, 
             "name": "emdash", 
             "unicodeHex": "2014", 
@@ -1812,6 +2037,7 @@
             "left": 110
         }, 
         {
+            "unicodeChar": "`", 
             "right": 99, 
             "name": "grave", 
             "unicodeHex": "60", 
@@ -1820,6 +2046,7 @@
             "left": 26
         }, 
         {
+            "unicodeChar": "\u00df", 
             "right": 118, 
             "name": "germandbls", 
             "unicodeHex": "DF", 
@@ -1828,6 +2055,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "a", 
             "right": 140, 
             "name": "a", 
             "unicodeHex": "61", 
@@ -1836,6 +2064,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\ue008", 
             "right": 659, 
             "name": "logofill", 
             "unicodeHex": "E008", 
@@ -1844,6 +2073,7 @@
             "left": -1047
         }, 
         {
+            "unicodeChar": "e", 
             "right": 80, 
             "name": "e", 
             "unicodeHex": "65", 
@@ -1852,6 +2082,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u2022", 
             "right": 120, 
             "name": "bullet", 
             "unicodeHex": "2022", 
@@ -1860,6 +2091,7 @@
             "left": 120
         }, 
         {
+            "unicodeChar": "i", 
             "right": 140, 
             "name": "i", 
             "unicodeHex": "69", 
@@ -1868,6 +2100,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00d4", 
             "right": 140, 
             "name": "Ocircumflex", 
             "unicodeHex": "D4", 
@@ -1876,6 +2109,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "m", 
             "right": 140, 
             "name": "m", 
             "unicodeHex": "6D", 
@@ -1884,6 +2118,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "q", 
             "right": 140, 
             "name": "q", 
             "unicodeHex": "71", 
@@ -1892,6 +2127,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u00fe", 
             "right": 125, 
             "name": "thorn", 
             "unicodeHex": "FE", 
@@ -1900,6 +2136,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "u", 
             "right": 140, 
             "name": "u", 
             "unicodeHex": "75", 
@@ -1908,6 +2145,7 @@
             "left": 140
         }, 
         {
+            "unicodeChar": "\u2021", 
             "right": 100, 
             "name": "daggerdbl", 
             "unicodeHex": "2021", 
@@ -1916,6 +2154,7 @@
             "left": 100
         }, 
         {
+            "unicodeChar": "y", 
             "right": 25, 
             "name": "y", 
             "unicodeHex": "79", 
@@ -1924,6 +2163,7 @@
             "left": 25
         }, 
         {
+            "unicodeChar": "\u00f3", 
             "right": 140, 
             "name": "oacute", 
             "unicodeHex": "F3", 
@@ -1936,6 +2176,7 @@
         {
             "chars": [
                 {
+                    "unicodeChar": ".", 
                     "right": 115, 
                     "name": "period", 
                     "unicodeHex": "2E", 
@@ -1944,6 +2185,7 @@
                     "left": 115
                 }, 
                 {
+                    "unicodeChar": "\u2026", 
                     "right": 102, 
                     "name": "ellipsis", 
                     "unicodeHex": "2026", 
@@ -1958,6 +2200,7 @@
         {
             "chars": [
                 {
+                    "unicodeChar": "\u201c", 
                     "right": 76, 
                     "name": "quotedblleft", 
                     "unicodeHex": "201C", 
@@ -1966,6 +2209,7 @@
                     "left": 100
                 }, 
                 {
+                    "unicodeChar": "\u2018", 
                     "right": 76, 
                     "name": "quoteleft", 
                     "unicodeHex": "2018", 
@@ -1980,6 +2224,7 @@
         {
             "chars": [
                 {
+                    "unicodeChar": "\u201d", 
                     "right": 106, 
                     "name": "quotedblright", 
                     "unicodeHex": "201D", 
@@ -1988,6 +2233,7 @@
                     "left": 70
                 }, 
                 {
+                    "unicodeChar": "\u2019", 
                     "right": 106, 
                     "name": "quoteright", 
                     "unicodeHex": "2019", 
@@ -1996,6 +2242,7 @@
                     "left": 70
                 }, 
                 {
+                    "unicodeChar": "\u201a", 
                     "right": 100, 
                     "name": "quotesinglbase", 
                     "unicodeHex": "201A", 
@@ -2004,6 +2251,7 @@
                     "left": 76
                 }, 
                 {
+                    "unicodeChar": "\u201e", 
                     "right": 100, 
                     "name": "quotedblbase", 
                     "unicodeHex": "201E", 
@@ -2017,6 +2265,7 @@
         {
             "chars": [
                 {
+                    "unicodeChar": "0", 
                     "right": 182, 
                     "name": "zero", 
                     "unicodeHex": "30", 
@@ -2025,6 +2274,7 @@
                     "left": 181
                 }, 
                 {
+                    "unicodeChar": "1", 
                     "right": 343, 
                     "name": "one", 
                     "unicodeHex": "31", 
@@ -2033,6 +2283,7 @@
                     "left": 289
                 }, 
                 {
+                    "unicodeChar": "2", 
                     "right": 177, 
                     "name": "two", 
                     "unicodeHex": "32", 
@@ -2041,6 +2292,7 @@
                     "left": 161
                 }, 
                 {
+                    "unicodeChar": "3", 
                     "right": 176, 
                     "name": "three", 
                     "unicodeHex": "33", 
@@ -2049,6 +2301,7 @@
                     "left": 119
                 }, 
                 {
+                    "unicodeChar": "4", 
                     "right": 140, 
                     "name": "four", 
                     "unicodeHex": "34", 
@@ -2057,6 +2310,7 @@
                     "left": 55
                 }, 
                 {
+                    "unicodeChar": "5", 
                     "right": 143, 
                     "name": "five", 
                     "unicodeHex": "35", 
@@ -2065,6 +2319,7 @@
                     "left": 148
                 }, 
                 {
+                    "unicodeChar": "6", 
                     "right": 123, 
                     "name": "six", 
                     "unicodeHex": "36", 
@@ -2073,6 +2328,7 @@
                     "left": 143
                 }, 
                 {
+                    "unicodeChar": "7", 
                     "right": 128, 
                     "name": "seven", 
                     "unicodeHex": "37", 
@@ -2081,6 +2337,7 @@
                     "left": 107
                 }, 
                 {
+                    "unicodeChar": "8", 
                     "right": 130, 
                     "name": "eight", 
                     "unicodeHex": "38", 
@@ -2089,6 +2346,7 @@
                     "left": 130
                 }, 
                 {
+                    "unicodeChar": "9", 
                     "right": 192, 
                     "name": "nine", 
                     "unicodeHex": "39", 
@@ -2097,6 +2355,7 @@
                     "left": 172
                 }, 
                 {
+                    "unicodeChar": "\u20ac", 
                     "right": 75, 
                     "name": "Euro", 
                     "unicodeHex": "20AC", 
@@ -2105,6 +2364,7 @@
                     "left": 30
                 }, 
                 {
+                    "unicodeChar": "\u00a3", 
                     "right": 8, 
                     "name": "sterling", 
                     "unicodeHex": "A3", 
@@ -2113,6 +2373,7 @@
                     "left": 24
                 }, 
                 {
+                    "unicodeChar": "\u0192", 
                     "right": 70, 
                     "name": "florin", 
                     "unicodeHex": "192", 
@@ -2121,6 +2382,7 @@
                     "left": 45
                 }, 
                 {
+                    "unicodeChar": "\u00a2", 
                     "right": 150, 
                     "name": "cent", 
                     "unicodeHex": "A2", 
@@ -2129,6 +2391,7 @@
                     "left": 184
                 }, 
                 {
+                    "unicodeChar": "\u00a5", 
                     "right": 64, 
                     "name": "yen", 
                     "unicodeHex": "A5", 
@@ -2137,6 +2400,7 @@
                     "left": 63
                 }, 
                 {
+                    "unicodeChar": "\u00a7", 
                     "right": 54, 
                     "name": "section", 
                     "unicodeHex": "A7", 
@@ -2150,6 +2414,7 @@
         {
             "chars": [
                 {
+                    "unicodeChar": "<", 
                     "right": 148, 
                     "name": "less", 
                     "unicodeHex": "3C", 
@@ -2158,6 +2423,7 @@
                     "left": 138
                 }, 
                 {
+                    "unicodeChar": "=", 
                     "right": 110, 
                     "name": "equal", 
                     "unicodeHex": "3D", 
@@ -2166,6 +2432,7 @@
                     "left": 110
                 }, 
                 {
+                    "unicodeChar": ">", 
                     "right": 176, 
                     "name": "greater", 
                     "unicodeHex": "3E", 
@@ -2174,6 +2441,7 @@
                     "left": 110
                 }, 
                 {
+                    "unicodeChar": "\u2212", 
                     "right": 110, 
                     "name": "minus", 
                     "unicodeHex": "2212", 
@@ -2182,6 +2450,7 @@
                     "left": 110
                 }, 
                 {
+                    "unicodeChar": "\u00b1", 
                     "right": 110, 
                     "name": "plusminus", 
                     "unicodeHex": "B1", 
@@ -2190,6 +2459,7 @@
                     "left": 110
                 }, 
                 {
+                    "unicodeChar": "\u00d7", 
                     "right": 137, 
                     "name": "multiply", 
                     "unicodeHex": "D7", 
@@ -2198,6 +2468,7 @@
                     "left": 137
                 }, 
                 {
+                    "unicodeChar": "\u00f7", 
                     "right": 110, 
                     "name": "divide", 
                     "unicodeHex": "F7", 
@@ -2206,6 +2477,7 @@
                     "left": 110
                 }, 
                 {
+                    "unicodeChar": "+", 
                     "right": 110, 
                     "name": "plus", 
                     "unicodeHex": "2B", 
@@ -2219,6 +2491,7 @@
         {
             "chars": [
                 {
+                    "unicodeChar": "\ue002", 
                     "right": 185, 
                     "name": "logo", 
                     "unicodeHex": "E002", 
@@ -2227,6 +2500,7 @@
                     "left": 185
                 }, 
                 {
+                    "unicodeChar": "\ue004", 
                     "right": 579, 
                     "name": "logoeye", 
                     "unicodeHex": "E004", 
@@ -2235,6 +2509,7 @@
                     "left": 559
                 }, 
                 {
+                    "unicodeChar": "\uf03c", 
                     "right": 95, 
                     "name": "thumbbackup", 
                     "unicodeHex": "F03C", 
@@ -2243,6 +2518,7 @@
                     "left": 100
                 }, 
                 {
+                    "unicodeChar": "\ue020", 
                     "right": 75, 
                     "name": "sparrow", 
                     "unicodeHex": "E020", 
@@ -2251,6 +2527,7 @@
                     "left": 120
                 }, 
                 {
+                    "unicodeChar": "\u2709", 
                     "right": 135, 
                     "name": "envelope", 
                     "unicodeHex": "2709", 
@@ -2259,6 +2536,7 @@
                     "left": 135
                 }, 
                 {
+                    "unicodeChar": "\u26a0", 
                     "right": 75, 
                     "name": "warningsign", 
                     "unicodeHex": "26A0", 
@@ -2267,6 +2545,7 @@
                     "left": 75
                 }, 
                 {
+                    "unicodeChar": "\uf036", 
                     "right": 120, 
                     "name": "printer", 
                     "unicodeHex": "F036", 
@@ -2275,6 +2554,7 @@
                     "left": 120
                 }, 
                 {
+                    "unicodeChar": "\u23ce", 
                     "right": 135, 
                     "name": "returnsymbol", 
                     "unicodeHex": "23CE", 
@@ -2283,6 +2563,7 @@
                     "left": 60
                 }, 
                 {
+                    "unicodeChar": "\u25cb", 
                     "right": 106, 
                     "name": "whitecircle", 
                     "unicodeHex": "25CB", 
@@ -2291,6 +2572,7 @@
                     "left": 106
                 }, 
                 {
+                    "unicodeChar": "\u25cf", 
                     "right": 106, 
                     "name": "blackcircle", 
                     "unicodeHex": "25CF", 
@@ -2299,6 +2581,7 @@
                     "left": 106
                 }, 
                 {
+                    "unicodeChar": "\ue000", 
                     "right": 0, 
                     "name": "fontversion", 
                     "unicodeHex": "E000", 
@@ -2312,6 +2595,7 @@
         {
             "chars": [
                 {
+                    "unicodeChar": "<", 
                     "right": 148, 
                     "name": "less", 
                     "unicodeHex": "3C", 
@@ -2320,6 +2604,7 @@
                     "left": 138
                 }, 
                 {
+                    "unicodeChar": ">", 
                     "right": 176, 
                     "name": "greater", 
                     "unicodeHex": "3E", 
@@ -2329,6 +2614,7 @@
                 }, 
                 {}, 
                 {
+                    "unicodeChar": "\u2039", 
                     "right": 110, 
                     "name": "guilsinglleft", 
                     "unicodeHex": "2039", 
@@ -2337,6 +2623,7 @@
                     "left": 100
                 }, 
                 {
+                    "unicodeChar": "\u203a", 
                     "right": 100, 
                     "name": "guilsinglright", 
                     "unicodeHex": "203A", 
@@ -2345,6 +2632,7 @@
                     "left": 110
                 }, 
                 {
+                    "unicodeChar": "\u00ab", 
                     "right": 110, 
                     "name": "guillemotleft", 
                     "unicodeHex": "AB", 
@@ -2353,6 +2641,7 @@
                     "left": 100
                 }, 
                 {
+                    "unicodeChar": "\u00bb", 
                     "right": 100, 
                     "name": "guillemotright", 
                     "unicodeHex": "BB", 
@@ -2366,6 +2655,7 @@
         {
             "chars": [
                 {
+                    "unicodeChar": "!", 
                     "right": 140, 
                     "name": "exclam", 
                     "unicodeHex": "21", 
@@ -2374,6 +2664,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": ")", 
                     "right": 140, 
                     "name": "parenright", 
                     "unicodeHex": "29", 
@@ -2382,6 +2673,7 @@
                     "left": 85
                 }, 
                 {
+                    "unicodeChar": "0", 
                     "right": 182, 
                     "name": "zero", 
                     "unicodeHex": "30", 
@@ -2390,6 +2682,7 @@
                     "left": 181
                 }, 
                 {
+                    "unicodeChar": "1", 
                     "right": 343, 
                     "name": "one", 
                     "unicodeHex": "31", 
@@ -2398,6 +2691,7 @@
                     "left": 289
                 }, 
                 {
+                    "unicodeChar": "3", 
                     "right": 176, 
                     "name": "three", 
                     "unicodeHex": "33", 
@@ -2406,6 +2700,7 @@
                     "left": 119
                 }, 
                 {
+                    "unicodeChar": "4", 
                     "right": 140, 
                     "name": "four", 
                     "unicodeHex": "34", 
@@ -2414,6 +2709,7 @@
                     "left": 55
                 }, 
                 {
+                    "unicodeChar": "9", 
                     "right": 192, 
                     "name": "nine", 
                     "unicodeHex": "39", 
@@ -2422,6 +2718,7 @@
                     "left": 172
                 }, 
                 {
+                    "unicodeChar": "A", 
                     "right": 140, 
                     "name": "A", 
                     "unicodeHex": "41", 
@@ -2430,6 +2727,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "H", 
                     "right": 140, 
                     "name": "H", 
                     "unicodeHex": "48", 
@@ -2438,6 +2736,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "I", 
                     "right": 140, 
                     "name": "I", 
                     "unicodeHex": "49", 
@@ -2446,6 +2745,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "J", 
                     "right": 140, 
                     "name": "J", 
                     "unicodeHex": "4A", 
@@ -2454,6 +2754,7 @@
                     "left": 35
                 }, 
                 {
+                    "unicodeChar": "M", 
                     "right": 140, 
                     "name": "M", 
                     "unicodeHex": "4D", 
@@ -2462,6 +2763,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "N", 
                     "right": 140, 
                     "name": "N", 
                     "unicodeHex": "4E", 
@@ -2470,6 +2772,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "O", 
                     "right": 140, 
                     "name": "O", 
                     "unicodeHex": "4F", 
@@ -2478,6 +2781,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "Q", 
                     "right": 140, 
                     "name": "Q", 
                     "unicodeHex": "51", 
@@ -2486,6 +2790,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "U", 
                     "right": 140, 
                     "name": "U", 
                     "unicodeHex": "55", 
@@ -2494,6 +2799,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "]", 
                     "right": 140, 
                     "name": "bracketright", 
                     "unicodeHex": "5D", 
@@ -2502,6 +2808,7 @@
                     "left": 105
                 }, 
                 {
+                    "unicodeChar": "|", 
                     "right": 140, 
                     "name": "bar", 
                     "unicodeHex": "7C", 
@@ -2510,6 +2817,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00a6", 
                     "right": 140, 
                     "name": "brokenbar", 
                     "unicodeHex": "A6", 
@@ -2518,6 +2826,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u03bc", 
                     "right": 140, 
                     "name": "mu", 
                     "unicodeHex": "3BC", 
@@ -2526,6 +2835,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00c0", 
                     "right": 140, 
                     "name": "Agrave", 
                     "unicodeHex": "C0", 
@@ -2534,6 +2844,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00c1", 
                     "right": 140, 
                     "name": "Aacute", 
                     "unicodeHex": "C1", 
@@ -2542,6 +2853,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00c2", 
                     "right": 140, 
                     "name": "Acircumflex", 
                     "unicodeHex": "C2", 
@@ -2550,6 +2862,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00c3", 
                     "right": 140, 
                     "name": "Atilde", 
                     "unicodeHex": "C3", 
@@ -2558,6 +2871,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00c4", 
                     "right": 140, 
                     "name": "Adieresis", 
                     "unicodeHex": "C4", 
@@ -2566,6 +2880,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00c5", 
                     "right": 140, 
                     "name": "Aring", 
                     "unicodeHex": "C5", 
@@ -2574,6 +2889,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00cc", 
                     "right": 121, 
                     "name": "Igrave", 
                     "unicodeHex": "CC", 
@@ -2582,6 +2898,7 @@
                     "left": 18
                 }, 
                 {
+                    "unicodeChar": "\u00cd", 
                     "right": 18, 
                     "name": "Iacute", 
                     "unicodeHex": "CD", 
@@ -2590,6 +2907,7 @@
                     "left": 121
                 }, 
                 {
+                    "unicodeChar": "\u00ce", 
                     "right": -25, 
                     "name": "Icircumflex", 
                     "unicodeHex": "CE", 
@@ -2598,6 +2916,7 @@
                     "left": -25
                 }, 
                 {
+                    "unicodeChar": "\u00cf", 
                     "right": 6, 
                     "name": "Idieresis", 
                     "unicodeHex": "CF", 
@@ -2606,6 +2925,7 @@
                     "left": 7
                 }, 
                 {
+                    "unicodeChar": "\u00d1", 
                     "right": 140, 
                     "name": "Ntilde", 
                     "unicodeHex": "D1", 
@@ -2614,6 +2934,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00d2", 
                     "right": 140, 
                     "name": "Ograve", 
                     "unicodeHex": "D2", 
@@ -2622,6 +2943,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00d3", 
                     "right": 140, 
                     "name": "Oacute", 
                     "unicodeHex": "D3", 
@@ -2630,6 +2952,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00d4", 
                     "right": 140, 
                     "name": "Ocircumflex", 
                     "unicodeHex": "D4", 
@@ -2638,6 +2961,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00d5", 
                     "right": 140, 
                     "name": "Otilde", 
                     "unicodeHex": "D5", 
@@ -2646,6 +2970,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00d6", 
                     "right": 140, 
                     "name": "Odieresis", 
                     "unicodeHex": "D6", 
@@ -2654,6 +2979,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00d9", 
                     "right": 140, 
                     "name": "Ugrave", 
                     "unicodeHex": "D9", 
@@ -2662,6 +2988,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00da", 
                     "right": 140, 
                     "name": "Uacute", 
                     "unicodeHex": "DA", 
@@ -2670,6 +2997,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00db", 
                     "right": 140, 
                     "name": "Ucircumflex", 
                     "unicodeHex": "DB", 
@@ -2678,6 +3006,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00dc", 
                     "right": 140, 
                     "name": "Udieresis", 
                     "unicodeHex": "DC", 
@@ -2691,6 +3020,7 @@
                 {}, 
                 {}, 
                 {
+                    "unicodeChar": "!", 
                     "right": 140, 
                     "name": "exclam", 
                     "unicodeHex": "21", 
@@ -2704,6 +3034,7 @@
         {
             "chars": [
                 {
+                    "unicodeChar": "\"", 
                     "right": 100, 
                     "name": "quotedbl", 
                     "unicodeHex": "22", 
@@ -2712,6 +3043,7 @@
                     "left": 100
                 }, 
                 {
+                    "unicodeChar": "'", 
                     "right": 100, 
                     "name": "quotesingle", 
                     "unicodeHex": "27", 
@@ -2725,6 +3057,7 @@
         {
             "chars": [
                 {
+                    "unicodeChar": "!", 
                     "right": 140, 
                     "name": "exclam", 
                     "unicodeHex": "21", 
@@ -2733,6 +3066,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "0", 
                     "right": 182, 
                     "name": "zero", 
                     "unicodeHex": "30", 
@@ -2741,6 +3075,7 @@
                     "left": 181
                 }, 
                 {
+                    "unicodeChar": "@", 
                     "right": 130, 
                     "name": "at", 
                     "unicodeHex": "40", 
@@ -2749,6 +3084,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "A", 
                     "right": 140, 
                     "name": "A", 
                     "unicodeHex": "41", 
@@ -2757,6 +3093,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "B", 
                     "right": 115, 
                     "name": "B", 
                     "unicodeHex": "42", 
@@ -2765,6 +3102,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "C", 
                     "right": 75, 
                     "name": "C", 
                     "unicodeHex": "43", 
@@ -2773,6 +3111,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "D", 
                     "right": 77, 
                     "name": "D", 
                     "unicodeHex": "44", 
@@ -2781,6 +3120,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "E", 
                     "right": 80, 
                     "name": "E", 
                     "unicodeHex": "45", 
@@ -2789,6 +3129,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "F", 
                     "right": 50, 
                     "name": "F", 
                     "unicodeHex": "46", 
@@ -2797,6 +3138,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "G", 
                     "right": 115, 
                     "name": "G", 
                     "unicodeHex": "47", 
@@ -2805,6 +3147,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "H", 
                     "right": 140, 
                     "name": "H", 
                     "unicodeHex": "48", 
@@ -2813,6 +3156,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "I", 
                     "right": 140, 
                     "name": "I", 
                     "unicodeHex": "49", 
@@ -2821,6 +3165,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "K", 
                     "right": 120, 
                     "name": "K", 
                     "unicodeHex": "4B", 
@@ -2829,6 +3174,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "L", 
                     "right": 20, 
                     "name": "L", 
                     "unicodeHex": "4C", 
@@ -2837,6 +3183,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "M", 
                     "right": 140, 
                     "name": "M", 
                     "unicodeHex": "4D", 
@@ -2845,6 +3192,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "N", 
                     "right": 140, 
                     "name": "N", 
                     "unicodeHex": "4E", 
@@ -2853,6 +3201,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "O", 
                     "right": 140, 
                     "name": "O", 
                     "unicodeHex": "4F", 
@@ -2861,6 +3210,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "P", 
                     "right": 75, 
                     "name": "P", 
                     "unicodeHex": "50", 
@@ -2869,6 +3219,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "Q", 
                     "right": 140, 
                     "name": "Q", 
                     "unicodeHex": "51", 
@@ -2877,6 +3228,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "R", 
                     "right": 75, 
                     "name": "R", 
                     "unicodeHex": "52", 
@@ -2885,6 +3237,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "U", 
                     "right": 140, 
                     "name": "U", 
                     "unicodeHex": "55", 
@@ -2893,6 +3246,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "[", 
                     "right": 105, 
                     "name": "bracketleft", 
                     "unicodeHex": "5B", 
@@ -2901,6 +3255,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "|", 
                     "right": 140, 
                     "name": "bar", 
                     "unicodeHex": "7C", 
@@ -2909,6 +3264,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00a6", 
                     "right": 140, 
                     "name": "brokenbar", 
                     "unicodeHex": "A6", 
@@ -2917,6 +3273,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u03bc", 
                     "right": 140, 
                     "name": "mu", 
                     "unicodeHex": "3BC", 
@@ -2925,6 +3282,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00c0", 
                     "right": 140, 
                     "name": "Agrave", 
                     "unicodeHex": "C0", 
@@ -2933,6 +3291,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00c1", 
                     "right": 140, 
                     "name": "Aacute", 
                     "unicodeHex": "C1", 
@@ -2941,6 +3300,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00c2", 
                     "right": 140, 
                     "name": "Acircumflex", 
                     "unicodeHex": "C2", 
@@ -2949,6 +3309,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00c3", 
                     "right": 140, 
                     "name": "Atilde", 
                     "unicodeHex": "C3", 
@@ -2957,6 +3318,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00c4", 
                     "right": 140, 
                     "name": "Adieresis", 
                     "unicodeHex": "C4", 
@@ -2965,6 +3327,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00c5", 
                     "right": 140, 
                     "name": "Aring", 
                     "unicodeHex": "C5", 
@@ -2973,6 +3336,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00c6", 
                     "right": 90, 
                     "name": "AE", 
                     "unicodeHex": "C6", 
@@ -2981,6 +3345,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00c7", 
                     "right": 75, 
                     "name": "Ccedilla", 
                     "unicodeHex": "C7", 
@@ -2989,6 +3354,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00c8", 
                     "right": 100, 
                     "name": "Egrave", 
                     "unicodeHex": "C8", 
@@ -2997,6 +3363,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00c9", 
                     "right": 100, 
                     "name": "Eacute", 
                     "unicodeHex": "C9", 
@@ -3005,6 +3372,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00ca", 
                     "right": 100, 
                     "name": "Ecircumflex", 
                     "unicodeHex": "CA", 
@@ -3013,6 +3381,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00cb", 
                     "right": 100, 
                     "name": "Edieresis", 
                     "unicodeHex": "CB", 
@@ -3021,6 +3390,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00cc", 
                     "right": 121, 
                     "name": "Igrave", 
                     "unicodeHex": "CC", 
@@ -3029,6 +3399,7 @@
                     "left": 18
                 }, 
                 {
+                    "unicodeChar": "\u00cd", 
                     "right": 18, 
                     "name": "Iacute", 
                     "unicodeHex": "CD", 
@@ -3037,6 +3408,7 @@
                     "left": 121
                 }, 
                 {
+                    "unicodeChar": "\u00ce", 
                     "right": -25, 
                     "name": "Icircumflex", 
                     "unicodeHex": "CE", 
@@ -3045,6 +3417,7 @@
                     "left": -25
                 }, 
                 {
+                    "unicodeChar": "\u00cf", 
                     "right": 6, 
                     "name": "Idieresis", 
                     "unicodeHex": "CF", 
@@ -3053,6 +3426,7 @@
                     "left": 7
                 }, 
                 {
+                    "unicodeChar": "\u00d1", 
                     "right": 140, 
                     "name": "Ntilde", 
                     "unicodeHex": "D1", 
@@ -3061,6 +3435,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00d2", 
                     "right": 140, 
                     "name": "Ograve", 
                     "unicodeHex": "D2", 
@@ -3069,6 +3444,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00d3", 
                     "right": 140, 
                     "name": "Oacute", 
                     "unicodeHex": "D3", 
@@ -3077,6 +3453,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00d4", 
                     "right": 140, 
                     "name": "Ocircumflex", 
                     "unicodeHex": "D4", 
@@ -3085,6 +3462,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00d5", 
                     "right": 140, 
                     "name": "Otilde", 
                     "unicodeHex": "D5", 
@@ -3093,6 +3471,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00d6", 
                     "right": 140, 
                     "name": "Odieresis", 
                     "unicodeHex": "D6", 
@@ -3101,6 +3480,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00d8", 
                     "right": 140, 
                     "name": "Oslash", 
                     "unicodeHex": "D8", 
@@ -3109,6 +3489,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00d9", 
                     "right": 140, 
                     "name": "Ugrave", 
                     "unicodeHex": "D9", 
@@ -3117,6 +3498,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00da", 
                     "right": 140, 
                     "name": "Uacute", 
                     "unicodeHex": "DA", 
@@ -3125,6 +3507,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00db", 
                     "right": 140, 
                     "name": "Ucircumflex", 
                     "unicodeHex": "DB", 
@@ -3133,6 +3516,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00dc", 
                     "right": 140, 
                     "name": "Udieresis", 
                     "unicodeHex": "DC", 
@@ -3141,6 +3525,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00de", 
                     "right": 125, 
                     "name": "Thorn", 
                     "unicodeHex": "DE", 
@@ -3149,6 +3534,7 @@
                     "left": 140
                 }, 
                 {
+                    "unicodeChar": "\u00df", 
                     "right": 118, 
                     "name": "germandbls", 
                     "unicodeHex": "DF", 
@@ -3164,6 +3550,7 @@
                 {}, 
                 {}, 
                 {
+                    "unicodeChar": "!", 
                     "right": 140, 
                     "name": "exclam", 
                     "unicodeHex": "21", 
@@ -3177,6 +3564,7 @@
         {
             "chars": [
                 {
+                    "unicodeChar": "-", 
                     "right": 110, 
                     "name": "hyphen", 
                     "unicodeHex": "2D", 
@@ -3185,6 +3573,7 @@
                     "left": 110
                 }, 
                 {
+                    "unicodeChar": "_", 
                     "right": 110, 
                     "name": "underscore", 
                     "unicodeHex": "5F", 
@@ -3193,6 +3582,7 @@
                     "left": 110
                 }, 
                 {
+                    "unicodeChar": "\u2013", 
                     "right": 110, 
                     "name": "endash", 
                     "unicodeHex": "2013", 
@@ -3201,6 +3591,7 @@
                     "left": 110
                 }, 
                 {
+                    "unicodeChar": "\u2014", 
                     "right": 110, 
                     "name": "emdash", 
                     "unicodeHex": "2014", 
@@ -3209,6 +3600,7 @@
                     "left": 110
                 }, 
                 {
+                    "unicodeChar": "\u00ac", 
                     "right": 110, 
                     "name": "logicalnot", 
                     "unicodeHex": "AC", 
@@ -3217,6 +3609,7 @@
                     "left": 110
                 }, 
                 {
+                    "unicodeChar": "\u2212", 
                     "right": 110, 
                     "name": "minus", 
                     "unicodeHex": "2212", 
@@ -3225,6 +3618,7 @@
                     "left": 110
                 }, 
                 {
+                    "unicodeChar": "-", 
                     "right": 110, 
                     "name": "hyphen", 
                     "unicodeHex": "2D", 
@@ -3233,6 +3627,7 @@
                     "left": 110
                 }, 
                 {
+                    "unicodeChar": "=", 
                     "right": 110, 
                     "name": "equal", 
                     "unicodeHex": "3D", 
@@ -3241,6 +3636,7 @@
                     "left": 110
                 }, 
                 {
+                    "unicodeChar": "~", 
                     "right": 110, 
                     "name": "asciitilde", 
                     "unicodeHex": "7E", 
@@ -3254,6 +3650,7 @@
         {
             "chars": [
                 {
+                    "unicodeChar": ":", 
                     "right": 115, 
                     "name": "colon", 
                     "unicodeHex": "3A", 
@@ -3262,6 +3659,7 @@
                     "left": 115
                 }, 
                 {
+                    "unicodeChar": ";", 
                     "right": 115, 
                     "name": "semicolon", 
                     "unicodeHex": "3B", 
@@ -3270,6 +3668,7 @@
                     "left": 34
                 }, 
                 {
+                    "unicodeChar": ",", 
                     "right": 115, 
                     "name": "comma", 
                     "unicodeHex": "2C", 
@@ -3278,6 +3677,7 @@
                     "left": 34
                 }, 
                 {
+                    "unicodeChar": ".", 
                     "right": 115, 
                     "name": "period", 
                     "unicodeHex": "2E", 
@@ -3286,6 +3686,7 @@
                     "left": 115
                 }, 
                 {
+                    "unicodeChar": ":", 
                     "right": 115, 
                     "name": "colon", 
                     "unicodeHex": "3A", 
@@ -3294,6 +3695,7 @@
                     "left": 115
                 }, 
                 {
+                    "unicodeChar": ";", 
                     "right": 115, 
                     "name": "semicolon", 
                     "unicodeHex": "3B", 
@@ -3302,6 +3704,7 @@
                     "left": 34
                 }, 
                 {
+                    "unicodeChar": "\u00b7", 
                     "right": 115, 
                     "name": "periodcentered", 
                     "unicodeHex": "B7", 
