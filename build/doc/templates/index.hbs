@@ -28,6 +28,7 @@
                 font-size: 1em;
                 line-height: 1.4;
                 font-family: Lucida Console, Monaco, monospace;
+                padding: 40px;
             }
 
             ul {
@@ -90,6 +91,32 @@
                 position: absolute;
                 padding-left: 135px;
             }
+            .example {
+                font-family: 'Splitbeam';
+                font-size: 140px;
+                line-height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+
+            .kern {
+                font-feature-settings: "kern";
+                /* vendor-prefixes */
+                -moz-font-feature-settings: "kern=1";
+                -ms-font-feature-settings: "kern";
+                -webkit-font-feature-settings: "kern";
+                -o-font-feature-settings: "kern";
+
+                text-rendering: optimizeLegibility; /* force Safari to use the kerning */
+            }
+            .calt {
+                font-feature-settings: "calt";
+                /* vendor-prefixes */
+                -moz-font-feature-settings: 'calt=1';
+                -ms-font-feature-settings: "calt";
+                -webkit-font-feature-settings: "calt";
+                -o-font-feature-settings: "calt";
+            }
 
         </style>
 
@@ -99,6 +126,12 @@
         
         <h3>splitbeam Font-Test</h3>
         
+        <h4>Example</h4>
+        <p><span class="example">Splitbeam</span> v1.008</p>
+        <p><span class="example kern">TYJFJLVI</span> KERN&nbsp;&nbsp;&nbsp; </p>
+        <p><span class="example">TYJFJLVI</span> NO KERN </p>
+
+
         <h4>Special glyphs</h4>
         <ul>
             {{#each Splitbeam-Regular.classes}}
