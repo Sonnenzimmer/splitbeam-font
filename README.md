@@ -6,7 +6,7 @@ splitbeam is an OpenType font that have been designed to work in the user interf
 
 ### Folder structur 
 
-```
+<pre>
 – deploy                      >> *Here* you find the final fonts to use in production
 
 build.sh                      >> Shell script to build the final fonts
@@ -24,8 +24,7 @@ package.json                  >> The npm definition to have the grunt task runni
     Splitbeam-Regular.ufo     >> UFO File of the final font
     controll.xml              >> see http://scripts.sil.org/FLGlyphBuilder
     fontstep.xml              >> see https://github.com/signalwerk/fontstep
-
-```
+</pre>
 
 ### Build from source
 To buld the font from the original file:
@@ -62,7 +61,6 @@ blackcircle     0x25cf    circle – black filling
 envelope        0x2709    envelope
 warningsign     0x26a0    warning sign
 returnsymbol    0x23ce    return symbol
-
 </pre>
 
 
@@ -93,7 +91,6 @@ six.fitted      0xF63E      |
 seven.fitted    0xF63F      |
 eight.fitted    0xF640      |
 nine.fitted     0xF641    --
-
 </pre>
 
 ### License
