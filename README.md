@@ -1,5 +1,8 @@
 ## splitbeam
-splitbeam is an OpenType font that have been designed to work in the user interface on [splitbeam.org](http://splitbeam.org/). splitbeam is an open source project. Download the repo and get the fonts in the `deploy` folder.
+splitbeam is an OpenType font that have been designed to work in the user interface on [splitbeam.org](http://splitbeam.org/). splitbeam is an open source project. Download the repo and get the fonts in the `deploy` folder. [Web Font Specimen](http://sonnenzimmer.github.io/splitbeam-font/)
+
+### Download
+[Download Font](https://github.com/Sonnenzimmer/splitbeam-font/archive/master.zip) (fonts in `deploy` folder)
 
 ### Folder structur 
 
