@@ -37,6 +37,10 @@
         <glyph PSName="Aring"/>
         <glyph PSName="Ccedilla"/>
         <glyph PSName="Eth"/>
+        <glyph PSName="logo"/>
+        <glyph PSName="logoeye"/>
+        <glyph PSName="returnsymbol"/>
+        <glyph PSName="thumbbackup"/>
     </step>
 
 
