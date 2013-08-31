@@ -1,0 +1,72 @@
+/* ==========================================================================
+   Definition of the font
+   ========================================================================== */
+
+@font-face {
+  font-family: 'Splitbeam';
+  font-style: normal;
+  font-weight: 400;
+    src: url('../fonts/splitbeam-webfont.eot');                                    /* IE 9 Compatibility Mode */
+    src: url('../fonts/splitbeam-webfont.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+         url('../fonts/splitbeam-webfont.woff') format('woff'),                    /* Firefox >= 3.6, any other modern browser */
+         url('../fonts/splitbeam-webfont.ttf') format('truetype'),                 /* Safari, Android, iOS */
+         url('../fonts/splitbeam-webfont.svg#Splitbeam') format('svg');            /* Chrome < 4, Legacy iOS */
+}
+
+/* ==========================================================================
+   Styling for all icons
+   ========================================================================== */
+.sb-glyphicons {
+    display: inline-block;
+    font-family: 'Splitbeam';
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* ==========================================================================
+   Styling for individual icons
+   ========================================================================== */
+
+
+
+
+
+.sb-glyphicon-logo:before {
+  content: "\E002";
+}
+.sb-glyphicon-logoeye:before {
+  content: "\E004";
+}
+.sb-glyphicon-thumbbackup:before {
+  content: "\F03C";
+}
+.sb-glyphicon-sparrow:before {
+  content: "\E020";
+}
+.sb-glyphicon-envelope:before {
+  content: "\2709";
+}
+.sb-glyphicon-warningsign:before {
+  content: "\26A0";
+}
+.sb-glyphicon-printer:before {
+  content: "\F036";
+}
+.sb-glyphicon-returnsymbol:before {
+  content: "\23CE";
+}
+.sb-glyphicon-whitecircle:before {
+  content: "\25CB";
+}
+.sb-glyphicon-blackcircle:before {
+  content: "\25CF";
+}
+.sb-glyphicon-fontversion:before {
+  content: "\E000";
+}
+
+
+
+
+
+
