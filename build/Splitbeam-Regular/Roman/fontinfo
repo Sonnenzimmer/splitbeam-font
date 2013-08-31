@@ -4,3 +4,22 @@ PreferOS/2TypoMetrics true	        # Must be 'false' for vertical layout cross-p
 IsOS/2WidthWeigthSlopeOnly false	# Must be 'false' for OS/2 table version 3
 IsOS/2OBLIQUE false
 UseOldNameID4 true
+
+begin FDDict UPPERCASELIKE
+	BaselineYCoord 0
+	BaselineOvershoot -45
+	CapHeight 1400
+	CapOvershoot 45
+	DominantV [160]
+	DominantH [160]
+	FlexOK false
+end FDDict UPPERCASELIKE
+
+
+begin GlyphSet UPPERCASELIKE
+	#Latin
+	^[a-zA-Z]$
+	^(zero|one|two|three|four|five|six|seven|eight|nine)(\.fitted)?$
+end GlyphSet UPPERCASELIKE
+
+
