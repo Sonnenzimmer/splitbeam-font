@@ -1,0 +1,3317 @@
+{
+    "info": {
+        "versionMinor": 8, 
+        "version": 1.008, 
+        "versionMajor": 1
+    }, 
+    "chars": [
+        {
+            "right": 110, 
+            "name": "plusminus", 
+            "unicodeHex": "B1", 
+            "width": 800, 
+            "unicode": 177, 
+            "left": 110
+        }, 
+        {
+            "right": 140, 
+            "name": "aring", 
+            "unicodeHex": "E5", 
+            "width": 1084, 
+            "unicode": 229, 
+            "left": 140
+        }, 
+        {
+            "right": 120, 
+            "name": "ordfeminine", 
+            "unicodeHex": "AA", 
+            "width": 691, 
+            "unicode": 170, 
+            "left": 120
+        }, 
+        {
+            "right": 110, 
+            "name": "underscore", 
+            "unicodeHex": "5F", 
+            "width": 1066, 
+            "unicode": 95, 
+            "left": 110
+        }, 
+        {
+            "right": 148, 
+            "name": "less", 
+            "unicodeHex": "3C", 
+            "width": 800, 
+            "unicode": 60, 
+            "left": 138
+        }, 
+        {
+            "right": 140, 
+            "name": "ograve", 
+            "unicodeHex": "F2", 
+            "width": 1143, 
+            "unicode": 242, 
+            "left": 140
+        }, 
+        {
+            "right": 45, 
+            "name": "V", 
+            "unicodeHex": "56", 
+            "width": 936, 
+            "unicode": 86, 
+            "left": 45
+        }, 
+        {
+            "right": 80, 
+            "name": "dollar", 
+            "unicodeHex": "24", 
+            "width": 907, 
+            "unicode": 36, 
+            "left": 80
+        }, 
+        {
+            "right": 95, 
+            "name": "circumflex", 
+            "unicodeHex": "2C6", 
+            "width": 680, 
+            "unicode": 710, 
+            "left": 95
+        }, 
+        {
+            "right": 140, 
+            "name": "Ntilde", 
+            "unicodeHex": "D1", 
+            "width": 1127, 
+            "unicode": 209, 
+            "left": 140
+        }, 
+        {
+            "right": 115, 
+            "name": "comma", 
+            "unicodeHex": "2C", 
+            "width": 391, 
+            "unicode": 44, 
+            "left": 34
+        }, 
+        {
+            "right": 50, 
+            "name": "Yacute", 
+            "unicodeHex": "DD", 
+            "width": 974, 
+            "unicode": 221, 
+            "left": 50
+        }, 
+        {
+            "right": 140, 
+            "name": "Atilde", 
+            "unicodeHex": "C3", 
+            "width": 1084, 
+            "unicode": 195, 
+            "left": 140
+        }, 
+        {
+            "right": 110, 
+            "name": "perthousand", 
+            "unicodeHex": "2030", 
+            "width": 1373, 
+            "unicode": 8240, 
+            "left": 100
+        }, 
+        {
+            "right": 75, 
+            "name": "ccedilla", 
+            "unicodeHex": "E7", 
+            "width": 975, 
+            "unicode": 231, 
+            "left": 140
+        }, 
+        {
+            "right": 106, 
+            "name": "quotedblright", 
+            "unicodeHex": "201D", 
+            "width": 614, 
+            "unicode": 8221, 
+            "left": 70
+        }, 
+        {
+            "right": 65, 
+            "name": "Zcaron", 
+            "unicodeHex": "17D", 
+            "width": 1026, 
+            "unicode": 381, 
+            "left": 65
+        }, 
+        {
+            "right": 120, 
+            "name": "copyright", 
+            "unicodeHex": "A9", 
+            "width": 1232, 
+            "unicode": 169, 
+            "left": 120
+        }, 
+        {
+            "right": 75, 
+            "name": "sparrow", 
+            "unicodeHex": "E020", 
+            "width": 1951, 
+            "unicode": 57376, 
+            "left": 120
+        }, 
+        {
+            "right": 140, 
+            "name": "one.fitted", 
+            "unicodeHex": "F6DC", 
+            "width": 594, 
+            "unicode": 63196, 
+            "left": 86
+        }, 
+        {
+            "right": 140, 
+            "name": "otilde", 
+            "unicodeHex": "F5", 
+            "width": 1143, 
+            "unicode": 245, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "ucircumflex", 
+            "unicodeHex": "FB", 
+            "width": 1006, 
+            "unicode": 251, 
+            "left": 140
+        }, 
+        {
+            "right": 100, 
+            "name": "edieresis", 
+            "unicodeHex": "EB", 
+            "width": 984, 
+            "unicode": 235, 
+            "left": 140
+        }, 
+        {
+            "right": 100, 
+            "name": "Eacute", 
+            "unicodeHex": "C9", 
+            "width": 984, 
+            "unicode": 201, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "ocircumflex", 
+            "unicodeHex": "F4", 
+            "width": 1143, 
+            "unicode": 244, 
+            "left": 140
+        }, 
+        {
+            "right": 75, 
+            "name": "Euro", 
+            "unicodeHex": "20AC", 
+            "width": 1000, 
+            "unicode": 8364, 
+            "left": 30
+        }, 
+        {
+            "right": 140, 
+            "name": "oslash", 
+            "unicodeHex": "F8", 
+            "width": 1143, 
+            "unicode": 248, 
+            "left": 140
+        }, 
+        {
+            "right": 100, 
+            "name": "guillemotright", 
+            "unicodeHex": "BB", 
+            "width": 906, 
+            "unicode": 187, 
+            "left": 110
+        }, 
+        {
+            "right": 100, 
+            "name": "ecircumflex", 
+            "unicodeHex": "EA", 
+            "width": 984, 
+            "unicode": 234, 
+            "left": 140
+        }, 
+        {
+            "right": 77, 
+            "name": "D", 
+            "unicodeHex": "44", 
+            "width": 1105, 
+            "unicode": 68, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "H", 
+            "unicodeHex": "48", 
+            "width": 1107, 
+            "unicode": 72, 
+            "left": 140
+        }, 
+        {
+            "right": 20, 
+            "name": "L", 
+            "unicodeHex": "4C", 
+            "width": 915, 
+            "unicode": 76, 
+            "left": 140
+        }, 
+        {
+            "right": 75, 
+            "name": "P", 
+            "unicodeHex": "50", 
+            "width": 1039, 
+            "unicode": 80, 
+            "left": 140
+        }, 
+        {
+            "right": 65, 
+            "name": "zcaron", 
+            "unicodeHex": "17E", 
+            "width": 1026, 
+            "unicode": 382, 
+            "left": 65
+        }, 
+        {
+            "right": 75, 
+            "name": "warningsign", 
+            "unicodeHex": "26A0", 
+            "width": 1822, 
+            "unicode": 9888, 
+            "left": 75
+        }, 
+        {
+            "right": 143, 
+            "name": "five", 
+            "unicodeHex": "35", 
+            "width": 1000, 
+            "unicode": 53, 
+            "left": 148
+        }, 
+        {
+            "right": 70, 
+            "name": "T", 
+            "unicodeHex": "54", 
+            "width": 835, 
+            "unicode": 84, 
+            "left": 70
+        }, 
+        {
+            "right": 140, 
+            "name": "three.fitted", 
+            "unicodeHex": "F63B", 
+            "width": 928, 
+            "unicode": 63035, 
+            "left": 83
+        }, 
+        {
+            "right": 50, 
+            "name": "X", 
+            "unicodeHex": "58", 
+            "width": 948, 
+            "unicode": 88, 
+            "left": 50
+        }, 
+        {
+            "right": 6, 
+            "name": "Idieresis", 
+            "unicodeHex": "CF", 
+            "width": 440, 
+            "unicode": 207, 
+            "left": 7
+        }, 
+        {
+            "right": 79, 
+            "name": "cedilla", 
+            "unicodeHex": "B8", 
+            "width": 571, 
+            "unicode": 184, 
+            "left": 73
+        }, 
+        {
+            "right": 140, 
+            "name": "Udieresis", 
+            "unicodeHex": "DC", 
+            "width": 1006, 
+            "unicode": 220, 
+            "left": 140
+        }, 
+        {
+            "right": 65, 
+            "name": "acute", 
+            "unicodeHex": "B4", 
+            "width": 431, 
+            "unicode": 180, 
+            "left": 65
+        }, 
+        {
+            "right": 137, 
+            "name": "multiply", 
+            "unicodeHex": "D7", 
+            "width": 800, 
+            "unicode": 215, 
+            "left": 137
+        }, 
+        {
+            "right": 140, 
+            "name": "bar", 
+            "unicodeHex": "7C", 
+            "width": 440, 
+            "unicode": 124, 
+            "left": 140
+        }, 
+        {
+            "right": 77, 
+            "name": "d", 
+            "unicodeHex": "64", 
+            "width": 1105, 
+            "unicode": 100, 
+            "left": 140
+        }, 
+        {
+            "right": 95, 
+            "name": "thumbbackup", 
+            "unicodeHex": "F03C", 
+            "width": 2081, 
+            "unicode": 61500, 
+            "left": 100
+        }, 
+        {
+            "right": 140, 
+            "name": "h", 
+            "unicodeHex": "68", 
+            "width": 1107, 
+            "unicode": 104, 
+            "left": 140
+        }, 
+        {
+            "right": 90, 
+            "name": "OE", 
+            "unicodeHex": "152", 
+            "width": 1444, 
+            "unicode": 338, 
+            "left": 140
+        }, 
+        {
+            "right": 50, 
+            "name": "ydieresis", 
+            "unicodeHex": "FF", 
+            "width": 974, 
+            "unicode": 255, 
+            "left": 50
+        }, 
+        {
+            "right": 20, 
+            "name": "l", 
+            "unicodeHex": "6C", 
+            "width": 915, 
+            "unicode": 108, 
+            "left": 140
+        }, 
+        {
+            "right": 121, 
+            "name": "Igrave", 
+            "unicodeHex": "CC", 
+            "width": 440, 
+            "unicode": 204, 
+            "left": 18
+        }, 
+        {
+            "right": 140, 
+            "name": "odieresis", 
+            "unicodeHex": "F6", 
+            "width": 1143, 
+            "unicode": 246, 
+            "left": 140
+        }, 
+        {
+            "right": 75, 
+            "name": "p", 
+            "unicodeHex": "70", 
+            "width": 1039, 
+            "unicode": 112, 
+            "left": 140
+        }, 
+        {
+            "right": 70, 
+            "name": "t", 
+            "unicodeHex": "74", 
+            "width": 835, 
+            "unicode": 116, 
+            "left": 70
+        }, 
+        {
+            "right": 90, 
+            "name": "questiondown", 
+            "unicodeHex": "BF", 
+            "width": 901, 
+            "unicode": 191, 
+            "left": 120
+        }, 
+        {
+            "right": 140, 
+            "name": "exclamdown", 
+            "unicodeHex": "A1", 
+            "width": 440, 
+            "unicode": 161, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "four.fitted", 
+            "unicodeHex": "F63C", 
+            "width": 1000, 
+            "unicode": 63036, 
+            "left": 55
+        }, 
+        {
+            "right": 140, 
+            "name": "parenright", 
+            "unicodeHex": "29", 
+            "width": 595, 
+            "unicode": 41, 
+            "left": 85
+        }, 
+        {
+            "right": 8, 
+            "name": "sterling", 
+            "unicodeHex": "A3", 
+            "width": 1000, 
+            "unicode": 163, 
+            "left": 24
+        }, 
+        {
+            "right": 110, 
+            "name": "endash", 
+            "unicodeHex": "2013", 
+            "width": 845, 
+            "unicode": 8211, 
+            "left": 110
+        }, 
+        {
+            "right": 115, 
+            "name": "periodcentered", 
+            "unicodeHex": "B7", 
+            "width": 391, 
+            "unicode": 183, 
+            "left": 115
+        }, 
+        {
+            "right": 65, 
+            "name": "tilde", 
+            "unicodeHex": "2DC", 
+            "width": 655, 
+            "unicode": 732, 
+            "left": 65
+        }, 
+        {
+            "right": 140, 
+            "name": "Otilde", 
+            "unicodeHex": "D5", 
+            "width": 1143, 
+            "unicode": 213, 
+            "left": 140
+        }, 
+        {
+            "right": 100, 
+            "name": "quotesinglbase", 
+            "unicodeHex": "201A", 
+            "width": 379, 
+            "unicode": 8218, 
+            "left": 76
+        }, 
+        {
+            "right": 182, 
+            "name": "zero", 
+            "unicodeHex": "30", 
+            "width": 1000, 
+            "unicode": 48, 
+            "left": 181
+        }, 
+        {
+            "right": 110, 
+            "name": "logicalnot", 
+            "unicodeHex": "AC", 
+            "width": 1147, 
+            "unicode": 172, 
+            "left": 110
+        }, 
+        {
+            "right": 140, 
+            "name": "agrave", 
+            "unicodeHex": "E0", 
+            "width": 1084, 
+            "unicode": 224, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "adieresis", 
+            "unicodeHex": "E4", 
+            "width": 1084, 
+            "unicode": 228, 
+            "left": 140
+        }, 
+        {
+            "right": 100, 
+            "name": "quotesingle", 
+            "unicodeHex": "27", 
+            "width": 360, 
+            "unicode": 39, 
+            "left": 100
+        }, 
+        {
+            "right": 70, 
+            "name": "Scaron", 
+            "unicodeHex": "160", 
+            "width": 941, 
+            "unicode": 352, 
+            "left": 70
+        }, 
+        {
+            "right": 85, 
+            "name": "braceleft", 
+            "unicodeHex": "7B", 
+            "width": 715, 
+            "unicode": 123, 
+            "left": 70
+        }, 
+        {
+            "right": 100, 
+            "name": "egrave", 
+            "unicodeHex": "E8", 
+            "width": 984, 
+            "unicode": 232, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "Adieresis", 
+            "unicodeHex": "C4", 
+            "width": 1084, 
+            "unicode": 196, 
+            "left": 140
+        }, 
+        {
+            "right": 95, 
+            "name": "degree", 
+            "unicodeHex": "B0", 
+            "width": 652, 
+            "unicode": 176, 
+            "left": 95
+        }, 
+        {
+            "right": 140, 
+            "name": "Odieresis", 
+            "unicodeHex": "D6", 
+            "width": 1143, 
+            "unicode": 214, 
+            "left": 140
+        }, 
+        {
+            "right": 630, 
+            "name": "space", 
+            "unicodeHex": "20", 
+            "width": 630, 
+            "unicode": 32, 
+            "left": 0
+        }, 
+        {
+            "right": 54, 
+            "name": "section", 
+            "unicodeHex": "A7", 
+            "width": 1000, 
+            "unicode": 167, 
+            "left": 55
+        }, 
+        {
+            "right": -25, 
+            "name": "Icircumflex", 
+            "unicodeHex": "CE", 
+            "width": 440, 
+            "unicode": 206, 
+            "left": -25
+        }, 
+        {
+            "right": 140, 
+            "name": "ntilde", 
+            "unicodeHex": "F1", 
+            "width": 1127, 
+            "unicode": 241, 
+            "left": 140
+        }, 
+        {
+            "right": 75, 
+            "name": "r", 
+            "unicodeHex": "72", 
+            "width": 1103, 
+            "unicode": 114, 
+            "left": 140
+        }, 
+        {
+            "right": 110, 
+            "name": "ampersand", 
+            "unicodeHex": "26", 
+            "width": 715, 
+            "unicode": 38, 
+            "left": 110
+        }, 
+        {
+            "right": 85, 
+            "name": "slash", 
+            "unicodeHex": "2F", 
+            "width": 694, 
+            "unicode": 47, 
+            "left": 85
+        }, 
+        {
+            "right": 140, 
+            "name": "atilde", 
+            "unicodeHex": "E3", 
+            "width": 1084, 
+            "unicode": 227, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "Acircumflex", 
+            "unicodeHex": "C2", 
+            "width": 1084, 
+            "unicode": 194, 
+            "left": 140
+        }, 
+        {
+            "right": 102, 
+            "name": "ellipsis", 
+            "unicodeHex": "2026", 
+            "width": 911, 
+            "unicode": 8230, 
+            "left": 98
+        }, 
+        {
+            "right": 90, 
+            "name": "AE", 
+            "unicodeHex": "C6", 
+            "width": 1446, 
+            "unicode": 198, 
+            "left": 140
+        }, 
+        {
+            "right": 100, 
+            "name": "guilsinglright", 
+            "unicodeHex": "203A", 
+            "width": 571, 
+            "unicode": 8250, 
+            "left": 110
+        }, 
+        {
+            "right": 95, 
+            "name": "dotaccent", 
+            "unicodeHex": "2D9", 
+            "width": 350, 
+            "unicode": 729, 
+            "left": 95
+        }, 
+        {
+            "right": 140, 
+            "name": "Oslash", 
+            "unicodeHex": "D8", 
+            "width": 1143, 
+            "unicode": 216, 
+            "left": 140
+        }, 
+        {
+            "right": 75, 
+            "name": "C", 
+            "unicodeHex": "43", 
+            "width": 975, 
+            "unicode": 67, 
+            "left": 140
+        }, 
+        {
+            "right": 115, 
+            "name": "five.fitted", 
+            "unicodeHex": "F63D", 
+            "width": 944, 
+            "unicode": 63037, 
+            "left": 120
+        }, 
+        {
+            "right": 115, 
+            "name": "G", 
+            "unicodeHex": "47", 
+            "width": 1028, 
+            "unicode": 71, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "M", 
+            "unicodeHex": "4D", 
+            "width": 1221, 
+            "unicode": 77, 
+            "left": 140
+        }, 
+        {
+            "right": 120, 
+            "name": "K", 
+            "unicodeHex": "4B", 
+            "width": 1009, 
+            "unicode": 75, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "O", 
+            "unicodeHex": "4F", 
+            "width": 1143, 
+            "unicode": 79, 
+            "left": 140
+        }, 
+        {
+            "right": 32, 
+            "name": "S", 
+            "unicodeHex": "53", 
+            "width": 938, 
+            "unicode": 83, 
+            "left": 35
+        }, 
+        {
+            "right": 95, 
+            "name": "two.fitted", 
+            "unicodeHex": "F63A", 
+            "width": 837, 
+            "unicode": 63034, 
+            "left": 80
+        }, 
+        {
+            "right": 639, 
+            "name": "logofill.calt", 
+            "unicodeHex": "E009", 
+            "width": 1666, 
+            "unicode": 57353, 
+            "left": 639
+        }, 
+        {
+            "right": 90, 
+            "name": "W", 
+            "unicodeHex": "57", 
+            "width": 1282, 
+            "unicode": 87, 
+            "left": 90
+        }, 
+        {
+            "right": 50, 
+            "name": "x", 
+            "unicodeHex": "78", 
+            "width": 948, 
+            "unicode": 120, 
+            "left": 50
+        }, 
+        {
+            "right": 140, 
+            "name": "acircumflex", 
+            "unicodeHex": "E2", 
+            "width": 1084, 
+            "unicode": 226, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "nine.fitted", 
+            "unicodeHex": "F641", 
+            "width": 896, 
+            "unicode": 63041, 
+            "left": 120
+        }, 
+        {
+            "right": 140, 
+            "name": "exclam", 
+            "unicodeHex": "21", 
+            "width": 440, 
+            "unicode": 33, 
+            "left": 140
+        }, 
+        {
+            "right": -25, 
+            "name": "icircumflex", 
+            "unicodeHex": "EE", 
+            "width": 440, 
+            "unicode": 238, 
+            "left": -25
+        }, 
+        {
+            "right": 140, 
+            "name": "Aring", 
+            "unicodeHex": "C5", 
+            "width": 1084, 
+            "unicode": 197, 
+            "left": 140
+        }, 
+        {
+            "right": 203, 
+            "name": "ogonek", 
+            "unicodeHex": "2DB", 
+            "width": 571, 
+            "unicode": 731, 
+            "left": -51
+        }, 
+        {
+            "right": 115, 
+            "name": "g", 
+            "unicodeHex": "67", 
+            "width": 1028, 
+            "unicode": 103, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "zero.fitted", 
+            "unicodeHex": "F639", 
+            "width": 917, 
+            "unicode": 63033, 
+            "left": 140
+        }, 
+        {
+            "right": 120, 
+            "name": "k", 
+            "unicodeHex": "6B", 
+            "width": 1009, 
+            "unicode": 107, 
+            "left": 140
+        }, 
+        {
+            "right": 110, 
+            "name": "guilsinglleft", 
+            "unicodeHex": "2039", 
+            "width": 571, 
+            "unicode": 8249, 
+            "left": 100
+        }, 
+        {
+            "right": 106, 
+            "name": "blackcircle", 
+            "unicodeHex": "25CF", 
+            "width": 1577, 
+            "unicode": 9679, 
+            "left": 106
+        }, 
+        {
+            "right": 140, 
+            "name": "o", 
+            "unicodeHex": "6F", 
+            "width": 1143, 
+            "unicode": 111, 
+            "left": 140
+        }, 
+        {
+            "right": 100, 
+            "name": "Edieresis", 
+            "unicodeHex": "CB", 
+            "width": 984, 
+            "unicode": 203, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "Ugrave", 
+            "unicodeHex": "D9", 
+            "width": 1006, 
+            "unicode": 217, 
+            "left": 140
+        }, 
+        {
+            "right": 110, 
+            "name": "plus", 
+            "unicodeHex": "2B", 
+            "width": 800, 
+            "unicode": 43, 
+            "left": 110
+        }, 
+        {
+            "width": 630, 
+            "right": 630, 
+            "name": ".notdef", 
+            "left": 0
+        }, 
+        {
+            "right": 140, 
+            "name": "Agrave", 
+            "unicodeHex": "C0", 
+            "width": 1084, 
+            "unicode": 192, 
+            "left": 140
+        }, 
+        {
+            "right": 130, 
+            "name": "eight", 
+            "unicodeHex": "38", 
+            "width": 1000, 
+            "unicode": 56, 
+            "left": 130
+        }, 
+        {
+            "right": 80, 
+            "name": "eth", 
+            "unicodeHex": "F0", 
+            "width": 1199, 
+            "unicode": 240, 
+            "left": 74
+        }, 
+        {
+            "right": 140, 
+            "name": "udieresis", 
+            "unicodeHex": "FC", 
+            "width": 1006, 
+            "unicode": 252, 
+            "left": 140
+        }, 
+        {
+            "right": 100, 
+            "name": "Egrave", 
+            "unicodeHex": "C8", 
+            "width": 984, 
+            "unicode": 200, 
+            "left": 140
+        }, 
+        {
+            "right": 100, 
+            "name": "dagger", 
+            "unicodeHex": "2020", 
+            "width": 824, 
+            "unicode": 8224, 
+            "left": 100
+        }, 
+        {
+            "right": 110, 
+            "name": "divide", 
+            "unicodeHex": "F7", 
+            "width": 800, 
+            "unicode": 247, 
+            "left": 110
+        }, 
+        {
+            "right": 64, 
+            "name": "yen", 
+            "unicodeHex": "A5", 
+            "width": 1000, 
+            "unicode": 165, 
+            "left": 63
+        }, 
+        {
+            "right": 120, 
+            "name": "trademark", 
+            "unicodeHex": "2122", 
+            "width": 1336, 
+            "unicode": 8482, 
+            "left": 100
+        }, 
+        {
+            "right": 110, 
+            "name": "hyphen", 
+            "unicodeHex": "2D", 
+            "width": 799, 
+            "unicode": 45, 
+            "left": 110
+        }, 
+        {
+            "right": 115, 
+            "name": "period", 
+            "unicodeHex": "2E", 
+            "width": 391, 
+            "unicode": 46, 
+            "left": 115
+        }, 
+        {
+            "right": 121, 
+            "name": "igrave", 
+            "unicodeHex": "EC", 
+            "width": 440, 
+            "unicode": 236, 
+            "left": 18
+        }, 
+        {
+            "right": 343, 
+            "name": "one", 
+            "unicodeHex": "31", 
+            "width": 1000, 
+            "unicode": 49, 
+            "left": 289
+        }, 
+        {
+            "right": 95, 
+            "name": "caron", 
+            "unicodeHex": "2C7", 
+            "width": 680, 
+            "unicode": 711, 
+            "left": 95
+        }, 
+        {
+            "right": 110, 
+            "name": "asciitilde", 
+            "unicodeHex": "7E", 
+            "width": 1041, 
+            "unicode": 126, 
+            "left": 110
+        }, 
+        {
+            "right": 115, 
+            "name": "colon", 
+            "unicodeHex": "3A", 
+            "width": 391, 
+            "unicode": 58, 
+            "left": 115
+        }, 
+        {
+            "right": 0, 
+            "name": "fontversion", 
+            "unicodeHex": "E000", 
+            "width": 1400, 
+            "unicode": 57344, 
+            "left": 0
+        }, 
+        {
+            "right": 135, 
+            "name": "returnsymbol", 
+            "unicodeHex": "23CE", 
+            "width": 1502, 
+            "unicode": 9166, 
+            "left": 60
+        }, 
+        {
+            "right": 95, 
+            "name": "ring", 
+            "unicodeHex": "2DA", 
+            "width": 650, 
+            "unicode": 730, 
+            "left": 95
+        }, 
+        {
+            "right": 25, 
+            "name": "hungarumlaut", 
+            "unicodeHex": "2DD", 
+            "width": 669, 
+            "unicode": 733, 
+            "left": 89
+        }, 
+        {
+            "right": 85, 
+            "name": "parenleft", 
+            "unicodeHex": "28", 
+            "width": 595, 
+            "unicode": 40, 
+            "left": 140
+        }, 
+        {
+            "right": 100, 
+            "name": "Ecircumflex", 
+            "unicodeHex": "CA", 
+            "width": 984, 
+            "unicode": 202, 
+            "left": 140
+        }, 
+        {
+            "right": 120, 
+            "name": "question", 
+            "unicodeHex": "3F", 
+            "width": 901, 
+            "unicode": 63, 
+            "left": 90
+        }, 
+        {
+            "right": 140, 
+            "name": "Aacute", 
+            "unicodeHex": "C1", 
+            "width": 1084, 
+            "unicode": 193, 
+            "left": 140
+        }, 
+        {
+            "right": 150, 
+            "name": "cent", 
+            "unicodeHex": "A2", 
+            "width": 1000, 
+            "unicode": 162, 
+            "left": 184
+        }, 
+        {
+            "right": 85, 
+            "name": "seven.fitted", 
+            "unicodeHex": "F63F", 
+            "width": 915, 
+            "unicode": 63039, 
+            "left": 65
+        }, 
+        {
+            "right": 76, 
+            "name": "quoteleft", 
+            "unicodeHex": "2018", 
+            "width": 379, 
+            "unicode": 8216, 
+            "left": 100
+        }, 
+        {
+            "right": -10, 
+            "name": "fraction", 
+            "unicodeHex": "2044", 
+            "width": 739, 
+            "unicode": 8260, 
+            "left": -10
+        }, 
+        {
+            "right": 70, 
+            "name": "scaron", 
+            "unicodeHex": "161", 
+            "width": 941, 
+            "unicode": 353, 
+            "left": 70
+        }, 
+        {
+            "right": 115, 
+            "name": "B", 
+            "unicodeHex": "42", 
+            "width": 1112, 
+            "unicode": 66, 
+            "left": 140
+        }, 
+        {
+            "right": 18, 
+            "name": "iacute", 
+            "unicodeHex": "ED", 
+            "width": 440, 
+            "unicode": 237, 
+            "left": 121
+        }, 
+        {
+            "right": 50, 
+            "name": "F", 
+            "unicodeHex": "46", 
+            "width": 934, 
+            "unicode": 70, 
+            "left": 140
+        }, 
+        {
+            "right": 100, 
+            "name": "quotedblbase", 
+            "unicodeHex": "201E", 
+            "width": 614, 
+            "unicode": 8222, 
+            "left": 76
+        }, 
+        {
+            "right": 130, 
+            "name": "eight.fitted", 
+            "unicodeHex": "F640", 
+            "width": 1000, 
+            "unicode": 63040, 
+            "left": 130
+        }, 
+        {
+            "right": 120, 
+            "name": "registered", 
+            "unicodeHex": "AE", 
+            "width": 1233, 
+            "unicode": 174, 
+            "left": 120
+        }, 
+        {
+            "right": 140, 
+            "name": "J", 
+            "unicodeHex": "4A", 
+            "width": 818, 
+            "unicode": 74, 
+            "left": 35
+        }, 
+        {
+            "right": 50, 
+            "name": "Ydieresis", 
+            "unicodeHex": "178", 
+            "width": 974, 
+            "unicode": 376, 
+            "left": 50
+        }, 
+        {
+            "right": 75, 
+            "name": "c", 
+            "unicodeHex": "63", 
+            "width": 975, 
+            "unicode": 99, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "N", 
+            "unicodeHex": "4E", 
+            "width": 1127, 
+            "unicode": 78, 
+            "left": 140
+        }, 
+        {
+            "right": 77, 
+            "name": "dieresis", 
+            "unicodeHex": "A8", 
+            "width": 557, 
+            "unicode": 168, 
+            "left": 53
+        }, 
+        {
+            "right": 75, 
+            "name": "R", 
+            "unicodeHex": "52", 
+            "width": 1103, 
+            "unicode": 82, 
+            "left": 140
+        }, 
+        {
+            "right": 105, 
+            "name": "bracketleft", 
+            "unicodeHex": "5B", 
+            "width": 488, 
+            "unicode": 91, 
+            "left": 140
+        }, 
+        {
+            "right": 45, 
+            "name": "z", 
+            "unicodeHex": "7A", 
+            "width": 1006, 
+            "unicode": 122, 
+            "left": 45
+        }, 
+        {
+            "right": 95, 
+            "name": "breve", 
+            "unicodeHex": "2D8", 
+            "width": 650, 
+            "unicode": 728, 
+            "left": 95
+        }, 
+        {
+            "right": 95, 
+            "name": "asciicircum", 
+            "unicodeHex": "5E", 
+            "width": 1001, 
+            "unicode": 94, 
+            "left": 95
+        }, 
+        {
+            "right": 45, 
+            "name": "Z", 
+            "unicodeHex": "5A", 
+            "width": 1006, 
+            "unicode": 90, 
+            "left": 45
+        }, 
+        {
+            "right": 140, 
+            "name": "Oacute", 
+            "unicodeHex": "D3", 
+            "width": 1143, 
+            "unicode": 211, 
+            "left": 140
+        }, 
+        {
+            "right": 115, 
+            "name": "b", 
+            "unicodeHex": "62", 
+            "width": 1112, 
+            "unicode": 98, 
+            "left": 140
+        }, 
+        {
+            "right": 110, 
+            "name": "guillemotleft", 
+            "unicodeHex": "AB", 
+            "width": 906, 
+            "unicode": 171, 
+            "left": 100
+        }, 
+        {
+            "right": 50, 
+            "name": "f", 
+            "unicodeHex": "66", 
+            "width": 934, 
+            "unicode": 102, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "Ograve", 
+            "unicodeHex": "D2", 
+            "width": 1143, 
+            "unicode": 210, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "j", 
+            "unicodeHex": "6A", 
+            "width": 818, 
+            "unicode": 106, 
+            "left": 35
+        }, 
+        {
+            "right": 128, 
+            "name": "seven", 
+            "unicodeHex": "37", 
+            "width": 1000, 
+            "unicode": 55, 
+            "left": 107
+        }, 
+        {
+            "right": 140, 
+            "name": "n", 
+            "unicodeHex": "6E", 
+            "width": 1127, 
+            "unicode": 110, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "mu", 
+            "unicodeHex": "3BC", 
+            "width": 1006, 
+            "unicode": 956, 
+            "left": 140
+        }, 
+        {
+            "right": 100, 
+            "name": "paragraph", 
+            "unicodeHex": "B6", 
+            "width": 1174, 
+            "unicode": 182, 
+            "left": 120
+        }, 
+        {
+            "right": 192, 
+            "name": "nine", 
+            "unicodeHex": "39", 
+            "width": 1000, 
+            "unicode": 57, 
+            "left": 172
+        }, 
+        {
+            "right": 176, 
+            "name": "three", 
+            "unicodeHex": "33", 
+            "width": 1000, 
+            "unicode": 51, 
+            "left": 119
+        }, 
+        {
+            "right": 45, 
+            "name": "v", 
+            "unicodeHex": "76", 
+            "width": 936, 
+            "unicode": 118, 
+            "left": 45
+        }, 
+        {
+            "right": 75, 
+            "name": "Ccedilla", 
+            "unicodeHex": "C7", 
+            "width": 975, 
+            "unicode": 199, 
+            "left": 140
+        }, 
+        {
+            "right": 6, 
+            "name": "idieresis", 
+            "unicodeHex": "EF", 
+            "width": 440, 
+            "unicode": 239, 
+            "left": 7
+        }, 
+        {
+            "right": 110, 
+            "name": "minus", 
+            "unicodeHex": "2212", 
+            "width": 800, 
+            "unicode": 8722, 
+            "left": 110
+        }, 
+        {
+            "right": 70, 
+            "name": "braceright", 
+            "unicodeHex": "7D", 
+            "width": 715, 
+            "unicode": 125, 
+            "left": 85
+        }, 
+        {
+            "right": 76, 
+            "name": "quotedblleft", 
+            "unicodeHex": "201C", 
+            "width": 614, 
+            "unicode": 8220, 
+            "left": 100
+        }, 
+        {
+            "right": 90, 
+            "name": "numbersign", 
+            "unicodeHex": "23", 
+            "width": 1308, 
+            "unicode": 35, 
+            "left": 90
+        }, 
+        {
+            "right": 90, 
+            "name": "ae", 
+            "unicodeHex": "E6", 
+            "width": 1446, 
+            "unicode": 230, 
+            "left": 140
+        }, 
+        {
+            "right": 115, 
+            "name": "semicolon", 
+            "unicodeHex": "3B", 
+            "width": 391, 
+            "unicode": 59, 
+            "left": 34
+        }, 
+        {
+            "right": 140, 
+            "name": "brokenbar", 
+            "unicodeHex": "A6", 
+            "width": 440, 
+            "unicode": 166, 
+            "left": 140
+        }, 
+        {
+            "right": 185, 
+            "name": "logobeam", 
+            "unicodeHex": "E006", 
+            "width": 0, 
+            "unicode": 57350, 
+            "left": -1501
+        }, 
+        {
+            "right": 85, 
+            "name": "backslash", 
+            "unicodeHex": "5C", 
+            "width": 694, 
+            "unicode": 92, 
+            "left": 85
+        }, 
+        {
+            "right": 110, 
+            "name": "equal", 
+            "unicodeHex": "3D", 
+            "width": 800, 
+            "unicode": 61, 
+            "left": 110
+        }, 
+        {
+            "right": 106, 
+            "name": "quoteright", 
+            "unicodeHex": "2019", 
+            "width": 379, 
+            "unicode": 8217, 
+            "left": 70
+        }, 
+        {
+            "right": 120, 
+            "name": "currency", 
+            "unicodeHex": "A4", 
+            "width": 985, 
+            "unicode": 164, 
+            "left": 120
+        }, 
+        {
+            "right": 140, 
+            "name": "ugrave", 
+            "unicodeHex": "F9", 
+            "width": 1006, 
+            "unicode": 249, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "Ucircumflex", 
+            "unicodeHex": "DB", 
+            "width": 1006, 
+            "unicode": 219, 
+            "left": 140
+        }, 
+        {
+            "right": 130, 
+            "name": "at", 
+            "unicodeHex": "40", 
+            "width": 1251, 
+            "unicode": 64, 
+            "left": 140
+        }, 
+        {
+            "right": 185, 
+            "name": "logo", 
+            "unicodeHex": "E002", 
+            "width": 1686, 
+            "unicode": 57346, 
+            "left": 185
+        }, 
+        {
+            "right": 176, 
+            "name": "greater", 
+            "unicodeHex": "3E", 
+            "width": 800, 
+            "unicode": 62, 
+            "left": 110
+        }, 
+        {
+            "right": 106, 
+            "name": "whitecircle", 
+            "unicodeHex": "25CB", 
+            "width": 1577, 
+            "unicode": 9675, 
+            "left": 106
+        }, 
+        {
+            "right": 70, 
+            "name": "florin", 
+            "unicodeHex": "192", 
+            "width": 1000, 
+            "unicode": 402, 
+            "left": 45
+        }, 
+        {
+            "right": 18, 
+            "name": "Iacute", 
+            "unicodeHex": "CD", 
+            "width": 440, 
+            "unicode": 205, 
+            "left": 121
+        }, 
+        {
+            "right": 140, 
+            "name": "Uacute", 
+            "unicodeHex": "DA", 
+            "width": 1006, 
+            "unicode": 218, 
+            "left": 140
+        }, 
+        {
+            "right": 123, 
+            "name": "six", 
+            "unicodeHex": "36", 
+            "width": 1000, 
+            "unicode": 54, 
+            "left": 143
+        }, 
+        {
+            "right": 90, 
+            "name": "percent", 
+            "unicodeHex": "25", 
+            "width": 1433, 
+            "unicode": 37, 
+            "left": 90
+        }, 
+        {
+            "right": 32, 
+            "name": "s", 
+            "unicodeHex": "73", 
+            "width": 938, 
+            "unicode": 115, 
+            "left": 35
+        }, 
+        {
+            "right": 579, 
+            "name": "logoeye", 
+            "unicodeHex": "E004", 
+            "width": 1686, 
+            "unicode": 57348, 
+            "left": 559
+        }, 
+        {
+            "right": 50, 
+            "name": "yacute", 
+            "unicodeHex": "FD", 
+            "width": 974, 
+            "unicode": 253, 
+            "left": 50
+        }, 
+        {
+            "right": 140, 
+            "name": "uacute", 
+            "unicodeHex": "FA", 
+            "width": 1006, 
+            "unicode": 250, 
+            "left": 140
+        }, 
+        {
+            "right": 120, 
+            "name": "six.fitted", 
+            "unicodeHex": "F63E", 
+            "width": 994, 
+            "unicode": 63038, 
+            "left": 140
+        }, 
+        {
+            "right": 185, 
+            "name": "logobeam.calt", 
+            "unicodeHex": "E007", 
+            "width": 1686, 
+            "unicode": 57351, 
+            "left": 185
+        }, 
+        {
+            "right": 140, 
+            "name": "bracketright", 
+            "unicodeHex": "5D", 
+            "width": 488, 
+            "unicode": 93, 
+            "left": 105
+        }, 
+        {
+            "right": 140, 
+            "name": "four", 
+            "unicodeHex": "34", 
+            "width": 1000, 
+            "unicode": 52, 
+            "left": 55
+        }, 
+        {
+            "right": 140, 
+            "name": "A", 
+            "unicodeHex": "41", 
+            "width": 1085, 
+            "unicode": 65, 
+            "left": 140
+        }, 
+        {
+            "right": 100, 
+            "name": "quotedbl", 
+            "unicodeHex": "22", 
+            "width": 625, 
+            "unicode": 34, 
+            "left": 100
+        }, 
+        {
+            "right": 120, 
+            "name": "printer", 
+            "unicodeHex": "F036", 
+            "width": 1796, 
+            "unicode": 61494, 
+            "left": 120
+        }, 
+        {
+            "right": 80, 
+            "name": "E", 
+            "unicodeHex": "45", 
+            "width": 964, 
+            "unicode": 69, 
+            "left": 140
+        }, 
+        {
+            "right": 90, 
+            "name": "w", 
+            "unicodeHex": "77", 
+            "width": 1282, 
+            "unicode": 119, 
+            "left": 90
+        }, 
+        {
+            "right": 140, 
+            "name": "I", 
+            "unicodeHex": "49", 
+            "width": 440, 
+            "unicode": 73, 
+            "left": 140
+        }, 
+        {
+            "right": 135, 
+            "name": "envelope", 
+            "unicodeHex": "2709", 
+            "width": 1947, 
+            "unicode": 9993, 
+            "left": 135
+        }, 
+        {
+            "right": 125, 
+            "name": "Thorn", 
+            "unicodeHex": "DE", 
+            "width": 792, 
+            "unicode": 222, 
+            "left": 140
+        }, 
+        {
+            "right": 110, 
+            "name": "asterisk", 
+            "unicodeHex": "2A", 
+            "width": 800, 
+            "unicode": 42, 
+            "left": 110
+        }, 
+        {
+            "right": 140, 
+            "name": "aacute", 
+            "unicodeHex": "E1", 
+            "width": 1084, 
+            "unicode": 225, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "Q", 
+            "unicodeHex": "51", 
+            "width": 1143, 
+            "unicode": 81, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "U", 
+            "unicodeHex": "55", 
+            "width": 1075, 
+            "unicode": 85, 
+            "left": 140
+        }, 
+        {
+            "right": 177, 
+            "name": "two", 
+            "unicodeHex": "32", 
+            "width": 1000, 
+            "unicode": 50, 
+            "left": 161
+        }, 
+        {
+            "right": 25, 
+            "name": "Y", 
+            "unicodeHex": "59", 
+            "width": 923, 
+            "unicode": 89, 
+            "left": 25
+        }, 
+        {
+            "right": 100, 
+            "name": "eacute", 
+            "unicodeHex": "E9", 
+            "width": 984, 
+            "unicode": 233, 
+            "left": 140
+        }, 
+        {
+            "right": 80, 
+            "name": "Eth", 
+            "unicodeHex": "D0", 
+            "width": 1199, 
+            "unicode": 208, 
+            "left": 74
+        }, 
+        {
+            "right": 110, 
+            "name": "emdash", 
+            "unicodeHex": "2014", 
+            "width": 1066, 
+            "unicode": 8212, 
+            "left": 110
+        }, 
+        {
+            "right": 99, 
+            "name": "grave", 
+            "unicodeHex": "60", 
+            "width": 426, 
+            "unicode": 96, 
+            "left": 26
+        }, 
+        {
+            "right": 118, 
+            "name": "germandbls", 
+            "unicodeHex": "DF", 
+            "width": 1024, 
+            "unicode": 223, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "a", 
+            "unicodeHex": "61", 
+            "width": 1085, 
+            "unicode": 97, 
+            "left": 140
+        }, 
+        {
+            "right": 659, 
+            "name": "logofill", 
+            "unicodeHex": "E008", 
+            "width": 0, 
+            "unicode": 57352, 
+            "left": -1047
+        }, 
+        {
+            "right": 80, 
+            "name": "e", 
+            "unicodeHex": "65", 
+            "width": 964, 
+            "unicode": 101, 
+            "left": 140
+        }, 
+        {
+            "right": 120, 
+            "name": "bullet", 
+            "unicodeHex": "2022", 
+            "width": 624, 
+            "unicode": 8226, 
+            "left": 120
+        }, 
+        {
+            "right": 140, 
+            "name": "i", 
+            "unicodeHex": "69", 
+            "width": 440, 
+            "unicode": 105, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "Ocircumflex", 
+            "unicodeHex": "D4", 
+            "width": 1143, 
+            "unicode": 212, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "m", 
+            "unicodeHex": "6D", 
+            "width": 1221, 
+            "unicode": 109, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "q", 
+            "unicodeHex": "71", 
+            "width": 1143, 
+            "unicode": 113, 
+            "left": 140
+        }, 
+        {
+            "right": 125, 
+            "name": "thorn", 
+            "unicodeHex": "FE", 
+            "width": 792, 
+            "unicode": 254, 
+            "left": 140
+        }, 
+        {
+            "right": 140, 
+            "name": "u", 
+            "unicodeHex": "75", 
+            "width": 1075, 
+            "unicode": 117, 
+            "left": 140
+        }, 
+        {
+            "right": 100, 
+            "name": "daggerdbl", 
+            "unicodeHex": "2021", 
+            "width": 825, 
+            "unicode": 8225, 
+            "left": 100
+        }, 
+        {
+            "right": 25, 
+            "name": "y", 
+            "unicodeHex": "79", 
+            "width": 923, 
+            "unicode": 121, 
+            "left": 25
+        }, 
+        {
+            "right": 140, 
+            "name": "oacute", 
+            "unicodeHex": "F3", 
+            "width": 1143, 
+            "unicode": 243, 
+            "left": 140
+        }
+    ], 
+    "classes": [
+        {
+            "chars": [
+                {
+                    "right": 115, 
+                    "name": "period", 
+                    "unicodeHex": "2E", 
+                    "width": 391, 
+                    "unicode": 46, 
+                    "left": 115
+                }, 
+                {
+                    "right": 102, 
+                    "name": "ellipsis", 
+                    "unicodeHex": "2026", 
+                    "width": 911, 
+                    "unicode": 8230, 
+                    "left": 98
+                }, 
+                {}
+            ], 
+            "name": "pointLR"
+        }, 
+        {
+            "chars": [
+                {
+                    "right": 76, 
+                    "name": "quotedblleft", 
+                    "unicodeHex": "201C", 
+                    "width": 614, 
+                    "unicode": 8220, 
+                    "left": 100
+                }, 
+                {
+                    "right": 76, 
+                    "name": "quoteleft", 
+                    "unicodeHex": "2018", 
+                    "width": 379, 
+                    "unicode": 8216, 
+                    "left": 100
+                }, 
+                {}
+            ], 
+            "name": "quoteL"
+        }, 
+        {
+            "chars": [
+                {
+                    "right": 106, 
+                    "name": "quotedblright", 
+                    "unicodeHex": "201D", 
+                    "width": 614, 
+                    "unicode": 8221, 
+                    "left": 70
+                }, 
+                {
+                    "right": 106, 
+                    "name": "quoteright", 
+                    "unicodeHex": "2019", 
+                    "width": 379, 
+                    "unicode": 8217, 
+                    "left": 70
+                }, 
+                {
+                    "right": 100, 
+                    "name": "quotesinglbase", 
+                    "unicodeHex": "201A", 
+                    "width": 379, 
+                    "unicode": 8218, 
+                    "left": 76
+                }, 
+                {
+                    "right": 100, 
+                    "name": "quotedblbase", 
+                    "unicodeHex": "201E", 
+                    "width": 614, 
+                    "unicode": 8222, 
+                    "left": 76
+                }
+            ], 
+            "name": "quoteR"
+        }, 
+        {
+            "chars": [
+                {
+                    "right": 182, 
+                    "name": "zero", 
+                    "unicodeHex": "30", 
+                    "width": 1000, 
+                    "unicode": 48, 
+                    "left": 181
+                }, 
+                {
+                    "right": 343, 
+                    "name": "one", 
+                    "unicodeHex": "31", 
+                    "width": 1000, 
+                    "unicode": 49, 
+                    "left": 289
+                }, 
+                {
+                    "right": 177, 
+                    "name": "two", 
+                    "unicodeHex": "32", 
+                    "width": 1000, 
+                    "unicode": 50, 
+                    "left": 161
+                }, 
+                {
+                    "right": 176, 
+                    "name": "three", 
+                    "unicodeHex": "33", 
+                    "width": 1000, 
+                    "unicode": 51, 
+                    "left": 119
+                }, 
+                {
+                    "right": 140, 
+                    "name": "four", 
+                    "unicodeHex": "34", 
+                    "width": 1000, 
+                    "unicode": 52, 
+                    "left": 55
+                }, 
+                {
+                    "right": 143, 
+                    "name": "five", 
+                    "unicodeHex": "35", 
+                    "width": 1000, 
+                    "unicode": 53, 
+                    "left": 148
+                }, 
+                {
+                    "right": 123, 
+                    "name": "six", 
+                    "unicodeHex": "36", 
+                    "width": 1000, 
+                    "unicode": 54, 
+                    "left": 143
+                }, 
+                {
+                    "right": 128, 
+                    "name": "seven", 
+                    "unicodeHex": "37", 
+                    "width": 1000, 
+                    "unicode": 55, 
+                    "left": 107
+                }, 
+                {
+                    "right": 130, 
+                    "name": "eight", 
+                    "unicodeHex": "38", 
+                    "width": 1000, 
+                    "unicode": 56, 
+                    "left": 130
+                }, 
+                {
+                    "right": 192, 
+                    "name": "nine", 
+                    "unicodeHex": "39", 
+                    "width": 1000, 
+                    "unicode": 57, 
+                    "left": 172
+                }, 
+                {
+                    "right": 75, 
+                    "name": "Euro", 
+                    "unicodeHex": "20AC", 
+                    "width": 1000, 
+                    "unicode": 8364, 
+                    "left": 30
+                }, 
+                {
+                    "right": 8, 
+                    "name": "sterling", 
+                    "unicodeHex": "A3", 
+                    "width": 1000, 
+                    "unicode": 163, 
+                    "left": 24
+                }, 
+                {
+                    "right": 70, 
+                    "name": "florin", 
+                    "unicodeHex": "192", 
+                    "width": 1000, 
+                    "unicode": 402, 
+                    "left": 45
+                }, 
+                {
+                    "right": 150, 
+                    "name": "cent", 
+                    "unicodeHex": "A2", 
+                    "width": 1000, 
+                    "unicode": 162, 
+                    "left": 184
+                }, 
+                {
+                    "right": 64, 
+                    "name": "yen", 
+                    "unicodeHex": "A5", 
+                    "width": 1000, 
+                    "unicode": 165, 
+                    "left": 63
+                }, 
+                {
+                    "right": 54, 
+                    "name": "section", 
+                    "unicodeHex": "A7", 
+                    "width": 1000, 
+                    "unicode": 167, 
+                    "left": 55
+                }
+            ], 
+            "name": "TabNumber"
+        }, 
+        {
+            "chars": [
+                {
+                    "right": 148, 
+                    "name": "less", 
+                    "unicodeHex": "3C", 
+                    "width": 800, 
+                    "unicode": 60, 
+                    "left": 138
+                }, 
+                {
+                    "right": 110, 
+                    "name": "equal", 
+                    "unicodeHex": "3D", 
+                    "width": 800, 
+                    "unicode": 61, 
+                    "left": 110
+                }, 
+                {
+                    "right": 176, 
+                    "name": "greater", 
+                    "unicodeHex": "3E", 
+                    "width": 800, 
+                    "unicode": 62, 
+                    "left": 110
+                }, 
+                {
+                    "right": 110, 
+                    "name": "minus", 
+                    "unicodeHex": "2212", 
+                    "width": 800, 
+                    "unicode": 8722, 
+                    "left": 110
+                }, 
+                {
+                    "right": 110, 
+                    "name": "plusminus", 
+                    "unicodeHex": "B1", 
+                    "width": 800, 
+                    "unicode": 177, 
+                    "left": 110
+                }, 
+                {
+                    "right": 137, 
+                    "name": "multiply", 
+                    "unicodeHex": "D7", 
+                    "width": 800, 
+                    "unicode": 215, 
+                    "left": 137
+                }, 
+                {
+                    "right": 110, 
+                    "name": "divide", 
+                    "unicodeHex": "F7", 
+                    "width": 800, 
+                    "unicode": 247, 
+                    "left": 110
+                }, 
+                {
+                    "right": 110, 
+                    "name": "plus", 
+                    "unicodeHex": "2B", 
+                    "width": 800, 
+                    "unicode": 43, 
+                    "left": 110
+                }
+            ], 
+            "name": "MathSymbols"
+        }, 
+        {
+            "chars": [
+                {
+                    "right": 185, 
+                    "name": "logo", 
+                    "unicodeHex": "E002", 
+                    "width": 1686, 
+                    "unicode": 57346, 
+                    "left": 185
+                }, 
+                {
+                    "right": 579, 
+                    "name": "logoeye", 
+                    "unicodeHex": "E004", 
+                    "width": 1686, 
+                    "unicode": 57348, 
+                    "left": 559
+                }, 
+                {
+                    "right": 95, 
+                    "name": "thumbbackup", 
+                    "unicodeHex": "F03C", 
+                    "width": 2081, 
+                    "unicode": 61500, 
+                    "left": 100
+                }, 
+                {
+                    "right": 75, 
+                    "name": "sparrow", 
+                    "unicodeHex": "E020", 
+                    "width": 1951, 
+                    "unicode": 57376, 
+                    "left": 120
+                }, 
+                {
+                    "right": 135, 
+                    "name": "envelope", 
+                    "unicodeHex": "2709", 
+                    "width": 1947, 
+                    "unicode": 9993, 
+                    "left": 135
+                }, 
+                {
+                    "right": 75, 
+                    "name": "warningsign", 
+                    "unicodeHex": "26A0", 
+                    "width": 1822, 
+                    "unicode": 9888, 
+                    "left": 75
+                }, 
+                {
+                    "right": 120, 
+                    "name": "printer", 
+                    "unicodeHex": "F036", 
+                    "width": 1796, 
+                    "unicode": 61494, 
+                    "left": 120
+                }, 
+                {
+                    "right": 135, 
+                    "name": "returnsymbol", 
+                    "unicodeHex": "23CE", 
+                    "width": 1502, 
+                    "unicode": 9166, 
+                    "left": 60
+                }, 
+                {
+                    "right": 106, 
+                    "name": "whitecircle", 
+                    "unicodeHex": "25CB", 
+                    "width": 1577, 
+                    "unicode": 9675, 
+                    "left": 106
+                }, 
+                {
+                    "right": 106, 
+                    "name": "blackcircle", 
+                    "unicodeHex": "25CF", 
+                    "width": 1577, 
+                    "unicode": 9679, 
+                    "left": 106
+                }, 
+                {
+                    "right": 0, 
+                    "name": "fontversion", 
+                    "unicodeHex": "E000", 
+                    "width": 1400, 
+                    "unicode": 57344, 
+                    "left": 0
+                }
+            ], 
+            "name": "printCSS"
+        }, 
+        {
+            "chars": [
+                {
+                    "right": 148, 
+                    "name": "less", 
+                    "unicodeHex": "3C", 
+                    "width": 800, 
+                    "unicode": 60, 
+                    "left": 138
+                }, 
+                {
+                    "right": 176, 
+                    "name": "greater", 
+                    "unicodeHex": "3E", 
+                    "width": 800, 
+                    "unicode": 62, 
+                    "left": 110
+                }, 
+                {}, 
+                {
+                    "right": 110, 
+                    "name": "guilsinglleft", 
+                    "unicodeHex": "2039", 
+                    "width": 571, 
+                    "unicode": 8249, 
+                    "left": 100
+                }, 
+                {
+                    "right": 100, 
+                    "name": "guilsinglright", 
+                    "unicodeHex": "203A", 
+                    "width": 571, 
+                    "unicode": 8250, 
+                    "left": 110
+                }, 
+                {
+                    "right": 110, 
+                    "name": "guillemotleft", 
+                    "unicodeHex": "AB", 
+                    "width": 906, 
+                    "unicode": 171, 
+                    "left": 100
+                }, 
+                {
+                    "right": 100, 
+                    "name": "guillemotright", 
+                    "unicodeHex": "BB", 
+                    "width": 906, 
+                    "unicode": 187, 
+                    "left": 110
+                }
+            ], 
+            "name": "pointbrackets"
+        }, 
+        {
+            "chars": [
+                {
+                    "right": 140, 
+                    "name": "exclam", 
+                    "unicodeHex": "21", 
+                    "width": 440, 
+                    "unicode": 33, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "parenright", 
+                    "unicodeHex": "29", 
+                    "width": 595, 
+                    "unicode": 41, 
+                    "left": 85
+                }, 
+                {
+                    "right": 182, 
+                    "name": "zero", 
+                    "unicodeHex": "30", 
+                    "width": 1000, 
+                    "unicode": 48, 
+                    "left": 181
+                }, 
+                {
+                    "right": 343, 
+                    "name": "one", 
+                    "unicodeHex": "31", 
+                    "width": 1000, 
+                    "unicode": 49, 
+                    "left": 289
+                }, 
+                {
+                    "right": 176, 
+                    "name": "three", 
+                    "unicodeHex": "33", 
+                    "width": 1000, 
+                    "unicode": 51, 
+                    "left": 119
+                }, 
+                {
+                    "right": 140, 
+                    "name": "four", 
+                    "unicodeHex": "34", 
+                    "width": 1000, 
+                    "unicode": 52, 
+                    "left": 55
+                }, 
+                {
+                    "right": 192, 
+                    "name": "nine", 
+                    "unicodeHex": "39", 
+                    "width": 1000, 
+                    "unicode": 57, 
+                    "left": 172
+                }, 
+                {
+                    "right": 140, 
+                    "name": "A", 
+                    "unicodeHex": "41", 
+                    "width": 1085, 
+                    "unicode": 65, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "H", 
+                    "unicodeHex": "48", 
+                    "width": 1107, 
+                    "unicode": 72, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "I", 
+                    "unicodeHex": "49", 
+                    "width": 440, 
+                    "unicode": 73, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "J", 
+                    "unicodeHex": "4A", 
+                    "width": 818, 
+                    "unicode": 74, 
+                    "left": 35
+                }, 
+                {
+                    "right": 140, 
+                    "name": "M", 
+                    "unicodeHex": "4D", 
+                    "width": 1221, 
+                    "unicode": 77, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "N", 
+                    "unicodeHex": "4E", 
+                    "width": 1127, 
+                    "unicode": 78, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "O", 
+                    "unicodeHex": "4F", 
+                    "width": 1143, 
+                    "unicode": 79, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Q", 
+                    "unicodeHex": "51", 
+                    "width": 1143, 
+                    "unicode": 81, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "U", 
+                    "unicodeHex": "55", 
+                    "width": 1075, 
+                    "unicode": 85, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "bracketright", 
+                    "unicodeHex": "5D", 
+                    "width": 488, 
+                    "unicode": 93, 
+                    "left": 105
+                }, 
+                {
+                    "right": 140, 
+                    "name": "bar", 
+                    "unicodeHex": "7C", 
+                    "width": 440, 
+                    "unicode": 124, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "brokenbar", 
+                    "unicodeHex": "A6", 
+                    "width": 440, 
+                    "unicode": 166, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "mu", 
+                    "unicodeHex": "3BC", 
+                    "width": 1006, 
+                    "unicode": 956, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Agrave", 
+                    "unicodeHex": "C0", 
+                    "width": 1084, 
+                    "unicode": 192, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Aacute", 
+                    "unicodeHex": "C1", 
+                    "width": 1084, 
+                    "unicode": 193, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Acircumflex", 
+                    "unicodeHex": "C2", 
+                    "width": 1084, 
+                    "unicode": 194, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Atilde", 
+                    "unicodeHex": "C3", 
+                    "width": 1084, 
+                    "unicode": 195, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Adieresis", 
+                    "unicodeHex": "C4", 
+                    "width": 1084, 
+                    "unicode": 196, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Aring", 
+                    "unicodeHex": "C5", 
+                    "width": 1084, 
+                    "unicode": 197, 
+                    "left": 140
+                }, 
+                {
+                    "right": 121, 
+                    "name": "Igrave", 
+                    "unicodeHex": "CC", 
+                    "width": 440, 
+                    "unicode": 204, 
+                    "left": 18
+                }, 
+                {
+                    "right": 18, 
+                    "name": "Iacute", 
+                    "unicodeHex": "CD", 
+                    "width": 440, 
+                    "unicode": 205, 
+                    "left": 121
+                }, 
+                {
+                    "right": -25, 
+                    "name": "Icircumflex", 
+                    "unicodeHex": "CE", 
+                    "width": 440, 
+                    "unicode": 206, 
+                    "left": -25
+                }, 
+                {
+                    "right": 6, 
+                    "name": "Idieresis", 
+                    "unicodeHex": "CF", 
+                    "width": 440, 
+                    "unicode": 207, 
+                    "left": 7
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Ntilde", 
+                    "unicodeHex": "D1", 
+                    "width": 1127, 
+                    "unicode": 209, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Ograve", 
+                    "unicodeHex": "D2", 
+                    "width": 1143, 
+                    "unicode": 210, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Oacute", 
+                    "unicodeHex": "D3", 
+                    "width": 1143, 
+                    "unicode": 211, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Ocircumflex", 
+                    "unicodeHex": "D4", 
+                    "width": 1143, 
+                    "unicode": 212, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Otilde", 
+                    "unicodeHex": "D5", 
+                    "width": 1143, 
+                    "unicode": 213, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Odieresis", 
+                    "unicodeHex": "D6", 
+                    "width": 1143, 
+                    "unicode": 214, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Ugrave", 
+                    "unicodeHex": "D9", 
+                    "width": 1006, 
+                    "unicode": 217, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Uacute", 
+                    "unicodeHex": "DA", 
+                    "width": 1006, 
+                    "unicode": 218, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Ucircumflex", 
+                    "unicodeHex": "DB", 
+                    "width": 1006, 
+                    "unicode": 219, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Udieresis", 
+                    "unicodeHex": "DC", 
+                    "width": 1006, 
+                    "unicode": 220, 
+                    "left": 140
+                }, 
+                {}, 
+                {}, 
+                {}, 
+                {}, 
+                {}, 
+                {
+                    "right": 140, 
+                    "name": "exclam", 
+                    "unicodeHex": "21", 
+                    "width": 440, 
+                    "unicode": 33, 
+                    "left": 140
+                }
+            ], 
+            "name": "straightRight"
+        }, 
+        {
+            "chars": [
+                {
+                    "right": 100, 
+                    "name": "quotedbl", 
+                    "unicodeHex": "22", 
+                    "width": 625, 
+                    "unicode": 34, 
+                    "left": 100
+                }, 
+                {
+                    "right": 100, 
+                    "name": "quotesingle", 
+                    "unicodeHex": "27", 
+                    "width": 360, 
+                    "unicode": 39, 
+                    "left": 100
+                }
+            ], 
+            "name": "quoteStraight"
+        }, 
+        {
+            "chars": [
+                {
+                    "right": 140, 
+                    "name": "exclam", 
+                    "unicodeHex": "21", 
+                    "width": 440, 
+                    "unicode": 33, 
+                    "left": 140
+                }, 
+                {
+                    "right": 182, 
+                    "name": "zero", 
+                    "unicodeHex": "30", 
+                    "width": 1000, 
+                    "unicode": 48, 
+                    "left": 181
+                }, 
+                {
+                    "right": 130, 
+                    "name": "at", 
+                    "unicodeHex": "40", 
+                    "width": 1251, 
+                    "unicode": 64, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "A", 
+                    "unicodeHex": "41", 
+                    "width": 1085, 
+                    "unicode": 65, 
+                    "left": 140
+                }, 
+                {
+                    "right": 115, 
+                    "name": "B", 
+                    "unicodeHex": "42", 
+                    "width": 1112, 
+                    "unicode": 66, 
+                    "left": 140
+                }, 
+                {
+                    "right": 75, 
+                    "name": "C", 
+                    "unicodeHex": "43", 
+                    "width": 975, 
+                    "unicode": 67, 
+                    "left": 140
+                }, 
+                {
+                    "right": 77, 
+                    "name": "D", 
+                    "unicodeHex": "44", 
+                    "width": 1105, 
+                    "unicode": 68, 
+                    "left": 140
+                }, 
+                {
+                    "right": 80, 
+                    "name": "E", 
+                    "unicodeHex": "45", 
+                    "width": 964, 
+                    "unicode": 69, 
+                    "left": 140
+                }, 
+                {
+                    "right": 50, 
+                    "name": "F", 
+                    "unicodeHex": "46", 
+                    "width": 934, 
+                    "unicode": 70, 
+                    "left": 140
+                }, 
+                {
+                    "right": 115, 
+                    "name": "G", 
+                    "unicodeHex": "47", 
+                    "width": 1028, 
+                    "unicode": 71, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "H", 
+                    "unicodeHex": "48", 
+                    "width": 1107, 
+                    "unicode": 72, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "I", 
+                    "unicodeHex": "49", 
+                    "width": 440, 
+                    "unicode": 73, 
+                    "left": 140
+                }, 
+                {
+                    "right": 120, 
+                    "name": "K", 
+                    "unicodeHex": "4B", 
+                    "width": 1009, 
+                    "unicode": 75, 
+                    "left": 140
+                }, 
+                {
+                    "right": 20, 
+                    "name": "L", 
+                    "unicodeHex": "4C", 
+                    "width": 915, 
+                    "unicode": 76, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "M", 
+                    "unicodeHex": "4D", 
+                    "width": 1221, 
+                    "unicode": 77, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "N", 
+                    "unicodeHex": "4E", 
+                    "width": 1127, 
+                    "unicode": 78, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "O", 
+                    "unicodeHex": "4F", 
+                    "width": 1143, 
+                    "unicode": 79, 
+                    "left": 140
+                }, 
+                {
+                    "right": 75, 
+                    "name": "P", 
+                    "unicodeHex": "50", 
+                    "width": 1039, 
+                    "unicode": 80, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Q", 
+                    "unicodeHex": "51", 
+                    "width": 1143, 
+                    "unicode": 81, 
+                    "left": 140
+                }, 
+                {
+                    "right": 75, 
+                    "name": "R", 
+                    "unicodeHex": "52", 
+                    "width": 1103, 
+                    "unicode": 82, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "U", 
+                    "unicodeHex": "55", 
+                    "width": 1075, 
+                    "unicode": 85, 
+                    "left": 140
+                }, 
+                {
+                    "right": 105, 
+                    "name": "bracketleft", 
+                    "unicodeHex": "5B", 
+                    "width": 488, 
+                    "unicode": 91, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "bar", 
+                    "unicodeHex": "7C", 
+                    "width": 440, 
+                    "unicode": 124, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "brokenbar", 
+                    "unicodeHex": "A6", 
+                    "width": 440, 
+                    "unicode": 166, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "mu", 
+                    "unicodeHex": "3BC", 
+                    "width": 1006, 
+                    "unicode": 956, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Agrave", 
+                    "unicodeHex": "C0", 
+                    "width": 1084, 
+                    "unicode": 192, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Aacute", 
+                    "unicodeHex": "C1", 
+                    "width": 1084, 
+                    "unicode": 193, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Acircumflex", 
+                    "unicodeHex": "C2", 
+                    "width": 1084, 
+                    "unicode": 194, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Atilde", 
+                    "unicodeHex": "C3", 
+                    "width": 1084, 
+                    "unicode": 195, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Adieresis", 
+                    "unicodeHex": "C4", 
+                    "width": 1084, 
+                    "unicode": 196, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Aring", 
+                    "unicodeHex": "C5", 
+                    "width": 1084, 
+                    "unicode": 197, 
+                    "left": 140
+                }, 
+                {
+                    "right": 90, 
+                    "name": "AE", 
+                    "unicodeHex": "C6", 
+                    "width": 1446, 
+                    "unicode": 198, 
+                    "left": 140
+                }, 
+                {
+                    "right": 75, 
+                    "name": "Ccedilla", 
+                    "unicodeHex": "C7", 
+                    "width": 975, 
+                    "unicode": 199, 
+                    "left": 140
+                }, 
+                {
+                    "right": 100, 
+                    "name": "Egrave", 
+                    "unicodeHex": "C8", 
+                    "width": 984, 
+                    "unicode": 200, 
+                    "left": 140
+                }, 
+                {
+                    "right": 100, 
+                    "name": "Eacute", 
+                    "unicodeHex": "C9", 
+                    "width": 984, 
+                    "unicode": 201, 
+                    "left": 140
+                }, 
+                {
+                    "right": 100, 
+                    "name": "Ecircumflex", 
+                    "unicodeHex": "CA", 
+                    "width": 984, 
+                    "unicode": 202, 
+                    "left": 140
+                }, 
+                {
+                    "right": 100, 
+                    "name": "Edieresis", 
+                    "unicodeHex": "CB", 
+                    "width": 984, 
+                    "unicode": 203, 
+                    "left": 140
+                }, 
+                {
+                    "right": 121, 
+                    "name": "Igrave", 
+                    "unicodeHex": "CC", 
+                    "width": 440, 
+                    "unicode": 204, 
+                    "left": 18
+                }, 
+                {
+                    "right": 18, 
+                    "name": "Iacute", 
+                    "unicodeHex": "CD", 
+                    "width": 440, 
+                    "unicode": 205, 
+                    "left": 121
+                }, 
+                {
+                    "right": -25, 
+                    "name": "Icircumflex", 
+                    "unicodeHex": "CE", 
+                    "width": 440, 
+                    "unicode": 206, 
+                    "left": -25
+                }, 
+                {
+                    "right": 6, 
+                    "name": "Idieresis", 
+                    "unicodeHex": "CF", 
+                    "width": 440, 
+                    "unicode": 207, 
+                    "left": 7
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Ntilde", 
+                    "unicodeHex": "D1", 
+                    "width": 1127, 
+                    "unicode": 209, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Ograve", 
+                    "unicodeHex": "D2", 
+                    "width": 1143, 
+                    "unicode": 210, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Oacute", 
+                    "unicodeHex": "D3", 
+                    "width": 1143, 
+                    "unicode": 211, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Ocircumflex", 
+                    "unicodeHex": "D4", 
+                    "width": 1143, 
+                    "unicode": 212, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Otilde", 
+                    "unicodeHex": "D5", 
+                    "width": 1143, 
+                    "unicode": 213, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Odieresis", 
+                    "unicodeHex": "D6", 
+                    "width": 1143, 
+                    "unicode": 214, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Oslash", 
+                    "unicodeHex": "D8", 
+                    "width": 1143, 
+                    "unicode": 216, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Ugrave", 
+                    "unicodeHex": "D9", 
+                    "width": 1006, 
+                    "unicode": 217, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Uacute", 
+                    "unicodeHex": "DA", 
+                    "width": 1006, 
+                    "unicode": 218, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Ucircumflex", 
+                    "unicodeHex": "DB", 
+                    "width": 1006, 
+                    "unicode": 219, 
+                    "left": 140
+                }, 
+                {
+                    "right": 140, 
+                    "name": "Udieresis", 
+                    "unicodeHex": "DC", 
+                    "width": 1006, 
+                    "unicode": 220, 
+                    "left": 140
+                }, 
+                {
+                    "right": 125, 
+                    "name": "Thorn", 
+                    "unicodeHex": "DE", 
+                    "width": 792, 
+                    "unicode": 222, 
+                    "left": 140
+                }, 
+                {
+                    "right": 118, 
+                    "name": "germandbls", 
+                    "unicodeHex": "DF", 
+                    "width": 1024, 
+                    "unicode": 223, 
+                    "left": 140
+                }, 
+                {}, 
+                {}, 
+                {}, 
+                {}, 
+                {}, 
+                {}, 
+                {}, 
+                {
+                    "right": 140, 
+                    "name": "exclam", 
+                    "unicodeHex": "21", 
+                    "width": 440, 
+                    "unicode": 33, 
+                    "left": 140
+                }
+            ], 
+            "name": "straightLeft"
+        }, 
+        {
+            "chars": [
+                {
+                    "right": 110, 
+                    "name": "hyphen", 
+                    "unicodeHex": "2D", 
+                    "width": 799, 
+                    "unicode": 45, 
+                    "left": 110
+                }, 
+                {
+                    "right": 110, 
+                    "name": "underscore", 
+                    "unicodeHex": "5F", 
+                    "width": 1066, 
+                    "unicode": 95, 
+                    "left": 110
+                }, 
+                {
+                    "right": 110, 
+                    "name": "endash", 
+                    "unicodeHex": "2013", 
+                    "width": 845, 
+                    "unicode": 8211, 
+                    "left": 110
+                }, 
+                {
+                    "right": 110, 
+                    "name": "emdash", 
+                    "unicodeHex": "2014", 
+                    "width": 1066, 
+                    "unicode": 8212, 
+                    "left": 110
+                }, 
+                {
+                    "right": 110, 
+                    "name": "logicalnot", 
+                    "unicodeHex": "AC", 
+                    "width": 1147, 
+                    "unicode": 172, 
+                    "left": 110
+                }, 
+                {
+                    "right": 110, 
+                    "name": "minus", 
+                    "unicodeHex": "2212", 
+                    "width": 800, 
+                    "unicode": 8722, 
+                    "left": 110
+                }, 
+                {
+                    "right": 110, 
+                    "name": "hyphen", 
+                    "unicodeHex": "2D", 
+                    "width": 799, 
+                    "unicode": 45, 
+                    "left": 110
+                }, 
+                {
+                    "right": 110, 
+                    "name": "equal", 
+                    "unicodeHex": "3D", 
+                    "width": 800, 
+                    "unicode": 61, 
+                    "left": 110
+                }, 
+                {
+                    "right": 110, 
+                    "name": "asciitilde", 
+                    "unicodeHex": "7E", 
+                    "width": 1041, 
+                    "unicode": 126, 
+                    "left": 110
+                }
+            ], 
+            "name": "dashes"
+        }, 
+        {
+            "chars": [
+                {
+                    "right": 115, 
+                    "name": "colon", 
+                    "unicodeHex": "3A", 
+                    "width": 391, 
+                    "unicode": 58, 
+                    "left": 115
+                }, 
+                {
+                    "right": 115, 
+                    "name": "semicolon", 
+                    "unicodeHex": "3B", 
+                    "width": 391, 
+                    "unicode": 59, 
+                    "left": 34
+                }, 
+                {
+                    "right": 115, 
+                    "name": "comma", 
+                    "unicodeHex": "2C", 
+                    "width": 391, 
+                    "unicode": 44, 
+                    "left": 34
+                }, 
+                {
+                    "right": 115, 
+                    "name": "period", 
+                    "unicodeHex": "2E", 
+                    "width": 391, 
+                    "unicode": 46, 
+                    "left": 115
+                }, 
+                {
+                    "right": 115, 
+                    "name": "colon", 
+                    "unicodeHex": "3A", 
+                    "width": 391, 
+                    "unicode": 58, 
+                    "left": 115
+                }, 
+                {
+                    "right": 115, 
+                    "name": "semicolon", 
+                    "unicodeHex": "3B", 
+                    "width": 391, 
+                    "unicode": 59, 
+                    "left": 34
+                }, 
+                {
+                    "right": 115, 
+                    "name": "periodcentered", 
+                    "unicodeHex": "B7", 
+                    "width": 391, 
+                    "unicode": 183, 
+                    "left": 115
+                }, 
+                {}
+            ], 
+            "name": "points"
+        }
+    ]
+}
