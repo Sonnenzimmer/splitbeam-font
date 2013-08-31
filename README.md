@@ -30,11 +30,16 @@ package.json                  >> The npm definition to have the grunt task runni
 ### Build from source
 To buld the font from the original file:
 
+
 #### Requirements
 * FontLab 5.x on Mac OS X
 * robofab (updated build)
-* fontstep see [fontstep](https://github.com/signalwerk/fontstep)
-* FLGlyphBuilder see [FLGlyphBuilder](http://scripts.sil.org/FLGlyphBuilder)
+* [fontstep](https://github.com/signalwerk/fontstep)
+* [FLGlyphBuilder](http://scripts.sil.org/FLGlyphBuilder)
+* [Adobe Font Development Kit for OpenType](http://www.adobe.com/devnet/opentype/afdko.html)
+* [sfnt2woff](http://people.mozilla.com/~jkew/woff/)
+* [ttf2eot](https://code.google.com/p/ttf2eot/)
+* Passion & Luck
 
 #### Steps
 * open SplitBean-Regular.vfb 
