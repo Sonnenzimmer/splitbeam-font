@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.fitted" format="1">
+  <advance width="994"/>
+  <unicode hex="F63E"/>
+  <outline>
+    <contour>
+      <point x="874" y="790" type="line"/>
+      <point x="874" y="64" type="line"/>
+      <point x="631" y="-45" type="line"/>
+      <point x="140" y="50" type="line"/>
+      <point x="140" y="1400" type="line"/>
+      <point x="845" y="1400" type="line"/>
+      <point x="845" y="1240" type="line"/>
+      <point x="300" y="1240" type="line"/>
+      <point x="300" y="790" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="182" type="line"/>
+      <point x="611" y="122" type="line"/>
+      <point x="714" y="168" type="line"/>
+      <point x="714" y="630" type="line"/>
+      <point x="300" y="630" type="line"/>
+    </contour>
+  </outline>
+</glyph>

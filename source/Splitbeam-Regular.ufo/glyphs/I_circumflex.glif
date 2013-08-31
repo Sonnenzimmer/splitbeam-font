@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icircumflex" format="1">
+  <advance width="440"/>
+  <unicode hex="00CE"/>
+  <outline>
+    <contour>
+      <point x="300" y="1180" type="line"/>
+      <point x="140" y="1180" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="300" y="0" type="line"/>
+    </contour>
+    <component base="circumflex" xOffset="-120"/>
+  </outline>
+</glyph>

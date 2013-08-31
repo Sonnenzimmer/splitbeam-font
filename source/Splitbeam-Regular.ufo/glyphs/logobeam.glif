@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logobeam" format="1">
+  <advance width="0"/>
+  <unicode hex="E006"/>
+  <outline>
+    <contour>
+      <point x="-584" y="670" type="curve"/>
+      <point x="-185" y="584" type="line"/>
+      <point x="-209" y="472" type="line"/>
+      <point x="-631" y="563" type="line"/>
+      <point x="-608" y="594"/>
+      <point x="-592" y="631"/>
+    </contour>
+    <contour>
+      <point x="-628" y="878" type="curve"/>
+      <point x="-209" y="969" type="line"/>
+      <point x="-185" y="857" type="line"/>
+      <point x="-583" y="771" type="line"/>
+      <point x="-590" y="810"/>
+      <point x="-606" y="847"/>
+    </contour>
+    <contour>
+      <point x="-1477" y="969" type="line"/>
+      <point x="-1075" y="883" type="line"/>
+      <point x="-1098" y="851"/>
+      <point x="-1115" y="814"/>
+      <point x="-1122" y="775" type="curve"/>
+      <point x="-1501" y="857" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1501" y="584" type="line"/>
+      <point x="-1121" y="666" type="line"/>
+      <point x="-1113" y="626"/>
+      <point x="-1096" y="590"/>
+      <point x="-1073" y="559" type="curve"/>
+      <point x="-1477" y="472" type="line"/>
+    </contour>
+  </outline>
+</glyph>

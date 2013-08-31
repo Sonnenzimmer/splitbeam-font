@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.fitted" format="1">
+  <advance width="896"/>
+  <unicode hex="F641"/>
+  <outline>
+    <contour>
+      <point x="447" y="-45" type="line"/>
+      <point x="125" y="14" type="line"/>
+      <point x="155" y="172" type="line"/>
+      <point x="438" y="119" type="line"/>
+      <point x="596" y="168" type="line"/>
+      <point x="596" y="629" type="line"/>
+      <point x="120" y="629" type="line"/>
+      <point x="120" y="1334" type="line"/>
+      <point x="366" y="1445" type="line"/>
+      <point x="756" y="1344" type="line"/>
+      <point x="756" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="596" y="790" type="line"/>
+      <point x="596" y="1220" type="line"/>
+      <point x="380" y="1276" type="line"/>
+      <point x="280" y="1231" type="line"/>
+      <point x="280" y="790" type="line"/>
+    </contour>
+  </outline>
+</glyph>

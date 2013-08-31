@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ugrave" format="1">
+  <advance width="1006"/>
+  <unicode hex="00D9"/>
+  <outline>
+    <contour>
+      <point x="866" y="70" type="line"/>
+      <point x="866" y="1180" type="line"/>
+      <point x="705" y="1180" type="line"/>
+      <point x="705" y="172" type="line"/>
+      <point x="600" y="122" type="line"/>
+      <point x="300" y="180" type="line"/>
+      <point x="300" y="1180" type="line"/>
+      <point x="140" y="1180" type="line"/>
+      <point x="140" y="48" type="line"/>
+      <point x="620" y="-45" type="line"/>
+    </contour>
+    <component base="grave" xOffset="275"/>
+  </outline>
+</glyph>

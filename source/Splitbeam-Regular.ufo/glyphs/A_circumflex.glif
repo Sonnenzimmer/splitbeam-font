@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflex" format="1">
+  <advance width="1084"/>
+  <unicode hex="00C2"/>
+  <outline>
+    <contour>
+      <point x="944" y="0" type="line"/>
+      <point x="784" y="0" type="line"/>
+      <point x="784" y="368" type="line"/>
+      <point x="700" y="329" type="line"/>
+      <point x="300" y="393" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="140" y="1051" type="line"/>
+      <point x="382" y="1190" type="line"/>
+      <point x="944" y="1069" type="line"/>
+    </contour>
+    <contour>
+      <point x="784" y="940" type="line"/>
+      <point x="409" y="1021" type="line"/>
+      <point x="300" y="958" type="line"/>
+      <point x="300" y="556" type="line"/>
+      <point x="677" y="495" type="line"/>
+      <point x="784" y="545" type="line"/>
+    </contour>
+    <component base="circumflex" xOffset="221"/>
+  </outline>
+</glyph>

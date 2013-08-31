@@ -1,0 +1,88 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+@TabNumber = [zero one two three four five six seven eight nine];
+@PropNumber = [zero.fitted one.fitted two.fitted three.fitted four.fitted five.fitted six.fitted seven.fitted eight.fitted nine.fitted];
+@LogoZeroWidth = [logobeam logofill];
+@LogoStdWidth = [logobeam.calt logofill.calt];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+feature pnum { # Proportional Figures
+    sub @TabNumber by @PropNumber;
+} pnum;
+feature aalt{
+  feature pnum;
+} aalt;
+feature kern {
+  #the logo magic
+  pos logoeye @LogoStdWidth -1686;
+  pos @LogoStdWidth @LogoStdWidth -1686;
+} kern;
+feature calt {
+  #the logo magic
+  sub logoeye @LogoZeroWidth' by @LogoStdWidth; 
+  sub @LogoStdWidth @LogoZeroWidth' by @LogoStdWidth; 
+} calt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
