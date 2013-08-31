@@ -18,7 +18,7 @@
    ========================================================================== */
 .sb-glyphicons {
     display: inline-block;
-    font-family: 'Splitbeam';
+    font-family: "Splitbeam";
     font-style: normal;
     font-weight: normal;
 }
@@ -32,37 +32,37 @@
 
 
 .sb-glyphicon-logo:before {
-  content: "\E002";
+  content: "";
 }
 .sb-glyphicon-logoeye:before {
-  content: "\E004";
+  content: "";
 }
 .sb-glyphicon-thumbbackup:before {
-  content: "\F03C";
+  content: "";
 }
 .sb-glyphicon-sparrow:before {
-  content: "\E020";
+  content: "";
 }
 .sb-glyphicon-envelope:before {
-  content: "\2709";
+  content: "✉";
 }
 .sb-glyphicon-warningsign:before {
-  content: "\26A0";
+  content: "⚠";
 }
 .sb-glyphicon-printer:before {
-  content: "\F036";
+  content: "";
 }
 .sb-glyphicon-returnsymbol:before {
-  content: "\23CE";
+  content: "⏎";
 }
 .sb-glyphicon-whitecircle:before {
-  content: "\25CB";
+  content: "○";
 }
 .sb-glyphicon-blackcircle:before {
-  content: "\25CF";
+  content: "●";
 }
 .sb-glyphicon-fontversion:before {
-  content: "\E000";
+  content: "";
 }
 
 

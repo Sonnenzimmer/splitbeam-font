@@ -18,7 +18,7 @@
    ========================================================================== */
 .sb-glyphicons {
     display: inline-block;
-    font-family: 'Splitbeam';
+    font-family: "Splitbeam";
     font-style: normal;
     font-weight: normal;
 }
@@ -29,9 +29,8 @@
 {{#each Splitbeam-Regular.classes}}
     {{#is name "printCSS"}}
         {{#each chars}}
-        {{! the uppercase is just a crude way of escaping...}}
 .sb-glyphicon-{{dashify name}}:before {
-  content: "{{uppercase '\'}}{{unicodeHex}}";
+  content: "{{unicodeChar}}";
 }
         {{/each}}
     {{/is}}
